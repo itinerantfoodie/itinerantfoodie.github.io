@@ -46,10 +46,10 @@ aws --profile=perceptionz s3 sync ./_site s3://itinerantfoodie.com --region ap-n
 
 ### Updating Challenge
 ```bash
-aws --profile=perceptionz s3 sync ./ssl-challenge s3://itinerantfoodie.com/.well-known/acme-challenge --region us-east-1 --acl public-read
+aws --profile=perceptionz s3 sync ./ssl-challenge s3://static.itinerantfoodie.com/.well-known/acme-challenge --region us-east-1 --acl public-read
 
 # Run for each redirected hostname (because it seems to follow redirects to itinerantfoodie.com)
-aws --profile=perceptionz s3 sync ./ssl-challenge s3://itinerantfoodie.com/.well-known/acme-challenge --region ap-northeast-2 --acl public-read
+aws --profile=perceptionz s3 sync ./ssl-challenge s3://static.itinerantfoodie.com/.well-known/acme-challenge --region ap-northeast-2 --acl public-read
 ```
 
 ### Copying Server certificates and Updating AWS IAM
