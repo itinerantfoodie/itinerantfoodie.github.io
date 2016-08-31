@@ -1,4 +1,6 @@
 # Itinerant Foodie V2
+[![Build Status](https://travis-ci.org/nolim1t/itinerantfoodie.static.svg?branch=master)](https://travis-ci.org/nolim1t/itinerantfoodie.static)
+
 ## About
 This is a modified fork of my tech blog.
 
@@ -19,7 +21,9 @@ Simple run the following command
 bundle exec jekyll serve
 ```
 
-## Deploying
+## Deploying (reprecated)
+Right now deployments are done simply by doing a git push to github (It's that easy).
+
 ### Step 1
 ```bash
 rm -fr _site
