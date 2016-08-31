@@ -1,8 +1,8 @@
 markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
-title: "nolim1t.co :: thoughts become things"
-description: "nolim1t.co is a tech blog about code and sometimes notable conferences that I'm following or attending"
+title: "itinerantfoodie :: eat, sleep, and travel"
+description: "itinerantfoodie is a travel / food / lifestyle blog"
 url: "http://www.nolim1t.co"
 author: "@nolim1t"
 gems:
