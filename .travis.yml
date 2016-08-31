@@ -6,7 +6,6 @@ before_install:
     - "gem install bundler"
 install:
     - "bundle install"
-    - "bundle exec jekyll build"
 deploy:
     provider: s3
     access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
