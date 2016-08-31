@@ -10,5 +10,7 @@ before_install:
     - "sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws"
     - "./awscli-bundle/install -b ~/bin/aws"
     - "./awscli-bundle/install -h"
+    - "rm -fr _site/awscli-bundle.zip"
+    - "rm -fr _site/awscli-bundle"    
 install:
     - "bundle install"
