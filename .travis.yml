@@ -1,6 +1,11 @@
 language: ruby
-ruby:
-    - "2.3.0"
+rvm:
+    - "2.2"
+    - "2.3"
+before_install:
+    - "sudo apt-get update -qq"
+    - "rvm install 2.1.5"
+    - "gem install bundler"
 install:
     - "bundle install"
     - "bundle exec jekyll build"
