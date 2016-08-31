@@ -1,3 +1,4 @@
+.well-known
 *.sw*
 _site/
 Gemfile.lock
