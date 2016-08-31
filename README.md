@@ -1,6 +1,6 @@
-# nolim1t.github.io / nolim1t.co
+# Itinerant Foodie V2
 ## About
-This is the source for the github site
+This is a modified fork of my tech blog.
 
 ## Creating a post
 Refer to [this guide](http://jekyllrb.com/docs/posts/)
@@ -17,4 +17,16 @@ Simple run the following command
 
 ```bash
 bundle exec jekyll serve
+```
+
+## Deploying
+### Step 1
+```bash
+rm -fr _site
+bundle exec jekyll build
+```
+
+### Step 2
+```bash
+aws --profile=perceptionz s3 sync ./_site s3://v2.itinerantfoodie.com --region us-east-1 --exclude '.DS_Store' --exclude 'node_modules/*' --exclude '.git/*' --exclude '.gitignore' --acl public-read
 ```
