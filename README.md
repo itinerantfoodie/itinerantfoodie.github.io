@@ -39,6 +39,14 @@ aws --profile=perceptionz s3 sync ./_site s3://itinerantfoodie.com --region ap-n
 ```
 
 ## Updating SSL certificate
+SSL domains (this should all get added to the certificate)
+
+* static.itinerantfoodie.com
+* itinerantfoodie.com
+* www.itinerantfoodie.com
+* v2.itinerantfoodie.com
+
+
 ### Command to run
 ```bash
 ./certbot-auto certonly -a manual
