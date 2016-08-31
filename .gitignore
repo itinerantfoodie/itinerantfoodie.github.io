@@ -1,3 +1,4 @@
+ssl-challenge/*
 .well-known
 *.sw*
 _site/

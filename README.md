@@ -37,3 +37,27 @@ aws --profile=perceptionz s3 rm --recursive s3://v2.itinerantfoodie.com/
 ```bash
 aws --profile=perceptionz s3 sync ./_site s3://v2.itinerantfoodie.com --region us-east-1 --exclude '.DS_Store' --exclude 'node_modules/*' --exclude '.git/*' --exclude '.gitignore' --exclude 'Gemfile.*' --exclude '*.md' --acl public-read
 ```
+
+## Updating SSL certificate
+### Command to run
+```bash
+./certbot-auto certonly -a manual
+```
+
+### Updating Challenge
+```bash
+aws --profile=perceptionz s3 sync ./ssl-challenge s3://v2.itinerantfoodie.com/.well-known/acme-challenge --region us-east-1 --acl public-read
+
+# Run for each redirected hostname (because it seems to follow redirects to static.itinerantfoodie.com)
+aws --profile=perceptionz s3 sync ./ssl-challenge s3://static.itinerantfoodie.com/.well-known/acme-challenge --region ap-northeast-2 --acl public-read
+```
+
+### Copying Server certificates and Updating AWS IAM
+```bash
+sudo cat /etc/letsencrypt/live/itinerantfoodie.com/cert.pem > /home/ubuntu/itinerantfoodie.com/cert.pem ; sudo cat /etc/letsencrypt/live/itinerantfoodie.com/privkey.pem > /home/ubuntu/itinerantfoodie.com/privkey.pem ;  sudo cat /etc/letsencrypt/live/itinerantfoodie.com/chain.pem > /home/ubuntu/itinerantfoodie.com/chain.pem ; sudo chown -R ubuntu /home/ubuntu/itinerantfoodie.com
+
+aws iam upload-server-certificate --server-certificate-name itinerantfoodie`python -c "import datetime; import time; import math; print(math.floor(time.mktime(datetime.datetime.today().timetuple())))"` --certificate-body file:///home/ubuntu/itinerantfoodie.com/cert.pem --private-key file:///home/ubuntu/itinerantfoodie.com/privkey.pem --certificate-chain file:///home/ubuntu/itinerantfoodie.com/chain.pem --path /cloudfront/
+
+```
+
+Then note the server certificate
