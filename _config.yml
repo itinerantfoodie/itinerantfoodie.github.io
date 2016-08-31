@@ -5,6 +5,8 @@ title: "itinerantfoodie :: eat, sleep, and travel"
 description: "itinerantfoodie is a travel / food / lifestyle blog"
 url: "http://www.nolim1t.co"
 author: "@nolim1t"
+feed:
+  path: /rss/
 gems:
   - jekyll-paginate
   - jekyll-feed
