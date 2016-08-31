@@ -3,17 +3,12 @@ rvm:
     - 2.3.0
 before_install:
     - "sudo apt-get update -qq"
+    - "sudo apt-get install -qq wget curl"
     - "gem install bundler"
+    - "wget https://s3.amazonaws.com/aws-cli/awscli-bundle.zip"
+    - "unzip awscli-bundle.zip"
+    - "sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws"
+    - "./awscli-bundle/install -b ~/bin/aws"
+    - "./awscli-bundle/install -h"
 install:
     - "bundle install"
-deploy:
-    provider: s3
-    access_key_id: $AWS_ACCESS_KEY
-    secret_access_key: $AWS_SECRET_KEY
-    bucket: itinerantfoodie.com
-    endpoint: itinerantfoodie.com.s3-website.ap-northeast-2.amazonaws.com
-    region: $AWS_DEFAULT_REGION
-    skip_cleanup: true
-    local-dir: _site
-    acl: public_read
-    detect_encoding: true
