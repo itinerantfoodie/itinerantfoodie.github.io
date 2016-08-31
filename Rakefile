@@ -8,5 +8,6 @@ task :default do
 end
 
 task :serve do
-  sh "bundle exec jekyll serve"  
+  sh "rm -fr _site"  
+  sh "bundle exec jekyll serve"
 end
