@@ -8,7 +8,7 @@ install:
     - "bundle install"
 deploy:
     provider: s3
-    access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
+    access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
     bucket: itinerantfoodie.com
     endpoint: itinerantfoodie.com.s3-website.ap-northeast-2.amazonaws.com
