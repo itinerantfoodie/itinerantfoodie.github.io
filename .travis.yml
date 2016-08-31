@@ -1,10 +1,11 @@
 language: ruby
 rvm:
-    - "2.2"
-    - "2.3"
+    - 2.0.0
+    - 2.1
+    - 2.2
+    - 2.3.0
 before_install:
     - "sudo apt-get update -qq"
-    - "rvm install 2.1.5"
     - "gem install bundler"
 install:
     - "bundle install"
