@@ -12,6 +12,11 @@ task :serve do
   sh "bundle exec jekyll serve"
 end
 
+task :servedrafts do
+  sh "rm -fr _site"
+  sh "bundle exec jekyll serve --drafts"
+end
+
 # Just a simple rake task which helps sync whats in the SSL challenge directory (not runnable from CI)
 task :sslchallenge do
   sh "aws --profile=perceptionz s3 sync ./ssl-challenge s3://static.itinerantfoodie.com/.well-known/acme-challenge --region ap-northeast-2 --acl public-read"
