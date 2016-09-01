@@ -45,8 +45,8 @@ aws --profile=perceptionz s3 sync ./_site s3://itinerantfoodie.com --region ap-n
 ## Updating SSL certificate
 SSL domains (this should all get added to the certificate)
 
-* static.itinerantfoodie.com
 * itinerantfoodie.com
+* static.itinerantfoodie.com
 * www.itinerantfoodie.com
 * v2.itinerantfoodie.com
 
@@ -62,6 +62,11 @@ aws --profile=perceptionz s3 sync ./ssl-challenge s3://static.itinerantfoodie.co
 
 # Run for each redirected hostname (because it seems to follow redirects to itinerantfoodie.com)
 aws --profile=perceptionz s3 sync ./ssl-challenge s3://static.itinerantfoodie.com/.well-known/acme-challenge --region ap-northeast-2 --acl public-read
+```
+
+or simply Just
+```bash
+rake sslchallenge
 ```
 
 ### Copying Server certificates and Updating AWS IAM
