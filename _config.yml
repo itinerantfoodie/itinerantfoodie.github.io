@@ -3,7 +3,7 @@ paginate: 5
 paginate_path: "/:num/"
 title: "itinerantfoodie :: eat, sleep, and travel"
 description: "itinerantfoodie is a travel / food / lifestyle blog"
-url: "http://www.nolim1t.co"
+url: "https://itinerantfoodie.com"
 author: "@nolim1t"
 feed:
   path: /rss/
