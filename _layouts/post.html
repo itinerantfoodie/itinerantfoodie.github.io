@@ -10,7 +10,7 @@ layout: default
           {{ page.date | date: "%-d %B %Y" }}
           <br />
           {% for tag in page.tags %}
-          <i class="fa fa-tag" aria-hidden="true"></i> {{ tag }}
+          <span style="float: left; margin-right: 15px; "><i class="fa fa-tag" aria-hidden="true"></i> {{ tag }}</span>
           {% endfor %}
           <br /><br />
         </div>
