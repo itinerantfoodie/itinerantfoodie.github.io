@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "Cathay Pacific: The Pier Business Lounge (2016 Edition)"
+categories:
+  - travel
+tags:
+  - travel
+  - lounges
 ---
 ![Entrance 1](https://images.itinerantfoodie.com/thepierbusiness-hkg/thepierbusiness-entrance.png)
 

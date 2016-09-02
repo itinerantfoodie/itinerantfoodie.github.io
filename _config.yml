@@ -1,4 +1,5 @@
 markdown: kramdown
+permalink: /post/:categories/:year-:month-:day/:slug.html
 paginate: 5
 paginate_path: "/:num/"
 title: "itinerantfoodie :: eat, sleep, and travel"
