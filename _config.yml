@@ -7,7 +7,7 @@ description: "itinerantfoodie is a travel / food / lifestyle blog"
 url: "https://itinerantfoodie.com"
 author: "@nolim1t"
 feed:
-  path: /rss/
+  path: /rss/index.html
 gems:
   - jekyll-paginate
   - jekyll-feed
