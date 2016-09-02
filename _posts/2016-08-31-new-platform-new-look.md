@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "New platform, New look"
+categories: announce
+tags:
+  - news
+  - announcement
 ---
 
 After a temporary hiatus in 2016 and lots of photos. See [here(1)](https://instagram.com/nolim1t) and  [here(2)](https://vsco.co/nolim1t) - we're finally back with a new look and back to basics as an MVP.

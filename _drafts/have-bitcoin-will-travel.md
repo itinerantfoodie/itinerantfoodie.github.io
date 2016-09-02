@@ -3,11 +3,10 @@ layout: post
 title: "Have Bitcoin, Will Travel - guide to Nomad friendly cities (Asian Edition)"
 categories:
   - travel
-  tags:
-    - travel
-    - bitcoin  
+tags:
+  - travel
+  - bitcoin
 ---
-
 As a nomad, dealing with currency exchange is very normal. So essentially, I try to treat bitcoin like a currency only because converting to bitcoin incurs almost no fees.
 
 I also have a preference for accepting payments in bitcoin too, and have preferences over businesses that take it. Got to put your money where your mouth is and keep the economy flowing (money, even gold has inherently no value unless you spend it).

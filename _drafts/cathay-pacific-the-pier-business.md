@@ -6,6 +6,7 @@ categories:
 tags:
   - travel
   - lounges
+  - cathaypacific
 ---
 ![Entrance 1](https://images.itinerantfoodie.com/thepierbusiness-hkg/thepierbusiness-entrance.png)
 
