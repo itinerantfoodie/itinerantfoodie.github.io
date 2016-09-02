@@ -7,22 +7,7 @@ layout: default
           <article class="post">
         <div class="title">
           <h2>{{ page.title }}</h2>
-          {{ page.date | date: "%-d %B %Y" }} in
-          {% if page.categories != undefined %}
-            {% for category in page.categories %}
-              {% if category == "travel" %}
-                Travel <i class="fa fa-plane" aria-hidden="true"></i>
-              {% elsif category == "food" %}
-                Food <i class="fa fa-cutlery" aria-hidden="true"></i>
-              {% elsif category == "announce" %}
-                Announce <i class="fa fa-newspaper-o" aria-hidden="true"></i>
-              {% else %}
-                Unknown Category
-              {% endif %}
-            {% endfor %}
-          {% else %}
-            Unfiled
-          {% endif %}
+          {{ page.date | date: "%-d %B %Y" }}
           <br />
           {% for tag in page.tags %}
           <i class="fa fa-tag" aria-hidden="true"></i> {{ tag }}
