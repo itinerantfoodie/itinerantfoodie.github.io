@@ -1,5 +1,5 @@
 # Itinerant Foodie V2
-[![Build Status](https://travis-ci.org/nolim1t/itinerantfoodie.static.svg?branch=master)](https://travis-ci.org/nolim1t/itinerantfoodie.static)
+[![Build Status](https://travis-ci.org/itinerantfoodie/itinerantfoodie.static.svg?branch=master)](https://travis-ci.org/nolim1t/itinerantfoodie.static)
 
 ## About
 This is a modified fork of my tech blog.
