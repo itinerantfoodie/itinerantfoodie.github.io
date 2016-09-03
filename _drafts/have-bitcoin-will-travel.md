@@ -4,8 +4,8 @@ title: "Have Bitcoin, Will Travel - guide to Nomad friendly cities (Asian Editio
 categories:
   - travel
 tags:
-  - travel
-  - bitcoin
+  - Travel
+  - Bitcoin
 ---
 As a nomad, dealing with currency exchange is very normal. So essentially, I try to treat bitcoin like a currency only because converting to bitcoin incurs almost no fees.
 
@@ -24,15 +24,18 @@ There's also two up and coming places in Tai Kok Tsui which take it too. Again I
 ## Taiwan
 Thanks to a company called Bitoex, you can spend your bitcoins at any FamilyMart in Taiwan (there are a lot of them). That way you can buy your groceries.
 
-There is also two guesthouses/hostels which also take bitcoin (unconfirmed), and a few bars.
+There is also a hostel which also take bitcoin (unconfirmed), and a [co-living space](http://www.digiquarters.com/) called ["DigiQuarters"](http://www.digiquarters.com/) which will eventually take bitcoin. And also a B&B in between Beitou and Shin-Beitou which takes bitcoin (source: [here(1)](http://thesolosinger.com/), [here(2)](https://www.maicoin.com/en/faq/about-maicoin?selected=12)).
 
-I think with the FamilyMart+Bitoex partnership, living bitcoin is quite feasible in Taiwan.
+I think with the FamilyMart+Bitoex partnership, living bitcoin is quite feasible in Taiwan as FamilyMart stores are everywhere. All there needs is a partnership like coins.ph is.
 
 There's also at least one cafe in Taipei which takes it (in Beitou) and one bar on Kaohsiung which takes it. Also if you're looking at staying in Taiwan on the long term, feel free to contact me as I can put you in touch with Bitcoin friendly landlords.
 
 ![Black Dog Tavern Bitcoin](https://images.itinerantfoodie.com/have-bitcoin-will-travel/blackdog.png)
 
-In addition, I think theres a cafe which has a bitcoin ATM.
+In addition, theres a cafe which has a bitcoin ATM (Cofa Cafe at No. 371 Bade Road Section 2
+Songshan District).
+
+![Lamassu Bitcoin ATM at Cofa Cafe](https://images.itinerantfoodie.com/have-bitcoin-will-travel/bitcoin_ATM_Taipei.png)
 
 I think, Taiwan is quite comparable to Japan where there is a lot of options.
 
@@ -46,9 +49,19 @@ So far I haven’t explored it that much, but I do know that bitcoin thailand le
 There's a coworking and coliving space in Siem Reap called AngorHub which takes Bitcoin. Also there's some places in Phenom Penh which take it too.
 
 ## Japan
-Now we’re talking. Especially if we bring Tokyo in the scene. You can’t pay rent in bitcoin yet, but there are many bars and restaurants which take the currency thanks to some very enthusiastic members of the local bitcoin community there. In Kyoto, there's even a capsule hotel that supports bitcoin.
+Now we’re talking. Especially if we bring Tokyo in the scene. There is a LOT of bitcoin places, scattered around Roppongi. Also two ATMs.
+
+You can’t pay rent in bitcoin yet, but there are many bars and restaurants which take the currency thanks to some very enthusiastic members of the local bitcoin community there.
 
 ![Pink Cow](https://images.itinerantfoodie.com/have-bitcoin-will-travel/pinkcow.png)
 
+In Kyoto, there's even a capsule hotel that supports bitcoin.
+
+Japan also is one of the first nations [who recognize bitcoin as a currency](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money) (another [source](file:///www.japantimes.co.jp/news/2016/03/04/business/tech/japan-oks-recognizing-virtual-currencies-similar-real-money)). After all, they are in the future.
+
 ## Phillipines
-Thanks to the Phillipines being a remittance corridor a lot of Bitcoin startups have decided to profit from this by using Bitcoin as a cheaper/faster  alternative to moving money across borders. One notable startup is called coins.ph
+Thanks to the Phillipines being a remittance corridor a lot of Bitcoin startups have decided to profit from this by using Bitcoin as a cheaper/faster  alternative to moving money across borders. One notable startup is called [coins.ph](https://coins.ph) which let you cash out at any Security Bank ATM ([ATM locator](https://www.securitybank.com/map/)).
+
+## All purpose services
+
+There's a service called [BitRefill](https://www.bitrefill.com/) which lets you top up a China, Phillipines, Thailand, Malaysia, Cambodia, Vietnam, Laos, and Singapore sim. Surprisingly, Singapore is the only developed Asian country which lets you do that.
