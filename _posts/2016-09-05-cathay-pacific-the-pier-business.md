@@ -26,6 +26,7 @@ tags:
 * It's on the far end of the terminal. Beware if your gate is in the 500 range (allow at least 25 mins to get to your gate).
 * You'll wish you had longer to spend here.
 
+![Entrance 1](https://images.itinerantfoodie.com/thepierbusiness-hkg/thepierbusiness-entrance.png)
 ![Entrance 2](https://images.itinerantfoodie.com/thepierbusiness-hkg/thepierbusiness-entrance-1.png)
 
 What a difference a year makes. Here's a picture I found from last year of the old Pier (which had First and Business class combined).
