@@ -114,3 +114,12 @@ Last but not least theres the relaxation room which feature napping couches whic
 
 ![Relaxation Room](https://images.itinerantfoodie.com/thepierbusiness-hkg/thepierbusiness-restarea-2.png)
 ![Relaxation Room](https://images.itinerantfoodie.com/thepierbusiness-hkg/thepierbusiness-restarea.png)
+
+### Where can I find this?
+
+Last but not least, you might be wondering where you can find this? For business class, near Gate 66 (this is the lounge I'm writing up on). For first class, near Gate 62.
+
+### Related Links
+
+* [Foursquare](https://foursquare.com/v/the-pier-%E7%8E%89%E8%A1%A1%E5%A0%82/4bdc342c63c5c9b63fba2a68)
+* [Yelp](https://www.yelp.com/biz/%E7%8E%89%E8%A1%A1%E5%A0%82-%E9%A6%99%E6%B8%AF)
