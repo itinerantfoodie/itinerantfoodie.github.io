@@ -16,13 +16,17 @@ Here are some countries that I’ve been to which you can use bitcoin in.
 ## South Korea
 While I haven’t found too many businesses (apparently theres 1 K-BBQ place which takes bitcoin), this place actually has bitcoin ATMs to use. While the use of credit cards offers much convenience (and the opportunity to earn flight mileage!), there are several bitcoin ATMs around the city. Verdict: Support could be better  for those who don’t have an resident permits (particularly those from the UK and Canada who are allowed to remain in the country for 6 months) but at least the bitcoin ATMs work better than the traditional ATMs do.
 
+![Bitcoin ATM Korea](https://images.itinerantfoodie.com/have-bitcoin-will-travel/korea-itaewon-bitcoin-atm.png)
+
 ## Hong Kong
-This is very much like Korea. There is at least one bitcoin ATM which is two way, and I think a hotel (and long stay serviced apartment) which takes bitcoin for stays here.
+This is very much like Korea. There is at least [one bitcoin ATM which is two way](https://foursquare.com/v/hk-bitcoin-atm-%E9%A6%99%E6%B8%AF%E6%AF%94%E7%89%B9%E5%B9%A3/5385887d498edb61054635de) ([HK Bitcoin ATM FB](https://www.facebook.com/hkbitcoinatm/)), and I think a hotel (and long stay serviced apartment) which takes bitcoin for stays here.
 
 There's also two up and coming places in Tai Kok Tsui which take it too. Again I think there should be better support here as Hong Kong is a finance capital.
 
+![Bitcoin ATM Hong Kong](https://images.itinerantfoodie.com/have-bitcoin-will-travel/hong-kong-central-bitcoin-atm.png)
+
 ## Taiwan
-Thanks to a company called Bitoex, you can spend your bitcoins at any FamilyMart in Taiwan (there are a lot of them). That way you can buy your groceries.
+Thanks to a company called [Bitoex](https://www.bitoex.com), you can spend your bitcoins at any FamilyMart in Taiwan (there are a lot of them). That way you can buy your groceries.
 
 There is also a hostel which also take bitcoin (unconfirmed), and a [co-living space](http://www.digiquarters.com/) called ["DigiQuarters"](http://www.digiquarters.com/) which will eventually take bitcoin. And also a B&B in between Beitou and Shin-Beitou which takes bitcoin (source: [here(1)](http://thesolosinger.com/), [here(2)](https://www.maicoin.com/en/faq/about-maicoin?selected=12)).
 
@@ -45,6 +49,13 @@ Despite Bitcoin being mined in China it isn't used so much as a currency but mor
 ## Thailand
 So far I haven’t explored it that much, but I do know that bitcoin thailand lets you top up your phone using bitcoin. There are also several businesses scattered around.
 
+In Chiang Mai (even though I haven't been to these businesses),  I messaged these two businesses which were listed on coinmap to confirm:
+
+* [Masumi Spa](https://foursquare.com/v/masumi-spa/52b90d66498ea00fe5d79256) ([Facebook](https://www.facebook.com/masumispachiangmai/)). Thai Massage! I need to try this sometime
+* [My Place Lounge](https://foursquare.com/v/my-place-lounge/4dc19a111838710f4381ba5b). Cocktail bar and also serves food ([Facebook](https://www.facebook.com/MyPlaceLoungeChiangMai))
+
+I'll be exploring other parts of the country soon. Namely Bangkok (which has a few places). But also there's a [beer garden which takes bitcoin](https://foursquare.com/v/pattaya-beer-garden/4b7685eff964a52047502ee3).
+
 ## Cambodia
 There's a coworking and coliving space in Siem Reap called AngorHub which takes Bitcoin. Also there's some places in Phenom Penh which take it too.
 
@@ -55,12 +66,18 @@ You can’t pay rent in bitcoin yet, but there are many bars and restaurants whi
 
 ![Pink Cow](https://images.itinerantfoodie.com/have-bitcoin-will-travel/pinkcow.png)
 
-In Kyoto, there's even a capsule hotel that supports bitcoin.
+In Kyoto, there's even a [ryokan + capsule hotel](https://foursquare.com/v/capsule-ryokan-kyoto-%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E6%97%85%E9%A4%A8%E4%BA%AC%E9%83%BD/4b98c141f964a520494e35e3) that supports bitcoin. There's supposedly a bitcoin ATM in Kyoto but was unable to find it (or the place wasn't open when I tried to visit)
+
+![Bitcoin Accepted](https://images.itinerantfoodie.com/have-bitcoin-will-travel/ryokan-capsule-bitcoin-accepted.png)
+![The Pod](https://images.itinerantfoodie.com/have-bitcoin-will-travel/ryokan-capsule-the-pod.png)
+![Closed](https://images.itinerantfoodie.com/have-bitcoin-will-travel/ryokan-capsule-the-pod-closed.png)
 
 Japan also is one of the first nations [who recognize bitcoin as a currency](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money) (another [source](file:///www.japantimes.co.jp/news/2016/03/04/business/tech/japan-oks-recognizing-virtual-currencies-similar-real-money)). After all, they are in the future.
 
 ## Phillipines
 Thanks to the Phillipines being a remittance corridor a lot of Bitcoin startups have decided to profit from this by using Bitcoin as a cheaper/faster  alternative to moving money across borders. One notable startup is called [coins.ph](https://coins.ph) which let you cash out at any Security Bank ATM ([ATM locator](https://www.securitybank.com/map/)).
+
+You need to verify to do ATM cashout but at least theres the option there.
 
 ## All purpose services
 
