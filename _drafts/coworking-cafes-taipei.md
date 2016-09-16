@@ -79,6 +79,9 @@ There's a good selection of tea and coffee. The biggest annoyance would be the w
 ## Cafe Junkies
 **Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (It's decent. Few issues but still a good place to work)
 
+![Beer](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-cafejunkies1.png)
+![Tables](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-cafejunkies2.png)
+
 This cafe is closer to Taipei Arena (or the Ikea). There's "some power and wifi available", and there is craft beer here. The biggest advantage of this cafe is that it opens early, so that you have a place to cowork in the morning.
 
 Bring headphones if you do want to sit and work as it might be quite loud.
