@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coworking Cafes in Taipei"
+title: "Coworking Cafes/Spots in Taipei (2016 July/August/September edition)"
 categories:
   - digitalnomad
 tags:
@@ -19,11 +19,20 @@ Here's some places that I recommend:
 * Barista Coffee
 * Cafe Junkies
 * Cafe Müller
+* Beitou Library
+
+I also have a more [comprehensive foursquare list](https://foursquare.com/nolim1t/list/coworking-spaces--cafes) (note: some of the places I haven't been yet, so I can't give any recommendations yet)
 
 ## TRUST cafe
 **Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (This is basically a coworking space)
 
+![Top floor](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-trust-cafe-top-floor.png)
+![Work area 1](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-trust-cafe-workarea1.png)
+
 It's one of my favorite co-working cafes. It's set up for this thing. Communal work tables, fast wifi. Excellent coffee. Craft beer in a bottle. Printers. Lots of power outlets, and you can basically stay in this space for as long as you like. Even showers available. Word on the street is that this place my eventually be 24 hours.
+
+![Work area 2](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-trust-cafe-workarea2.png)
+![Work area 3](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-trust-cafe-workarea3.png)
 
 Location of this is about 10-15 mins walk from Xintian temple (near Zhongshan Elementary School). But there is a closer MRT.
 
@@ -84,6 +93,19 @@ This cafe is probably out of the way but it's another place to check out for a c
 The place is quite quiet during the weekdays but as a precaution, always bring headphones to a coworking spaces.
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E7%A9%86%E5%8B%92%E5%92%96%E5%95%A1-caf%C3%A9-m%C3%BCller/4bb313d72397b7130db437b3)
+
+## Beitou Library
+**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (OK  spot)
+
+![Outside the library](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-beitou-library.png)
+
+This spot is ok. But at least you don't have to buy yourself a drink.
+
+It's often full (don't even bother on weekends), so it's hard to find seating. The positive points is that the building looks cool, and it's near a hot spring.
+
+Wifi uses the "TPE-Free-Wifi" hotspot that you see everywhere, so it requires registration with a phone number. Speeds are very variable - but I guess you're not paying for it.
+
+As its a library it is usually quiet.
 
 ## Summary
 
