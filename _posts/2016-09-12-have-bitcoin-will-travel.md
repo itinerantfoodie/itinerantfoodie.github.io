@@ -75,9 +75,9 @@ In Kyoto, there's even a [ryokan + capsule hotel](https://foursquare.com/v/capsu
 Japan also is one of the first nations [who recognize bitcoin as a currency](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money) (another [source](file:///www.japantimes.co.jp/news/2016/03/04/business/tech/japan-oks-recognizing-virtual-currencies-similar-real-money)). After all, they are in the future.
 
 ## Phillipines
-Thanks to the Phillipines being a remittance corridor a lot of Bitcoin startups have decided to profit from this by using Bitcoin as a cheaper/faster  alternative to moving money across borders. One notable startup is called [coins.ph](https://coins.ph) which let you cash out at any Security Bank ATM ([ATM locator](https://www.securitybank.com/map/)).
+Thanks to the Phillipines being a remittance corridor a lot of Bitcoin startups have decided to profit from this by using Bitcoin as a cheaper/faster  alternative to moving money across borders. One notable startup is called [coins.ph](https://coins.ph/invite/quhgsf) which let you cash out at any Security Bank ATM ([ATM locator](https://www.securitybank.com/map/)), transfer to any Phillipines bank account (or send cash to anyone with a Phillipines phone number), send to a remittance center, or top up a phone.
 
-You need to verify to do ATM cashout but at least theres the option there.
+You need to verify to do ATM cashout but at least theres the option there. The verification process takes about a day to do (but they say it can take up to 2-3 days).
 
 ## All purpose services
 
