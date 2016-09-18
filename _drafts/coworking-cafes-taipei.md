@@ -17,8 +17,10 @@ Here's some places that I recommend:
 * hun space
 * Arthere Cafe
 * Barista Coffee
+* Nichi Nichi
 * Cafe Junkies
 * Cafe Müller
+* Fika Fika Cafe
 * Beitou Library
 
 I also have a more [comprehensive foursquare list](https://foursquare.com/nolim1t/list/coworking-spaces--cafes) (note: some of the places I haven't been yet, so I can't give any recommendations yet)
@@ -76,8 +78,17 @@ There's a good selection of tea and coffee. The biggest annoyance would be the w
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E8%A5%BF%E9%9B%85%E5%9C%96%E6%A5%B5%E5%93%81%E5%92%96%E5%95%A1-barista-coffee/4d7adf48d52d224b88e35e8e)
 
+## Nichi Nichi
+**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>  (It's decent. Few issues but still a good place to work)
+
+I like this cafe, my only issue is that they are open a bit later on in the day, but I guess grab lunch then hit up a cafe for a few hours.
+
+There's decent speed wifi and power outlets here.
+
+<i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E6%97%A5%E5%AD%90%E5%92%96%E5%95%A1-nichi-nichi/4d983092647d8cfaad53e93d)
+
 ## Cafe Junkies
-**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (It's decent. Few issues but still a good place to work)
+**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (It's decent. Few issues but still a good place to work)
 
 ![Beer](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-cafejunkies1.png)
 ![Tables](https://images.itinerantfoodie.com/coworking-cafes-taipei-2016/tpe-coworking-cafejunkies2.png)
@@ -89,13 +100,21 @@ Bring headphones if you do want to sit and work as it might be quite loud.
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E5%B0%8F%E7%A0%B4%E7%88%9B%E5%92%96%E5%95%A1%E9%A4%A8-cafe-junkies/4fcc1215e4b09949e473b57e)
 
 ## Cafe Müller
-**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>  (It;s decent. Few issues but still a good place to work)
+**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>  (It's decent. Few issues but still a good place to work)
 
 This cafe is probably out of the way but it's another place to check out for a change of scenery. Power is only available at some tables, and theres good coffee, food, and alcohol available.
 
 The place is quite quiet during the weekdays but as a precaution, always bring headphones to a coworking spaces.
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E7%A9%86%E5%8B%92%E5%92%96%E5%95%A1-caf%C3%A9-m%C3%BCller/4bb313d72397b7130db437b3)
+
+
+## Fika Fika Cafe
+**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>  (It's decent. Few issues but still a good place to work)
+
+This cafe is also quite decent. Drinks on the pricey side, but there's some power and wifi.
+
+<i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/fika-fika-cafe/50f01207e4b0270c404aeee7)
 
 ## Beitou Library
 **Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (OK  spot)
