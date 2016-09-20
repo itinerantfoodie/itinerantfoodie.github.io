@@ -17,13 +17,14 @@ Here's some places that I recommend:
 * hun space
 * Arthere Cafe
 * Barista Coffee
+* Roaster Family Coffee
 * Nichi Nichi
 * Cafe Junkies
 * Cafe Müller
 * Fika Fika Cafe
 * Beitou Library
 
-I also have a more [comprehensive foursquare list](https://foursquare.com/nolim1t/list/coworking-spaces--cafes) (note: some of the places I haven't been yet, so I can't give any recommendations yet)
+I also have a more [comprehensive foursquare list](https://foursquare.com/nolim1t/list/coworking-spaces--cafes) (note: some of the places I haven't been yet, or some places I've been but don't remember detauls too well so I can't give any recommendations yet)
 
 ## TRUST cafe
 **Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (This is basically a coworking space)
@@ -77,6 +78,15 @@ This is another cafe with a similar vibe to Arthere. There's power and wifi avai
 There's a good selection of tea and coffee. The biggest annoyance would be the wifi has a captive portal which seems to require re-login every 2 hours.
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E8%A5%BF%E9%9B%85%E5%9C%96%E6%A5%B5%E5%93%81%E5%92%96%E5%95%A1-barista-coffee/4d7adf48d52d224b88e35e8e)
+
+## Roaster Family Coffee
+**Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (It's decent, theres a few issues, but its still a good place to work)
+
+This is another cafe with power and wifi. It may look full upstairs, but theres an entire downstairs section you can hang out in. The coffee here is good.
+
+Some tables do not have power.
+
+<i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E7%83%98%E5%9F%B9%E8%80%85%E5%92%96%E5%95%A1-roaster-family-coffee/5089f3bce4b0702004d53dec)
 
 ## Nichi Nichi
 **Workability Score:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>  (It's decent. Few issues but still a good place to work)
