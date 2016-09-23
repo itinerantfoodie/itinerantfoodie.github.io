@@ -1,0 +1,32 @@
+---
+layout: default
+title: "eat, sleep, and travel"
+---
+<section>
+  <h2>Category: Travel <i class="fa fa-plane" aria-hidden="true"></i></h2>
+  <hr>
+  <ul class="posts">
+    {% for post in site.categories.travel  %}
+        <li>
+          <article>
+            <header>
+              <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+              <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                {{ post.date | date_to_string }} &nbsp;
+              </time>
+            </header>
+            <script>
+              var randomNumber = Math.floor((Math.random() * 12) + 1);
+              if (randomNumber < 10) {
+                randomNumber = "0" + randomNumber.toString();
+              } else {
+                randomNumber = randomNumber.toString();
+              }
+              document.write('<a href="{{ post.url }}" class="image"><img src="/template/images/pic' + randomNumber + '.jpg" alt="" /></a>');
+            </script>
+          </article>
+        </li>
+    {% endfor %}
+  </ul>
+</section>
+<div>&nbsp;</div>
