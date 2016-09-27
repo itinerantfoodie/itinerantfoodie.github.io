@@ -2,7 +2,7 @@
 layout: post
 title: "Coworking Cafes/Spots in Taipei (2016 July/August/September edition)"
 categories:
-  - travel
+  - digitalnomad
 tags:
   - digitalnomad
   - cafes
