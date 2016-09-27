@@ -76,3 +76,5 @@ Towards the back of the lounge area there's a bar which has the usual drinks, so
 
 ![Bubble Tea and Cathay Delight](https://images.itinerantfoodie.com/cx-tpe-lounge-2015-edition/cx-tpe-lounge-bubbletea-and-cathaydelight.png)
 ![Latte art](https://images.itinerantfoodie.com/cx-tpe-lounge-2015-edition/cx-tpe-coffee-art.png)
+
+**itinerantfoodie Lounge Rating:** <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> (A good all rounded business lounge. Lacks champagne like the hong kong lounges do, and also showers)
