@@ -16,6 +16,7 @@ tags:
 
 * Lots of power
 * It's basically a co-working space (bookable meeting rooms, virtual mailbox, whiteboards, power, wifi) without the commitment
+* Good coffee and craft beer
 * Order your food/drink the same way like you're ordering your uber/lyft ride
 
 ![Workshop Cafe 1](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-sf-1.png)
@@ -40,10 +41,10 @@ From the co-working space, you can order from your table (through the app, or sm
 ![Work space](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-sf-3.png)
 ![Workspace 2](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-sf-5.png)
 
-Oh and did I mentioned this place also sells beer?
+Oh and did I mentioned this place also sells craft beer too?
 
 ![Happy Hour](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-beer.png)
-![Beer](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-beer-2.png)
+![Craft Beer](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-beer-2.png)
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location<br />
 180 Montgomery St. San Francisco<br />or go to [here(1)](https://workfrom.co/workshop-cafe-san-francisco-5040) or [here(2)](https://foursquare.com/v/workshop-cafe/51e08f37498e1d7e82c50708)
