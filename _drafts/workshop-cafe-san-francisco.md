@@ -19,6 +19,11 @@ tags:
 * Good coffee and craft beer
 * Order your food/drink the same way like you're ordering your uber/lyft ride
 
+#### Cons
+
+* Can be busy (bring headphones to shut yourself out)
+* No private phone call booths
+
 ![Workshop Cafe 1](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-sf-1.png)
 ![Workshop Cafe 2](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-sf-2.png)
 
@@ -47,4 +52,4 @@ Oh and did I mentioned this place also sells craft beer too?
 ![Craft Beer](https://images.itinerantfoodie.com/workshop-cafe-sf/workshopcafe-beer-2.png)
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location<br />
-180 Montgomery St. San Francisco<br />or go to [here(1)](https://workfrom.co/workshop-cafe-san-francisco-5040) or [here(2)](https://foursquare.com/v/workshop-cafe/51e08f37498e1d7e82c50708)
+180 Montgomery St. San Francisco<br />or go to [here(1)](https://workfrom.co/workshop-cafe-san-francisco-5040) or [here(2)](https://foursquare.com/v/workshop-cafe/51e08f37498e1d7e82c50708) / [here(3)](https://www.facebook.com/WorkshopCafe) / [here(4)](http://www.workshopcafe.com/)
