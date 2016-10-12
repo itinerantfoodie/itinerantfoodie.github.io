@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sawadee-krub Chiang Mai"
+title: "Sawadee-krub Chiang Mai สวัสดีครับ เชียงใหม่"
 categories:
   - tripreport
 tags:
@@ -27,7 +27,7 @@ In terms of costs:
 
 ## The food
 
-### Khao Soi
+### Khao Soi ข้าวซอย
 
 I came here mostly for this. It's basically the thing you need to try in Chiang Mai.
 
@@ -94,6 +94,8 @@ I'll be covering one of the most popular and recommended places.
 ### Fah Lanna spa
 
 ![Fah Lanna Spa](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-fahlannaspa.png)
+![Fah Lanna Spa 2](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-fah-lanna-catwalk.png)
+
 
 #### Highlights
 
