@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chiang Mai trip report"
+title: "Sawadee-krub Chiang Mai"
 categories:
   - tripreport
 tags:
@@ -11,16 +11,19 @@ tags:
 ---
 
 ![Wat Doi Suthep](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-destination.png)
+![Inside the public light bus](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-sukthaew-inside.png)
 
 I recently visited Chiang Mai finally for the first time, and wanting to return back to it.
 
-It's basically set up for digital nomadism (a lot of cafes with wifi, and the speeds are decent; cheap rent so you can actually compete in the price war that freelancers have to contend with), plus it's an extremely safe place to hang out. And the food there is amazing. Also it's surprisingly english friendly (and also increasingly Chinese too).
+It's basically set up for digital nomadism (a lot of cafes with wifi, and the speeds are decent; cheap rent so you can actually compete in the price war that freelancers have to contend with), plus it's an extremely safe place to hang out. And the food there is amazing. Also it's surprisingly english friendly (and also increasingly Chinese too). Not to mention, high quality 2 hour full body massages for less than 15 USD.
+
+![Elephant](https://images.itinerantfoodie.com/chiangmai-trip-report/chiang-mai-elephant.png)
 
 In terms of costs:
 
 * A monthly serviced apartment rental will set you back for at least 8000 baht a month (~230 USD). Buying a place will set you back about 1,000,000 baht (about ~30000 USD)
 * An inexpensive meal would be about 60 - 80 baht.
-* Transportation maybe about 50 baht for a 2-3 km ride (probably best to get a motor scooter if you are there long term)
+* Transportation maybe about 15-50 (depending on your bargaining) baht for a 2-3 km ride (probably best to get a motor scooter if you are there long term)
 
 ## The food
 
@@ -67,6 +70,8 @@ The most popular one is PUNspace. Just remember, if you're a freelancer and visi
 
 ### Ristr8to²
 
+![Ristr8to](https://images.itinerantfoodie.com/chiangmai-trip-report/chiang-mai-Ristr8to.png)
+
 This is one of the best coffee shops in Chiang Mai. Consistently rated highly across all online review sites. You'll pay a bit extra but its worth it.
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/ristr8to%C2%B2-%E0%B8%94%E0%B8%AD%E0%B8%9B%E0%B8%9B%E0%B9%82%E0%B8%AD-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%95/4df88002d164d347cc72a67b6)
@@ -79,6 +84,8 @@ Around the old town, the place is extremely walkable. I'd recommend carrying an 
 For those taking the sukthaew (those red public buses that you see everywhere) or taxi cabs - the best spot to hit up the old town is tha phae gate. Once you get there you can walk almost anywhere within the moat area within 15-20 mins.
 
 ![Phae Gate](https://images.itinerantfoodie.com/chiangmai-trip-report/thaphaegate.png)
+
+But for longer distances, you should probably hire a motorcycle (1500 baht a month which is around ~40 USD).
 
 ## Thai Massage places
 
@@ -101,6 +108,12 @@ I'll be covering one of the most popular and recommended places.
 
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/fah-lanna-spa/4edf19e5d3e36374e1ac9d06)
 
+### Current and Former Prisoner Massage places
+
+The current prisoner (yes current) massage which is part of the vocational program  ([link](https://foursquare.com/v/chiang-mai-womens-prison-massage-centre/506f9d8ee4b06190ff461ea9)) is rated on tripadvistor and foursquare as one of the top massage places other than Fah Lanna Spa. For a full body 2 hour massage, it costs 400 Baht (~11 USD).
+
+Although you can also go for a former prisoner massage which is just as good. ([link](https://foursquare.com/v/womens-massage-center-by-exprisoners/53ef2167498e8443c768a95d)).
+
 ## Chiang Mai Temples
 
 ### Wat Chedi Luang
@@ -109,7 +122,9 @@ I'll be covering one of the most popular and recommended places.
 
 This is a must see in Chiang Mai. When I first visited there, there is no admission fee. But now there is a 50 baht entrance fee as this is one of the most visited temples in Chiang Mai.
 
-### Wat Phrathat Doi Suthep
+### Wat Phrathat Doi Suthep วัดพระธาตุดอยสุเทพ
+
+![Wat Phrathat Doi Suthep](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-wat-doi-suthep.png)
 
 This was not originally on the list, but my travelling companion who was accompanying me suggested this as the temple is quite photogenic, and has a nice view of the city.
 
