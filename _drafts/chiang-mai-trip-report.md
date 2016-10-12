@@ -76,6 +76,10 @@ This is one of the best coffee shops in Chiang Mai. Consistently rated highly ac
 
 Around the old town, the place is extremely walkable. I'd recommend carrying an umbrella if you aren't used to hot weather. It can be useful.
 
+For those taking the sukthaew (those red public buses that you see everywhere) or taxi cabs - the best spot to hit up the old town is tha phae gate. Once you get there you can walk almost anywhere within the moat area within 15-20 mins.
+
+![Phae Gate](https://images.itinerantfoodie.com/chiangmai-trip-report/thaphaegate.png)
+
 ## Thai Massage places
 
 I'll be covering one of the most popular and recommended places.
@@ -112,3 +116,24 @@ This was not originally on the list, but my travelling companion who was accompa
 The only issue is that this temple is at least 30 mins out of town so requires your own transport or maybe chartering a sukthaew to get there.
 
 The going rate to get there is 100 baht, but if you're going to hire one privately you may need to pay at least 500 baht for one (the driver will actually wait for you.)
+
+### Grand Canyon
+
+Located in an area called Hang Dong, about 15 mins drive from the old town (Recommended that you hire a motorcycle!).
+
+This is where you can chill out at a cafe and take it all in (what most locals do), or for the most adventurous dive off the cliff (what most "farangs" do).
+
+![Description](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-trip-report-grandcanyon.png)
+
+### Wat Rong Khun วัดร่องขุ่น (or the White Temple)
+
+While this isn't in Chiang Mai, it's at least a 3 hour drive or ride (ouch sore butt) to the north. About 10 mins out of Chiang Rai.
+
+This is one of the prettiest temples I've ever seen.
+
+![Wat Rong Khun](https://images.itinerantfoodie.com/chiangmai-trip-report/watrongkhun.png)
+
+Along the way to Chiang Rai, there's a coffee shop which lets you immerse yourself in hot springs as you sip your latte. For the digital nomad, the cafe also has wifi. Just look for a somewhat abandoned temple which looks like a miniture version of Angor Wat along the way.
+
+![Hotspring Cafe](https://images.itinerantfoodie.com/chiangmai-trip-report/hotspring-cafe.png)
+![Description](https://images.itinerantfoodie.com/chiangmai-trip-report/lookslikeangorwat.png)
