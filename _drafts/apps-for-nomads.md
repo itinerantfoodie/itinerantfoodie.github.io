@@ -104,6 +104,12 @@ The only useful thing about this is the reviews system (less likely that you can
 
 ## China (Mainland / Macau SAR / Hong Kong SAR / Taiwan)
 
+### VPN
+
+In China, you may find some services not working. If you use Google Apps for your email, it's essential that you have one.
+
+I prefer to use PureVPN for my VPN uses (You can also have multiple devices too).  And the VPN accepts bitcoin for those who want to pay with privacy.
+
 ### Pleco
 
 That app very useful for looking up words and also shows mandarin or cantonese pronounciation
