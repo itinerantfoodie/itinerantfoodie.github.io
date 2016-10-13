@@ -35,7 +35,7 @@ tags:
 
 This is the only non-Cathay lounge that I sometimes visit (when I am doing a redeye flight to either Europe / USA / Australia).
 
-The awesome thing about this lounge as I'm seen as a "regular", even though I go to the lounge 3 times a year.
+The awesome thing about this lounge as I'm seen as a "regular" (at the bar!), even though I go to the lounge 3 times a year.
 
 Because the lounge doesn't have champagne and the internet is often slow (maybe they are trying to emulate Australia?!), I mostly go here for two things:
 
