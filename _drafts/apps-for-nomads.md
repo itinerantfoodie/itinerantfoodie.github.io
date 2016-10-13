@@ -43,7 +43,7 @@ Used when in China, because you can do a LOT with wechat. And western services a
 
 Nowadays with smartphones we take internet connectivity for granted. I use the [Prepaid SIM Wiki](http://prepaid-data-sim-card.wikia.com) which is an excellent resource for sourcing prepaid sims, which is handy if you're in a country for more than a week.
 
-But of course if you're on the move looking for somewhere to settle down a bit longer try out [KeepGo](https://www.keepgo.com/). Shipping times are [here](https://www.keepgo.com/pages/shipping-options). However remember that it's a data only sim, so there is no phone number.
+But of course if you're on the move looking for somewhere to settle down a bit longer try out [KeepGo](http://keepgo.refr.cc/NRXDJFV) as long as you don't need to make calls (you can use SkypeOut though instead). The sim lasts forever, and credit lasts for a year.
 
 ## Collaboration
 
