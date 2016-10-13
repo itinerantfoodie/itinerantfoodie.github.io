@@ -39,6 +39,12 @@ I also use this tool for introductions as well (create group chat with the perso
 
 Used when in China, because you can do a LOT with wechat. And western services are blocked, so connections in China are less likely to use it.
 
+### Travel Sims
+
+Nowadays with smartphones we take internet connectivity for granted. I use the [Prepaid SIM Wiki](http://prepaid-data-sim-card.wikia.com) which is an excellent resource for sourcing prepaid sims, which is handy if you're in a country for more than a week.
+
+But of course if you're on the move looking for somewhere to settle down a bit longer try out [KeepGo](https://www.keepgo.com/). Shipping times are [here](https://www.keepgo.com/pages/shipping-options). However remember that it's a data only sim, so there is no phone number.
+
 ## Collaboration
 
 ### Google apps
