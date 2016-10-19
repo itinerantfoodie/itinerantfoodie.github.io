@@ -9,7 +9,7 @@ tags:
   - qantas
 ---
 
-![Description](https://images.itinerantfoodie.com/qf-hkg-lounge/qf-hkg-entrance.png)
+![Qantas HKG Lounge Entrance](https://images.itinerantfoodie.com/qf-hkg-lounge/qf-hkg-entrance.png)
 
 #### Highlights
 
@@ -24,7 +24,7 @@ tags:
 
 #### Minuses
 
-* Internet is slow at the best times to be at the lounge.
+* Internet is slow at the best times to be at the lounge. However you can use the HK terminal wifi which is consistently good.
 * No boarding announcements for non-QF flights (however, you shouldn't spend too long at this lounge)
 
 #### Access Requirements
@@ -34,6 +34,8 @@ tags:
 * Qantas Club member and flying on Qantas
 
 This is the only non-Cathay lounge that I sometimes visit (when I am doing a redeye flight to either Europe / USA / Australia).
+
+Bonus being it's close to the airport control point like the Wing is. Except it's on the right instead of the left.
 
 The awesome thing about this lounge as I'm seen as a "regular" (at the bar!), even though I go to the lounge 3 times a year.
 
