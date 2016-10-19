@@ -31,7 +31,7 @@ In terms of costs:
 
 I came here mostly for this. It's basically the thing you need to try in Chiang Mai.
 
-Here are my favorites:
+Here are my favorite places:
 
 #### Khao Soi Khun Yai (ข้าวซอยคุณยาย)
 
@@ -62,11 +62,23 @@ I've been recommended to try the roti in Thailand, by Roti Guu by some thai loca
 ![Roti Guu](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-roti-guu.png)
 
 
+<i class="fa fa-map-marker" aria-hidden="true"></i> Place details found [here](https://foursquare.com/v/%E0%B8%81-%E0%B9%82%E0%B8%A3%E0%B8%95-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%81-guu-fusion-roti--tea/4c13727c82a3c9b64672fbf8) (or you can check out the [Guu facebook page](https://www.facebook.com/guufusionrotiandtea))
+
+There's also a cafe called The Baristro (เดอะ บาริสโตร้) which serves the Roti by Roti Guu too. Like all cafes in Chiang Mai the decorations is very instagram worthy.
+
+<i class="fa fa-map-marker" aria-hidden="true"></i> Place details on the Baristro can be found [here](https://foursquare.com/v/the-baristro-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B8%A3/535c9e85498ea3b88467f6c9)
+
 ## Cafes / Nomad Spots
 
 There are a lot of cafes in Chiang Mai. Most of them have wifi so you can work away like a digital nomad. However, I think mixing it up with an actual coworking space (part time membership) - may work too.
 
 The most popular one is PUNspace. Just remember, if you're a freelancer and visiting Thailand you need a work visa if any of your clients are Thai clients. If they are are non-thai its ok.
+
+### Punspace
+
+PUNspace is one of the famous coworking spots in Chiang Mai. So popular that there is two branches. Also keep in mind if you're nomadding on a visitor visa, that you can't have Thai clients (rumor has it that immigration has done some "compliance" raids on this coworking space).
+
+<i class="fa fa-map-marker" aria-hidden="true"></i> Place details can be found [here](https://foursquare.com/v/punspace-%E0%B8%9B%E0%B8%99%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%8B/54508322498e019be8ce2ee2)
 
 ### Ristr8to²
 
