@@ -81,6 +81,9 @@ The most popular one is PUNspace. Just remember, if you're a freelancer and visi
 
 PUNspace is one of the famous coworking spots in Chiang Mai. So popular that there is two branches. Also keep in mind if you're nomadding on a visitor visa, that you can't have Thai clients (rumor has it that immigration has done some "compliance" raids on this coworking space).
 
+![Pun Space](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-punspace-1.png)
+![Pun Space 2](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-punspace-2.png)
+
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details can be found [here](https://foursquare.com/v/punspace-%E0%B8%9B%E0%B8%99%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%8B/54508322498e019be8ce2ee2)
 
 ### Ristr8to²
