@@ -66,6 +66,9 @@ I've been recommended to try the roti in Thailand, by Roti Guu by some thai loca
 
 There's also a cafe called The Baristro (เดอะ บาริสโตร้) which serves the Roti by Roti Guu too. Like all cafes in Chiang Mai the decorations is very instagram worthy.
 
+![The Baristro](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-illbaristro-1.png)
+![The Baristro 2](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-illbaristro-2.png)
+
 <i class="fa fa-map-marker" aria-hidden="true"></i> Place details on the Baristro can be found [here](https://foursquare.com/v/the-baristro-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B8%A3/535c9e85498ea3b88467f6c9)
 
 ## Cafes / Nomad Spots
