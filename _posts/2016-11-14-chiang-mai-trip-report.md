@@ -13,6 +13,13 @@ tags:
 ![Wat Doi Suthep](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-destination.png)
 ![Inside the public light bus](https://images.itinerantfoodie.com/chiangmai-trip-report/chiangmai-sukthaew-inside.png)
 
+## Features
+
+- Cheap cost of living (rent, and food)
+- Abundance of co-working spaces, cafes, and wifi
+- Proximity to South East Asia. Not far to the rest of Asia.
+- Warm climate
+
 I recently visited Chiang Mai finally for the first time, and wanting to return back to it.
 
 It's basically set up for digital nomadism (a lot of cafes with wifi, and the speeds are decent; cheap rent so you can actually compete in the price war that freelancers have to contend with), plus it's an extremely safe place to hang out. And the food there is amazing. Also it's surprisingly english friendly (and also increasingly Chinese too). Not to mention, high quality 2 hour full body massages for less than 15 USD.
