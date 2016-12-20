@@ -28,6 +28,7 @@ I am subscribed to WeWork as an anywhere member for the connections that it prov
 ![Hong Kong](https://images.itinerantfoodie.com/apps-for-nomads/wework-hkg.png)
 
 ![San Francisco](https://images.itinerantfoodie.com/apps-for-nomads/wework-sf.png)
+![Berlin Sticker](https://images.itinerantfoodie.com/europe-coworking-2016/resized-berlin-weworksticker.png)
 
 ### Facebook messenger
 
@@ -126,7 +127,7 @@ This app is basically the Uber for coffee in Macau and Hong Kong. You purchase c
 
 ### WeChat
 
-This is a useful app for just about anything in China. It's actually quite useful for payments. And you can also make payments using bitcoin (or convert your RMB wallet to bitcoin) through a service called WeChat Secretary.
+This is a useful app for just about anything in China. It's actually quite useful for payments. And you can also make payments using bitcoin (or convert your RMB wallet to bitcoin) through a service called WeChat Secretary for a 2.5% fee (still better than Stripe!)
 
 ## Finance (General)
 
@@ -138,4 +139,6 @@ But also like to keep bitcoin so it doesn't have the same "vendor lock-in" that 
 
 For receiving payments, my preferred method would be to take bitcoin directly. Failing that, using Stripe is a nice option. You can just go very basic and use the very minimal Stripe.js or you can do something completely custom.
 
-I've opted to do Stripe.js and used Amazon Lambda to process the payment. You can try out [this page](https://tips.nolim1t.co/) to have a feel of how I'm using Stripe on AWS Lambda (which means no servers!)
+I've opted to do Stripe.js and used Amazon Lambda to process the payment. You can try out [this page](https://tips.nolim1t.co/) to have a feel of how I'm using Stripe on AWS Lambda (which means no servers!).
+
+I'm also now an Estonian e-Resident so now eligible to set up a company in Estonia (without setting foot in the country). Although I do want to actually visit.g
