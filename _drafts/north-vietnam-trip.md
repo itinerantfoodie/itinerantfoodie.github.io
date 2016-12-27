@@ -160,7 +160,7 @@ I chose to do a walking tour to get to know the city I arrived in almost a week 
 ![Bia Hoi Corner](https://images.itinerantfoodie.com/vietnam-trip-report/resized-hanoi-bia-hoi-corner.png)
 ![Hoa Lo Prison](https://images.itinerantfoodie.com/vietnam-trip-report/resized-hanoi-hoalo-prison.png)
 
-* [**Bia Hoi Corner**](https://foursquare.com/v/bia-h%C6%A1i-corner/4db186690437a93f7f8a596d) - This is the place to get cheap beer (25 cents of 5000 dong)
+* [**Bia Hoi Corner**](https://foursquare.com/v/bia-h%C6%A1i-corner/4db186690437a93f7f8a596d) - This is the place to get cheap beer (25 cents or 5000 dong)
 * [**Hoa Lo Prison Museum**](https://foursquare.com/v/h%E1%BB%8Fa-l%C3%B2-hoa-lo-prison-or-hanoi-hilton/4bb022def964a5202c393ce3) - This was used for incarcerating political prisoners during the Vietnam french colonial days, and for US serviceman during the Vietnam war. Very interesting to learn the history from a Vietnam point of view.
 * [**Phở Gia Truyền Bát Đàn**](https://foursquare.com/v/ph%E1%BB%9F-gia-truy%E1%BB%81n-b%C3%A1t-%C4%91%C3%A0n/4e5ef7377d8b67dc8ffbf21f) and [**Phở 10 Lý Quốc Sư**](https://foursquare.com/v/ph%E1%BB%9F-10-l%C3%BD-qu%E1%BB%91c-s%C6%B0/4d61ae04196ba0939e662856) for Phở Tai Nam.
 * [**Bún Chả Đắc Kim**](https://foursquare.com/v/b%C3%BAn-ch%E1%BA%A3-%C4%91%E1%BA%AFc-kim/4def11db887754a6af8a8476) for Bún Chả
