@@ -10,6 +10,8 @@ tags:
   - oneworld
 ---
 
+![Pre-entrance](https://images.itinerantfoodie.com/lhr-cathay-lounge-2016/resized-lhr-lounge-preentrance.png)
+
 ![Outside Lounge](https://images.itinerantfoodie.com/lhr-cathay-lounge-2016/resized-IMG_1125.png)
 ![Lounge Reception](https://images.itinerantfoodie.com/lhr-cathay-lounge-2016/resized-IMG_1126.png)
 
