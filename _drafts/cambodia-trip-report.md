@@ -23,9 +23,11 @@ As a city, there's very few things for a first time visitor to do apart from the
 ![Tuol Sleng](https://images.itinerantfoodie.com/cambodia-trip-report/resized-IMG_3438.png)
 ![Tuol Sleng 2](https://images.itinerantfoodie.com/cambodia-trip-report/resized-IMG_3428.png)
 
-However, Phnom Penh seems to be a good travel hub to get to other more fun places.
+However, Phnom Penh seems to be a good travel hub to get to other places.
 
 Another cool highlight of Phnom Penh is it's another city which has the Pyongyang Restaurant. An opportunity to try the Pyongyang style cold noodles. It is expensive but worth the visit.
+
+Not to mention, trying out "pizza" with a Cannibis as a topping. Makes visiting places such as Wat Phnom a little bit more interesting.
 
 And finally, the city actually has the most snapchat filters.
 
