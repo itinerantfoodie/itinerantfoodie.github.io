@@ -29,6 +29,8 @@ I've been ranting and raving a lot on various social media channels about Lisbon
 
 No wonder digital nomads also favor this location (as well as Chiang Mai... It's good to mix things up a little). Although a lot more options visa wise.
 
+![Description](https://images.itinerantfoodie.com/nomad-trip-lisbon/resized-rossio.png)
+
 ## Costs summary
 
 * €5-6 for a basic meal with drink. €12 for average meal with drink. €20 for a splurge meal with drink
