@@ -22,6 +22,7 @@ tags:
 - Hip and cool street art
 - Weather (Medditerranean weather)
 - Most people speak at least 2+ languages (Portuguese, and at least english. Most likely also Spanish & French). So it's easy to communicate
+- Yes, there's scooter rental too!
 - Up and coming startup scene. It's San Francisco for almost 1/10th the price your would pay in rent, and you don't have to deal with Trump. Also, part of the Eurozone so if you're an EU member you can come and go as you please.
 - It's not Chiang Mai (I like Chiang Mai, but can't spend too long in one country / area without risking getting kicked out)
 
@@ -29,7 +30,7 @@ I've been ranting and raving a lot on various social media channels about Lisbon
 
 No wonder digital nomads also favor this location (as well as Chiang Mai... It's good to mix things up a little). Although a lot more options visa wise.
 
-![Description](https://images.itinerantfoodie.com/nomad-trip-lisbon/resized-rossio.png)
+![Rossio](https://images.itinerantfoodie.com/nomad-trip-lisbon/resized-rossio.png)
 
 ## Costs summary
 
