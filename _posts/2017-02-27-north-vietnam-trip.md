@@ -124,7 +124,7 @@ Then it was time for a quick dinner (with a lot of yummy home cooked food for ou
 
 ### Day 5
 
-The next day was a shorter hike to Su Pan (village where our guide was staying), followed by some time to explore Sapa town - before heading back into Hanoi to conclude the tour.
+The next day was a shorter hike to Su Pan (village where our guide was staying - she was nice enough to offer us to take a look at her house, very educational to see how the villagers live), followed by some time to explore Sapa town - before heading back into Hanoi to conclude the tour.
 
 ![Day 5 - Ta Van 1](https://images.itinerantfoodie.com/vietnam-trip-report/resized-IMG_2976.png)
 ![Day 5 - Ta Van 2](https://images.itinerantfoodie.com/vietnam-trip-report/resized-IMG_2987.png)
@@ -137,14 +137,14 @@ The next day was a shorter hike to Su Pan (village where our guide was staying),
 ![Buildings](https://images.itinerantfoodie.com/vietnam-trip-report/resized-day5-supan-building.png)
 ![Animals](https://images.itinerantfoodie.com/vietnam-trip-report/resized-day5-supan-animal.png)
 
-#### Around Sapa town
+#### Around Sa Pa town
 
 The town was quite walkable. Took about 20 minutes (with all my stuff), to get from one end to the other.
 
 ![Sapa Town 1](https://images.itinerantfoodie.com/vietnam-trip-report/resized-IMG_3020.png)
 ![Sapa Town 2](https://images.itinerantfoodie.com/vietnam-trip-report/resized-IMG_3022.png)
 
-I overall miss how hospitable the people were at Sapa though. It made the best memories so far.
+I overall miss how hospitable the people were at Sa Pa though. It made the best memories of the trip so far. Hope to get a chance to do Mt Fan Xi Pan sometime though (or at least cheat and take the cable car!)
 
 ## Day 6 & 7
 
@@ -160,7 +160,7 @@ I chose to do a walking tour to get to know the city I arrived in almost a week 
 ![Bia Hoi Corner](https://images.itinerantfoodie.com/vietnam-trip-report/resized-hanoi-bia-hoi-corner.png)
 ![Hoa Lo Prison](https://images.itinerantfoodie.com/vietnam-trip-report/resized-hanoi-hoalo-prison.png)
 
-* [**Bia Hoi Corner**](https://foursquare.com/v/bia-h%C6%A1i-corner/4db186690437a93f7f8a596d) - This is the place to get cheap beer (25 cents or 5000 dong)
+* [**Bia Hoi Corner**](https://foursquare.com/v/bia-h%C6%A1i-corner/4db186690437a93f7f8a596d) - This is the place to get cheap beer (And I do mean cheap at... 25 cents or 5000 dong)
 * [**Hoa Lo Prison Museum**](https://foursquare.com/v/h%E1%BB%8Fa-l%C3%B2-hoa-lo-prison-or-hanoi-hilton/4bb022def964a5202c393ce3) - This was used for incarcerating political prisoners during the Vietnam french colonial days, and for US serviceman during the Vietnam war. Very interesting to learn the history from a Vietnam point of view.
 * [**Phở Gia Truyền Bát Đàn**](https://foursquare.com/v/ph%E1%BB%9F-gia-truy%E1%BB%81n-b%C3%A1t-%C4%91%C3%A0n/4e5ef7377d8b67dc8ffbf21f) and [**Phở 10 Lý Quốc Sư**](https://foursquare.com/v/ph%E1%BB%9F-10-l%C3%BD-qu%E1%BB%91c-s%C6%B0/4d61ae04196ba0939e662856) for Phở Tai Nam.
 * [**Bún Chả Đắc Kim**](https://foursquare.com/v/b%C3%BAn-ch%E1%BA%A3-%C4%91%E1%BA%AFc-kim/4def11db887754a6af8a8476) for Bún Chả
