@@ -21,7 +21,8 @@ Simple run the following command
 bundle exec jekyll serve
 ```
 
-## Deploying (reprecated)
+## Deploying (Deprecated)
+
 Right now deployments are done simply by doing a git push to github (It's that easy).
 
 ### Step 1
