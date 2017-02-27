@@ -13,6 +13,8 @@ tags:
   - halongbay
 ---
 
+Well, better late post than never!
+
 I've been always looking for a good flight deal to explore the North of Vietnam. I chose to go at the beginning of December, which was probably a good time because it is the dry season and it's also not very hot (in the north, nights were sometimes cool).
 
 ![Noi Bai Airport](https://images.itinerantfoodie.com/vietnam-trip-report/resized-IMG_2620.png)
