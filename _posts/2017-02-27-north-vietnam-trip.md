@@ -11,6 +11,8 @@ tags:
   - hanoi
   - sapa
   - halongbay
+  - southeastasia
+  - asia
 ---
 
 Well, better late post than never!
