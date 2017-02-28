@@ -31,7 +31,7 @@ I've tried two different variations of this. One with less broth and one which w
 
 This is a street where you can find cheap street food, as well as drinks (think mojitos for less than 1 USD - cheaper than cocktails from drink carts in Pub Street Siem Reap!)
 
-### Yangon Circular Railway
+### Yangon Circular Railway ရန်ကုန် မြို့ပတ် ရထား
 
 ![Yangon Circular Railway 1](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3865.png)
 ![Yangon Circular Railway 2](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3866.png)
@@ -48,6 +48,9 @@ The train also provided a lot of good people watching from all walks of life. As
 
 ![Yangon Circular Railway 7](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3861.png)
 ![Yangon Circular Railway 8](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3869.png)
+
+![Yangon Circular Railway 9](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_3875.png)
+![Yangon Circular Railway 10](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3871.png)
 
 During the 3 hours, you also have the opportunity to buy (very cheaply) from vendors on the train too.  I had a noodles dish mixed with curry for less than 30 cents US.
 
