@@ -117,7 +117,6 @@ The key highlights for my Bagan trip are:
 * Pyathada Temple
 * Dhammayazika Pagoda ဓမ္မရာဇိကဘုရား
 
-Key mode of transport in Bagan is by E-Scooter which can be rented from almost anywhere for 8000 kyats a day.
 
 ### Summary
 
@@ -204,6 +203,21 @@ I purchased a copy of "Burmese Days by George Orwell" from a vendor for less tha
 ![Rooftop temple 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4193.png)
 ![Rooftop temple 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4288.png)
 
+### Getting around
+
+As there is no public transport, the options for getting around is either to hire a driver for a car or horse cart.
+
+However, the best and cheapest way (and fun!) of doing so is by electronic scooter (petrol scooters are forbidden to rent for foreigners in Bagan aparently).
+
+The batteries for the E-Scooter last all day, and some of the newer models go up to 80 km/h so it's just as good as a petrol scooter.
+
+Costs is around 5000-8000 kyats a day (so around 5 bucks). (but for a few hours you can bargain it down more.).
+
+Highly recommended that you approach one of the rental places outside of where you are staying as it would be a lot cheaper doing so. My favorite scooter rental place is right in the middle of Old Bagan. The bikes are quite new.
+
+![Best way is on 2 wheels](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4127.png)
+![Best way is on 2 wheels - 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4166.png)
+
 ### Food
 
 #### Tea Leaf Salad
@@ -211,3 +225,10 @@ I purchased a copy of "Burmese Days by George Orwell" from a vendor for less tha
 ![Tea Leaf Salad](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4311.png)
 
 This may or may not be a dish from another part of Myanmar, but I was definetly recommended this at some [random roadside restaurant](https://foursquare.com/v/ya-ti-food--garden/5874a217a4367c579f3611e0).
+
+#### The Moon - Be kind to Animals restaurant
+
+Along the way, I was somehow in the mood for vegetarian and came across [this place](https://foursquare.com/v/the-moon-restaurant/4eede0b6e300215593f94402)
+
+![Be kind to animals](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4102.png)
+![Be kind to animals - meal](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4105.png)
