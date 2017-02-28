@@ -96,9 +96,24 @@ For this trip it was mostly sightseeing, however for those who are digital nomad
 
 ## Bagan ပုဂံ
 
+![Bagan Horse Cart](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_3994.png)
+![Bagan Sign](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_3998.png)
+
 Next phase of the journey it was on the way to Bagan. Opted for a sleeper bus, through JJ Express where for 20 USD a very generous recline was offered plus a free snack and bottle of water.
 
 The bus arrived just before the crack of dawn and it was time to check out the first sunrise and savor this opportunity.
+
+The key highlights for my Bagan trip are:
+
+* Shwezigon Pagoda ရွှေစည်းခုံဘုရား
+* Bulethi Temple
+* Ananda Temple အာနန္ဒာဘုရား
+* Thatbyinnyu Temple သဗ္ဗညုဘုရား
+* Tea Leaf Salad
+* Be Kind to Animals Restaurant (Old Bagan and a newly open branch in New Bagan)
+* Nan Myint Tower
+
+Key mode of transport in Bagan is by E-Scooter which can be rented from almost anywhere for 8000 kyats a day.
 
 ### Bulethi Temple (Sunrise)
 
@@ -108,3 +123,36 @@ The first port of call was Bulethi Temple or better known as the "Sunrise Temple
 ![Sunrise Day 1 - image 2](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3985.png)
 
 From this temple, there was an opportunity to see the hot air balloons as well. You can ride on them for 300 USD, but that costed 3 times more than the flight. But everyone says its worth it. I guess theres always next time.
+
+## Ananda Temple အာနန္ဒာဘုရား
+
+![Ananda Temple](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4005.png)
+![Ananda Temple 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4011.png)
+
+![Ananda Temple 3](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4012.png)
+![Ananda Temple 3](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4008.png)
+
+## Shwezigon Pagoda ရွှေစည်းခုံဘုရား
+
+![Shwezigon Pagoda](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4041.png)
+![Shwezigon Pagoda 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4043.png)
+
+Aparently this was based on Shwedagon Pagoda (or the other way round). This is right in the town of Nyang-U
+
+## Thatbyinnyu Temple သဗ္ဗညုဘုရား
+
+![Thatbyinnyu Temple](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4149.png)
+![Thatbyinnyu Temple - Monks](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4158.png)
+
+This temple is close to Ananda Temple. It's a another good temple for capturing the sunset or for magic hour. Not to mention it's close to Old Bagan.
+
+
+## Tea Leaf Salad
+
+![Tea Leaf Salad](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4311.png)
+
+This may or may not be a dish from another part of Myanmar, but I was definetly recommended this at some [random roadside restaurant](https://foursquare.com/v/ya-ti-food--garden/5874a217a4367c579f3611e0).
+
+## Nan Myint Tower
+
+Even those this tower is only 13 floors tall, it still offers great panoramic views of the Bagan area. Cost is about 5000 kyat or 5 USD (can also pay in USD)
