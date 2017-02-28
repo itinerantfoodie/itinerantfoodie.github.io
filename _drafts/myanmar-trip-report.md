@@ -103,17 +103,30 @@ Next phase of the journey it was on the way to Bagan. Opted for a sleeper bus, t
 
 The bus arrived just before the crack of dawn and it was time to check out the first sunrise and savor this opportunity.
 
+![Bagan Day 1 - Sunrise 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_3963.png)
+![Bagan Day 1 - Sunrise 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_3981.png)
+
 The key highlights for my Bagan trip are:
 
 * Shwezigon Pagoda ရွှေစည်းခုံဘုရား
-* Bulethi Temple
+* Bulethi Temple (Especially at Sunrise)
 * Ananda Temple အာနန္ဒာဘုရား
 * Thatbyinnyu Temple သဗ္ဗညုဘုရား
-* Tea Leaf Salad
-* Be Kind to Animals Restaurant (Old Bagan and a newly open branch in New Bagan)
 * Nan Myint Tower
+* Shwesandaw Pagoda ရွှေဆံတော်ဘုရား
+* Pyathada Temple
+* Dhammayazika Pagoda ဓမ္မရာဇိကဘုရား
 
 Key mode of transport in Bagan is by E-Scooter which can be rented from almost anywhere for 8000 kyats a day.
+
+### Summary
+
+As a summary for Bagan, it's a good place if you like:
+
+* Architecture and Photography
+* Sunrises / Sunsets and Photography. The sunrise is the best. It's actually quite easy to get around even at sunrise, as most of the e-bike stores actually open very early in the day.
+* Culture
+
 
 ### Bulethi Temple (Sunrise)
 
@@ -124,7 +137,17 @@ The first port of call was Bulethi Temple or better known as the "Sunrise Temple
 
 From this temple, there was an opportunity to see the hot air balloons as well. You can ride on them for 300 USD, but that costed 3 times more than the flight. But everyone says its worth it. I guess theres always next time.
 
-## Ananda Temple အာနန္ဒာဘုရား
+### Shwesandaw Pagoda ရွှေဆံတော်ဘုရား
+
+![Shwesandaw Pagoda - Sunset Day 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4018.png)
+![Shwesandaw Pagoda - Sunset Day 1 - 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4030.png)
+
+This temple is known as the sunset temple, although you can also see the sunrise here.
+
+![Shwesandaw Pagoda - Sunrise Last day - 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4413.png)
+![Shwesandaw Pagoda - Sunrise Last day - 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4442.png)
+
+### Ananda Temple အာနန္ဒာဘုရား
 
 ![Ananda Temple](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4005.png)
 ![Ananda Temple 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4011.png)
@@ -132,14 +155,14 @@ From this temple, there was an opportunity to see the hot air balloons as well. 
 ![Ananda Temple 3](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4012.png)
 ![Ananda Temple 3](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4008.png)
 
-## Shwezigon Pagoda ရွှေစည်းခုံဘုရား
+### Shwezigon Pagoda ရွှေစည်းခုံဘုရား
 
 ![Shwezigon Pagoda](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4041.png)
 ![Shwezigon Pagoda 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4043.png)
 
 Aparently this was based on Shwedagon Pagoda (or the other way round). This is right in the town of Nyang-U
 
-## Thatbyinnyu Temple သဗ္ဗညုဘုရား
+### Thatbyinnyu Temple သဗ္ဗညုဘုရား
 
 ![Thatbyinnyu Temple](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4149.png)
 ![Thatbyinnyu Temple - Monks](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4158.png)
@@ -147,12 +170,44 @@ Aparently this was based on Shwedagon Pagoda (or the other way round). This is r
 This temple is close to Ananda Temple. It's a another good temple for capturing the sunset or for magic hour. Not to mention it's close to Old Bagan.
 
 
-## Tea Leaf Salad
+### Nan Myint Tower
+
+![ Nan Myint Tower 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4332.png)
+![ Nan Myint Tower 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4337.png)
+
+Even those this tower is only 13 floors tall, it still offers great panoramic views of the Bagan area. Cost is about 5000 kyat or 5 USD (can also pay in USD)
+
+![ Nan Myint Tower 3](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4342.png)
+![ Nan Myint Tower 4](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4352.png)
+
+### Pyathada Hpaya
+
+![Pyathada Hpaya - General Temple Rooftop](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4128.png)
+
+I discovered this temple while exploring some of the dirt roads, which has a nice rooftop and made a commitment to check out the sunset at a future date
+
+![Pyathada Hpaya - Sunset 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4476.png)
+![Pyathada Hpaya - Sunset 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4485.png)
+
+![Pyathada Hpaya - Sunset 3](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4488.png)
+![Pyathada Hpaya - Sunset 4](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4504.png)
+
+### Dhammayazika Pagoda ဓမ္မရာဇိကဘုရား
+
+![Dhammayazika Pagoda - 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4188.png)
+![Dhammayazika Pagoda - 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4189.png)
+
+This temple complex is quite large, and has a nice rooftop temple behind.
+
+I purchased a copy of "Burmese Days by George Orwell" from a vendor for less than $2, theres also a lot of vendors around this temple too for local handicrafts.
+
+![Rooftop temple 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4193.png)
+![Rooftop temple 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4288.png)
+
+### Food
+
+#### Tea Leaf Salad
 
 ![Tea Leaf Salad](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4311.png)
 
 This may or may not be a dish from another part of Myanmar, but I was definetly recommended this at some [random roadside restaurant](https://foursquare.com/v/ya-ti-food--garden/5874a217a4367c579f3611e0).
-
-## Nan Myint Tower
-
-Even those this tower is only 13 floors tall, it still offers great panoramic views of the Bagan area. Cost is about 5000 kyat or 5 USD (can also pay in USD)
