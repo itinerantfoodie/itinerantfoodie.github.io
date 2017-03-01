@@ -96,6 +96,8 @@ I particularly liked how the tree roots have been growing. The trees in this tem
 
 ### Coin Cafe in Phnom Penh
 
+![Coin Cafe](https://images.itinerantfoodie.com/uploads/cambodia-trip-report/IMG_3441.png)
+
 This is a restaurant in Phnom Penh which takes bitcoin. Payment in bitcoin is bit of an honor system where you pay and scan the QR code on the wall.
 
 ### Angkor Hub Co-living/Co-working space in Siem Reap
