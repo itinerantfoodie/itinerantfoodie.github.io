@@ -207,6 +207,9 @@ I purchased a copy of "Burmese Days by George Orwell" from a vendor for less tha
 
 As there is no public transport, the options for getting around is either to hire a driver for a car or horse cart.
 
+![Horse Cart 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4468.png)
+![Horse Cart 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4466.png)
+
 However, the best and cheapest way (and fun!) of doing so is by electronic scooter (petrol scooters are forbidden to rent for foreigners in Bagan aparently).
 
 The batteries for the E-Scooter last all day, and some of the newer models go up to 80 km/h so it's just as good as a petrol scooter.
