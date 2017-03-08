@@ -16,4 +16,8 @@ For those blog owners or website owners, you should definetely check the platfor
 
 Currently you can see the most recent posts from this website straight from facebook messenger
 
-How to contact? [Send us a message on facebook](https://m.me/itinerantfoodie)
+## Get Started
+
+Follow the link below to get started.
+
+<a href="https://m.me/itinerantfoodie"><img src="https://images.itinerantfoodie.com/contactus-fb.png" /></a>
