@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Destination: Myanmar (Burma)"
+title: "မင်္ဂလာပါ။ Myanmar"
 categories:
   - tripreport
 tags:
