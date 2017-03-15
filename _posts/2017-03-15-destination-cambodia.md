@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cambodia Trip Report"
+title: "Destination: Cambodia"
 categories:
   - tripreport
 tags:
@@ -10,9 +10,9 @@ tags:
   - cambodia
 ---
 
-I've been always wanting to visit Cambodia or the Kingdom of Wonder. The opportunity came at the most opportune moment - firstly it was a cheap 700 HKD Cathay Dragon flight.
+I've been always wanting to visit Cambodia or the Kingdom of Wonder. The opportunity came at the most opportune moment - firstly it was a cheap 700 HKD Cathay Dragon flight from Hong Kong.
 
-Next, it was between the New Years period (I needed to get away somewhere to keep with the tradition of spending NYE in different cities and prices were above 2000 HKD for short hops between Asia). And Finally, it was during the dry season. Sure there might be less greenery, but at least there was no rain.
+Next, it was between the New Years period (I needed to get away somewhere to keep with the tradition of spending NYE in different cities and prices were above 2000 HKD for short hops between Asia). And Finally, it was during the dry season. Sure there might be less greenery, but at least there was no heavy rain.
 
 ## Phnom Penh
 
@@ -42,7 +42,7 @@ Doing some research on where to go initially - I didn't spend too long in Phnom 
 ![Pub Street 1](https://images.itinerantfoodie.com/cambodia-trip-report/resized-pub-street-nye.png)
 ![Pub Street 2](https://images.itinerantfoodie.com/cambodia-trip-report/resized-pub-street-nye-2.png)
 
-This is the main party area for Siem Reap. Where there are drink carts charging $1.50 for cocktails, and towards the late hours of the night it turns into a street party (particularly in front of Temple Club where the music sound system is very powerful).
+This is the main party area for Siem Reap. Where there are drink carts charging $1.50 for cocktails, and towards the late hours of the night it turns into a street party similar to the vibe along Khao San Road in Bangkok (particularly in front of Temple Club where the music sound system is very powerful).
 
 My two favorite haunts is both Temple Club and Angor What? bar.
 
@@ -55,6 +55,8 @@ Obviously, high on my list was to visit Angkor Wat.
 #### Angkor Wat
 
 Definitely was amazing. The temple apparently took 35 years to build. Highly recommended to get a 3 day pass, rather than a single day as you cannot cover all the temples in a day.
+
+The park is about 6 km to the north, so you will need to hire an e-Bike, scooter, or bicycle. Or you can join a tour. Or go hire one of the many freelance tuk-tuks around. The cheapest option is to self-drive your own e-Bike/Scooter/bicycle. 
 
 I visited this particular temple on 3 separate days - first was a normal visit during the daytime, second was for the sunrise on the first day of 2017, and my third visit was for the sunset.
 
@@ -108,6 +110,6 @@ There seems to be quite a few events here.
 
 ## Future / Followup Trips
 
-There's a lot more to Cambodia than being a modern day Indiana Jones, trekking around the temples in the Angkor Archaelogical Park. As I'm planning on basing myself in South East Asia (Thailand seems a top candidate now - food and because of coins.co.th makes it a very attractive base for now) for the next few months, I'll most likely return to do a followup post. Who knows maybe try out the business/investment visa.
+There's a lot more to Cambodia than being a modern day Indiana Jones, trekking around the temples in the Angkor Archaelogical Park.
 
-If I had the time to stay on, I'd definitely check out Sihanoukville for the awesome beaches.
+I'd definitely check out Sihanoukville for the beaches on my next trip to Cambodia.
