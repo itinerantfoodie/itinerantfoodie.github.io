@@ -9,17 +9,17 @@ tags:
   - travel
 ---
 
-[Betsy Beer](https://images.itinerantfoodie.com/uploads/betsy-beer/betsy_beer_edited.jpg)
+![Betsy Beer](https://images.itinerantfoodie.com/uploads/betsy-beer/betsy_beer_edited.jpg)
 
 In case you haven't heard, Cathay Pacific and the Hong Kong Brew Company has launched a new craft beer called "Betsy Beer" (just in time for the 7s!).
 
-[Betsy Beer and drink](https://images.itinerantfoodie.com/uploads/betsy-beer/betsybeer_and_coaster.jpg)
+![Betsy Beer and drink](https://images.itinerantfoodie.com/uploads/betsy-beer/betsybeer_and_coaster.jpg)
 
 The beer is named after the first Cathay plane (that you can find in the Hong Kong Science Museum and also a replica in front of the Cathay City office)
 
 The beer uses ingredients from Hong Kong and London, and brewed in a way that it tastes good both on the ground (confirmed) and in the air.
 
-[Resized CDN ink](https://images.itinerantfoodie.com/uploads/betsy-beer/betsybeer_coaster.jpg)
+![Coaster and drink](https://images.itinerantfoodie.com/uploads/betsy-beer/betsybeer_coaster.jpg)
 
 ## Where to get
 
