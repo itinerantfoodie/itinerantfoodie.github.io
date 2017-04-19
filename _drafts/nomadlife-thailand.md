@@ -19,7 +19,7 @@ I chose Chiang Mai as a base because of the following reasons.
 
 * Lots of Cafes to work at (and appreciate).
 * One of my favorite Thai dishes - Khao Soi is available in abundance here. See my [travel post on Chiang Mai](https://itinerantfoodie.com/post/tripreport/2016-11-14/chiang-mai-trip-report.html) for more details.
-* Internet in Thailand is surprisingly fast.
+* Internet in Thailand is surprisingly fast and cheap.
 
 ### Travel
 
@@ -39,11 +39,11 @@ And it also gives a nice comfortable runway to last even through tougher times o
 
 ## Internet Access
 
-Internet Access for me is a lifeblood to livelihood. It lets me work, do up my online presence in order to stand out (online presence is very important when freelancing).
+Internet Access for me is a lifeblood to livelihood. It lets me work, do up my online presence in order to stand out (online presence is very important when freelancing and networking).
 
-My preferred provider in Thailand is [AIS](http://www.ais.co.th/superwifi/en/) because it is available almost everywhere. And it costs 99 baht a month! I was using it at a cafe in Bangkok with AIS Super Wifi coverage too - that cafe had only 3 hours wifi, but then I switched to AIS and sat there all day (It's in a student area so there are other people doing it too).
+My preferred provider in Thailand is [AIS](http://www.ais.co.th/superwifi/en/) for the Super Wifi because it is available almost everywhere. To activate, it costs 99 baht a month! I was using it at a cafe in Bangkok with AIS Super Wifi coverage too - that cafe had only 3 hours wifi, but then I switched to AIS and sat there all day (It's in a student area so there are other people doing it too).
 
-Fibre internet is relatively inexpensive in Thailand.
+Fibre internet is relatively inexpensive in Thailand - about 500 baht a month for a fiber connection.
 
 ## Food
 
@@ -63,4 +63,4 @@ While getting set up with a bank account is harder than ever - it's still possib
 
 Using a service such as coins.co.th, lets me skip the ATM fee tax (some goes to the owner, some goes to the bank, plus commission) and lets me get cash for about 100 baht.
 
-If all goes well, I plan to use this service to make it easier for other backpackers (who don't understand bitcoin or blockchain) to get in and out money to the country as I can see a need for it.
+Also, for those who don't understand how to use blockchain technology, you can use a service called [GoAbra](https://goabra.com) which abstracts all the blockchain stuff into something more familiar in dollars/euro/yen. It might cost some fees, but it's priced competitively against bank fees (you get charged for the privilege of using the ATM by the Thai bank, then charged by your bank, and then maybe you get a bad exchange rate). Plug - I'm an [Abra Teller](http://www.nolim1t.co/2017/04/12/so-im-an-abra-teller.html) in Chiang Mai. Show me this blog post, and I will waive some fees.
