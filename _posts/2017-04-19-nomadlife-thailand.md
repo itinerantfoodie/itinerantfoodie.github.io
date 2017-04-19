@@ -9,6 +9,8 @@ tags:
   - daytoday
 ---
 
+[Work and Travel](https://images.itinerantfoodie.com/uploads/nomadlife-thailand/FullSizeRender.jpg)
+
 Well it's finally done, over the last few months I've made the move to head down to South East Asia for a little bit and doing a lot of research.
 
 Here are some tidbits you should be aware of.
@@ -46,6 +48,8 @@ My preferred provider in Thailand is [AIS](http://www.ais.co.th/superwifi/en/) f
 Fibre internet is relatively inexpensive in Thailand - about 500 baht a month for a fiber connection.
 
 ## Food
+
+[Chiang Mai Style](https://images.itinerantfoodie.com/uploads/nomadlife-thailand/khaosoi.jpg)
 
 Food is quite cheap. I love the fact I can eat out (3 meals a day) for less than $5 a day - as long as its local food.
 
