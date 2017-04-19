@@ -49,6 +49,10 @@ Fibre internet is relatively inexpensive in Thailand - about 500 baht a month fo
 
 Food is quite cheap. I love the fact I can eat out (3 meals a day) for less than $5 a day - as long as its local food.
 
+## Get Around
+
+Scooter rental by the month is about $60 - 90 a month with a $30 - $50 deposit. Having a ride means you can explore outside of the town during downtime.
+
 ## Get Stuff done
 
 For me personally, I'm don't like spending too much time in the same place (gets boring).
@@ -63,4 +67,4 @@ While getting set up with a bank account is harder than ever - it's still possib
 
 Using a service such as coins.co.th, lets me skip the ATM fee tax (some goes to the owner, some goes to the bank, plus commission) and lets me get cash for about 100 baht.
 
-Also, for those who don't understand how to use blockchain technology, you can use a service called [GoAbra](https://goabra.com) which abstracts all the blockchain stuff into something more familiar in dollars/euro/yen. It might cost some fees, but it's priced competitively against bank fees (you get charged for the privilege of using the ATM by the Thai bank, then charged by your bank, and then maybe you get a bad exchange rate). Plug - I'm an [Abra Teller](http://www.nolim1t.co/2017/04/12/so-im-an-abra-teller.html) in Chiang Mai. Show me this blog post, and I will waive some fees.
+Also, for those who don't understand how to use blockchain technology, you can use a service called [GoAbra](https://goabra.com) which abstracts all the blockchain stuff into something more familiar in dollars/euro/yen. It might cost some fees, but it's priced competitively against bank fees (you get charged for the privilege of using the ATM by the Thai bank, then charged by your bank, and then maybe you get a bad exchange rate). Plug - I'm an [Abra Teller](http://www.nolim1t.co/2017/04/12/so-im-an-abra-teller.html) in Chiang Mai. Show me this blog post, and I will refund fees on deposits (or withdrawals) - subject to current liquidity.
