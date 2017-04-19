@@ -9,7 +9,7 @@ tags:
   - daytoday
 ---
 
-Well it's finally done, over the last few months I've been making the plans to hang around South East Asia for a little bit and doing a lot of research.
+Well it's finally done, over the last few months I've made the move to head down to South East Asia for a little bit and doing a lot of research.
 
 Here are some tidbits you should be aware of.
 
