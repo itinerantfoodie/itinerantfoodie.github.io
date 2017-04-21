@@ -32,7 +32,16 @@ Scooter rentals start from 100 baht for a "low power" scooter (same price as a m
 
 Some scooter places let you leave another form of identification behind rather than a passport, which is great because I'm not a fan of leaving my passport at any business.
 
-One of the most popular scooter rentals is AyA Service, however the quality of scooters (and the amount they wanted for a deposit was a bit high). I picked a place called "Kumi Pai Motorbike" (Tel: 092-9593539) which is located across from the Pharmacy and 1 house away from the Krung Thai Bank (GPS Coordinates approx - 19.359250, 98.441224). They had what I needed, plus was actually lucky enough to have a full tank (and also not having to top up the tank too).
+One of the most popular scooter rentals is AyA Service, however the quality of scooters (and the amount they wanted for a deposit was a bit high). I picked a place called "Kumi Pai Motorbike" (Tel: 092-9593539) which is located across from the Pharmacy and 1 house away from the Krung Thai Bank  (GPS Coordinates approx - 19.359250, 98.441224). They had what I needed, plus was actually lucky enough to have a full tank (and also not having to top up the tank too).
+
+Although I heard Vespai Scooter is good too, Unfortunately closed until August.
+
+### Kumi Pai Motorbike location
+
+Here is the location of the Kumi Pai Motorbike shop.
+
+![Scooter Rental](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_181120.jpg)
+![7-11 across from it](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_181003.jpg)
 
 ## Pai itself
 
