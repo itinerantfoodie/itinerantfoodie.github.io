@@ -38,20 +38,34 @@ The town is quite small with a lot of food and cafes around the walking street a
 
 ### Coffee in Love (คอฟฟอนเลฟ)
 
+
 ![Coffee in Love](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5497.png)
 ![Coffee in Love 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5496.png)
 
 This is a scenic cafe a little outside town. It's a popular place for photography and also doing photoshooting.
 
+![It's a Sign](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_101634-01.jpeg)
+
 ![Coffee in Love 3](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5494.png)
+![Coffee in Love 4](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_114917-01.jpeg)
 
 The reviews say the coffee isn't good, but I think its not too bad.
 
+![Coffee in Love 5](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_114857-01.jpeg)
+![Coffee in Love 6](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_102146-01.jpeg)
+
+![Coffee in Love 7](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_114942-01.jpeg)
+![Coffee in Love 8](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_114715-01.jpeg)
+
 However, the view is amazing, not to mention wifi is available so I parked myself there for the next 2 hours to catch up on some work I've missed (I'm a digital nomad! Kind-of like a backpacker with less partying, but I'm more self sustaining)
+
+![Digital Nomad 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/2017-04-18-10_43_02.jpg)
+![Digital Nomad 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_112449.jpg)
 
 ### Love Strawberry Pai (เลิฟสตรอเบอร์รี่ปาย)
 
-![Love Strawberry Pai](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5500.png)
+![Love Strawberry Pai 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5500.png)
+![Love Strawberry Pai 2](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_120740.jpg)
 
 The next stop after Coffee in Love, was a place called "Love Strawberry Pai" after I saw another Chinese tourist pull into the place and it looked interesting. It's basically a strawberry farm where they also cook strawberries in the food.
 
@@ -63,22 +77,36 @@ I tried the Strawberry som tum which was quite an interesting flavor.
 
 ### Pai Canyon (กองแลน)
 
+![Pai Canyon title](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_124132.jpg)
+
 ![Pai Canyon 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5503.png)
 ![Pai Canyon 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_5504.png)
 
 [Pai Canyon](https://foursquare.com/v/%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%99-pai-canyon/4bf763a74a67c92850ae23cf) is a bit outside of the town so I recommend chartering a driver (if you have a large group) or renting a scooter if you're not in a large group.
 
+![Pai Canyon 3](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_124938.jpg)
+![Pai Canyon 4](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_125532.jpg)
+
 The canyon itself is more about the hike/trek, nature, but my only regrets was not having a sunset there. Oh well, always next time. I just wanted a short escape to get a "taste" of Pai.
 
 ### Yun Lai Viewpoint (จุดชมวิวหยุนไหล)
 
+![Yun Lai Viewpoint](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141033.jpg)
+![Yun Lai Viewpoint 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141023.jpg)
+
 Yun Lai Viewpoint (雲來) or literally clouds come viewpoint is a place where you can overlook Pai. It's about a 15 minute ride from Pai (so you need some sort of motorized transport if you wish to get up there comfortably) where sometimes you can see low clouds there making some spectacular photography (I checked on instagram).
+
+![Yun Lai Viewpoint 3](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141921.jpg)
+![Yun Lai Viewpoint 4](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_144015.jpg)
 
 Unfortunately there was no clouds around, but nevertheless a good view.
 
 There's a small entrance fee of 20 baht to get in.
 
 ### Moh Pang Waterfall (น้ำตกหมอแปง)
+
+![Moh Pang Waterfall 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_150859.jpg)
+![Moh Pang Waterfall 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_153345.jpg)
 
 Close to Yun Lai Viewpoint, I saw the signs for a waterfall. Knowing that there was still time left on the daily bike rental, I decided to check it out.
 
