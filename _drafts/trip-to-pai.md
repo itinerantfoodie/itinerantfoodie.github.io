@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Pai Trip"
+title: "762 curves? easy as ปาย (Pai)"
 categories:
   - travel
 tags:
   - thailand
   - nomadlife
+  - maehongson
 ---
 
 ![I AM PAI](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_101853.jpg)
