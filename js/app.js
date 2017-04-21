@@ -43,7 +43,7 @@ var LastSeenComponent = React.createClass({
         if (TimeDiff < 259200) { // Less than 3 days
           location_string = location_string + " " + moment.unix(parseInt(location.where.lastseen_timestamp)).fromNow();
         } else {
-          location_string = location_string;          
+          location_string = location_string;
         }
       }
       var timestamp = location.where.lastseen_timestamp;
@@ -66,8 +66,89 @@ var LastSeenComponent = React.createClass({
   }
 });
 
+var igapp = igapp || {};
+var RecentInstagramComponent =  React.createClass({
+  getInitialState: function() {
+    return {string: "", recent_instagrams: []};
+  },
+  getRecentInstagrams: function() {
+    console.log("Fetching Recent Instagrams...");
+    this.setState({
+      string: "Fetching Instagrams...",
+      recent_instagrams: []
+    });
+    var processInstagrams =  this.processInstagrams;
+    $.ajax({
+      url: 'https://31w5zsytgl.execute-api.us-east-1.amazonaws.com/1/recent_instagrams',
+      success: function(result) {
+        var responseToProcess = {"message": result.message};
+        if (result['recent_instagrams'] !== undefined) responseToProcess['recent_instagrams'] = result['recent_instagrams'];
+        processInstagrams(responseToProcess);
+      },
+      error: function(error) {
+        processInstagrams({"message": "error", "error": error});
+      }
+    });
+  },
+  processInstagrams: function(response) {
+    var outputResponse = {
+      string: "loaded"
+    };
+
+    if (response['message'] !== "Error") {
+      var recent_instagrams = response['recent_instagrams'];
+      var processed_recent_instagrams = [];
+      if (recent_instagrams.length > 6) {
+        for (var i = 0; i < 6; i++) {
+          var recent_instagram = recent_instagrams[i];
+          if (recent_instagram.link !== undefined && recent_instagram.caption !== undefined && recent_instagram.images !== undefined && recent_instagram.location !== undefined) {
+            if (recent_instagram.caption.text !== undefined && recent_instagram.images.standard_resolution !== undefined && recent_instagram.images.thumbnail !== undefined && recent_instagram.location.latitude !== undefined && recent_instagram.location.longitude !== undefined) {
+              if (recent_instagram.images.standard_resolution['url'] !== undefined && recent_instagram.images.thumbnail['url'] !== undefined) {
+                processed_recent_instagrams.push({
+                  href: recent_instagram.link,
+                  caption: recent_instagram.caption.text,
+                  thumbnail: recent_instagram.images.thumbnail['url'],
+                  image: recent_instagram.images.standard_resolution['url'],
+                  location: [recent_instagram.location.latitude, recent_instagram.location.longitude]
+                });
+              }
+            }
+          }
+        }
+      }
+      outputResponse['recent_instagrams'] = processed_recent_instagrams;
+    } else {
+      outputResponse['string'] = "Error loading recent instagrams";
+    };
+    this.setState(outputResponse);
+  },
+  componentDidMount: function() {
+      // Do this when we mount this component
+      this.getRecentInstagrams()
+  },
+  render: function() {
+    var recent_instagram_array = this.state.recent_instagrams.map((instagram) => {
+      return (
+        <a href={instagram.href} target="newwinimage"><img src={instagram.thumbnail} alt={instagram.caption} key={instagram.id}/></a>
+      )
+    });
+
+    return (
+      <p>
+        <h3>Recent Instagrams</h3>
+        {recent_instagram_array}
+      </p>
+    );
+  }
+});
 
 ReactDOM.render(
   <LastSeenComponent />,
   document.getElementById("lastseen")
+);
+
+// Recent Instagrams
+ReactDOM.render(
+  <RecentInstagramComponent />,
+  document.getElementById("recentinstagrams")
 );
