@@ -39,6 +39,12 @@ Around the moat is where most of the locals play the water fight game, or have p
 ![Sri Poom Moat 3](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0568.jpg)
 ![Sri Poom Moat 4](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0569.jpg)
 
+## The Parade
+
+On the first day of Songkran there is a Parade along Rachadamnoen Rd (also known as the Walking street on Sunday nights)
+
+![Parade 1](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0584.jpg)
+![Parade 2](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0587.jpg)
 
 ## Phae Gate area (ประตูท่าแพ)
 
@@ -54,6 +60,7 @@ This area started a day early.
 
 ![Phae Gate 5](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0610.jpg)
 ![Phae Gate 6](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0611.jpg)
+
 
 ## Loi Kroh Road (ถนนลอยเคราะห์)
 
