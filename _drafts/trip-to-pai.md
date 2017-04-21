@@ -24,7 +24,7 @@ The bus leaves from Chiang Mai Arcade bus terminal 2 (as of this writing there a
 
 ## Scooter Rental
 
-Arriving in Pai, there is a lot of scooter rental shops available. I chose to shop for a scooter ASAP. While the town is very walkable (5-10 mins you can walk from one end to the other), getting to the attractions is not.
+Arriving in Pai, there is a lot of scooter rental shops available. Because I took the minivan up, I chose to shop for a scooter ASAP. While the town is very walkable (5-10 mins you can walk from one end to the other), getting to the attractions is not. Next visit I'll ride all the way.
 
 This is because the Mae Hong San area is great for riding - not to mention the traffic is very pleasant. Just so you don't get discouraged - In Pai, I've met a lot of people who has actually had their first scooter experience there. The town is quite safe to get the basics in, and it's quite enjoyable riding around (Much better roads than Bagan in Myanmar too!).
 
