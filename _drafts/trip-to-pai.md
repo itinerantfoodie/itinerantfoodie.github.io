@@ -10,7 +10,9 @@ tags:
 
 ![I AM PAI](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_101853.jpg)
 
-I've always wanted to visit Pai for the hiking and Nature.
+I've always wanted to visit Pai for the hiking and Nature. Plus it's one of those locations where I spoke to a lot of people which they've enjoyed a lot.
+
+Not to mention crossing off the checklist of riding the Mae Hong San Loop.
 
 ## Bus ride
 
@@ -91,25 +93,48 @@ The canyon itself is more about the hike/trek, nature, but my only regrets was n
 
 ### Yun Lai Viewpoint (จุดชมวิวหยุนไหล)
 
+![Entrance to the viewpoint](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_145138.jpg)
 ![Yun Lai Viewpoint](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141033.jpg)
-![Yun Lai Viewpoint 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141023.jpg)
+
 
 Yun Lai Viewpoint (雲來) or literally clouds come viewpoint is a place where you can overlook Pai. It's about a 15 minute ride from Pai (so you need some sort of motorized transport if you wish to get up there comfortably) where sometimes you can see low clouds there making some spectacular photography (I checked on instagram).
 
+On the way to Yun Lai Viewpoint, you actually pass through Pai's Chinatown area where you noticeably see shops have their name in Chinese and Thai. Though nowadays it's hard to tell as there is a lot of Chinese visitors to Pai thanks to one of the Chinese movies 人再囧途之泰囧
+
+![Yun Lai Viewpoint 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141927.jpg)
 ![Yun Lai Viewpoint 3](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141921.jpg)
-![Yun Lai Viewpoint 4](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_144015.jpg)
+
 
 Unfortunately there was no clouds around, but nevertheless a good view.
 
-There's a small entrance fee of 20 baht to get in.
+![Yun Lai Viewpoint 4](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141023.jpg)
+![Yun Lai Viewpoint 5](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_141303.jpg)
+
+There's a small entrance fee of 20 baht to get in as of this writing.
+
+![Yun Lai Viewpoint 6](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_144015.jpg)
+![Yun Lai Viewpoint 7](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_140839.jpg)
+
 
 ### Moh Pang Waterfall (น้ำตกหมอแปง)
 
-![Moh Pang Waterfall 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_150859.jpg)
-![Moh Pang Waterfall 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_153345.jpg)
+![Moh Pang Waterfall 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_150439.jpg)
+![Moh Pang Waterfall 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_150859.jpg)
 
-Close to Yun Lai Viewpoint, I saw the signs for a waterfall. Knowing that there was still time left on the daily bike rental, I decided to check it out.
+Close to Yun Lai Viewpoint, I saw the signs for a waterfall and decided to explore it on a whim.
+
+![Moh Pang Waterfall 3](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_150859.jpg)
+![Moh Pang Waterfall 4](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170418_153345.jpg)
 
 ### Pai Walking street (ถนนคนเดินปาย)
 
 At nightfall (after 6pm), there is a lot more street food in Pai where you can have a relatively inexpensive meal.
+
+![Walking Street 1](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170417_193328.jpg)
+![Walking Street 2](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170417_194809.jpg)
+
+#### Desserts
+
+I tried one of the recommended banana + chocolate rotee for deserts in one of the stores. Simply delicious.
+
+![Rotee](https://images.itinerantfoodie.com/uploads/pai-trip-report/IMG_20170417_200850.jpg)
