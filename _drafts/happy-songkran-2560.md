@@ -24,6 +24,8 @@ This mall was one of my first sites I hit up, as it's in my local area.
 
 There's barrels of water which get refilled where you can fill up your water gun or bucket and splash passerbys or people riding pickup trucks, songtaews, or motorcycles.
 
+This video shows a sneak peak of the action (and what your would expect if you chose to drive during Songkran)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPqvxnIGfYVQWSHhDL6ud6txKBajuDr3u" frameborder="0" allowfullscreen></iframe>
 
 
