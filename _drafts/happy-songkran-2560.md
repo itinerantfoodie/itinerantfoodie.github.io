@@ -24,6 +24,9 @@ This mall was one of my first sites I hit up, as it's in my local area.
 
 There's barrels of water which get refilled where you can fill up your water gun or bucket and splash passerbys or people riding pickup trucks, songtaews, or motorcycles.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPqvxnIGfYVQWSHhDL6ud6txKBajuDr3u" frameborder="0" allowfullscreen></iframe>
+
+
 ## Sri Poom Moat Area
 
 ![Sri Poom Moat 1](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0560.jpg)
@@ -34,25 +37,27 @@ Around the moat is where most of the locals play the water fight game, or have p
 ![Sri Poom Moat 3](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0568.jpg)
 ![Sri Poom Moat 4](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0569.jpg)
 
-![Sri Poom Moat 5](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0569.jpg)
 
-## Phae Gate area
+## Phae Gate area (ประตูท่าแพ)
 
 ![Phae Gate Pew Pew](https://images.itinerantfoodie.com/uploads/songkran-2560/pewpew.jpg)
 ![Phae Gate](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0574.jpg)
 
 Around the MacDonalds is a popular spot for camping out and refilling water (sometimes Ice gets delivered too).
 
-This area started a day early. I had a bit of fun doing some drive by soakings on the day before.
+This area started a day early.
 
 ![Phae Gate 3](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0604.jpg)
 ![Phae Gate 4](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0606.jpg)
 
-## Loi Kroh Road
+![Phae Gate 5](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0610.jpg)
+![Phae Gate 6](https://images.itinerantfoodie.com/uploads/songkran-2560/YDXJ0611.jpg)
+
+## Loi Kroh Road (ถนนลอยเคราะห์)
 
 This is a popular spot for expats and foreigners. I found the water fights quite intense here - being it's the main party strip in Chiang Mai. I didn't get any pictures here as by then my waterproof camera (very important to have one!) had no battery power left.
 
-# But what's the meaning towards Songkran
+# But what's the meaning towards Songkran?
 
 The meaning behind the new year and water represents purification and the washing away of one's sins and bad luck.
 
