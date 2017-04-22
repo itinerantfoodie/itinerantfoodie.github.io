@@ -71,3 +71,7 @@ This is a popular spot for expats and foreigners. I found the water fights quite
 The meaning behind the new year and water represents purification and the washing away of one's sins and bad luck.
 
 In all the shopping malls and temples, you can also pour water over the buddha which is the traditional thing to do.
+
+See below video (taken from snapchat images)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ujyk0wuwPp0" frameborder="0" allowfullscreen></iframe>
