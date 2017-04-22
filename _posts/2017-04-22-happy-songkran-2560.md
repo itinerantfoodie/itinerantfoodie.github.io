@@ -6,6 +6,9 @@ categories:
 tags:
   - thailand
   - nomadlife
+  - songkran
+  - festivities
+  - chiangmai
 ---
 
 ![Tha Phae Gate](https://images.itinerantfoodie.com/uploads/songkran-2560/IMG_5440.png)
