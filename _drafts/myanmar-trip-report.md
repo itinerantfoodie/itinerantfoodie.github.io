@@ -11,7 +11,7 @@ tags:
   - Burma
 ---
 
-My first trip of 2017 was a trip to Myanmar which covered Yangon and the area around the Bagan temples.
+I covered Myanmar in two different trips, at the beginning of the year and also in April.
 
 ## Yangon ရန်ကုန်
 
@@ -88,7 +88,7 @@ Entrance fees for foreigners is 8000 kyats (or a little less than 8 USD).
 
 For this trip it was mostly sightseeing, however for those who are digital nomads and need a place to work check out the following places:
 
-* [**Project Hub Yangon**](www.projecthubyangon.com) - This is Yangon's first official co-working space. There's actually a startup scene in Yangon (complete with a startup weekend event!)
+* [**Project Hub Yangon**](www.projecthubyangon.com) - This is Yangon's first official co-working space. There's actually a startup scene in Yangon (complete with a startup weekend event!). And yes, you can also use Grab in Yangon too (Uber to come soon).
 * [**CRAFT**](https://foursquare.com/v/craft/5662ca80498e680e9771c743) - This is a cool cafe (located around the same area as the Project Hub coworking space). Serves good european style coffee, and many south east asian dishes. The pricing is a bit closer to the pricing in a developed country, but the wifi is quite good.
 
 ![Craft cafe 1](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3879.png)
