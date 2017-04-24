@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "762 curves? easy as ปาย (Pai)"
+title: "762 curves? (762 โค้ง) .. easy as ปาย (Pai)"
 categories:
   - travel
 tags:
