@@ -92,10 +92,11 @@ var RecentInstagramComponent =  React.createClass({
   },
   processInstagrams: function(response) {
     var outputResponse = {
-      string: "loaded"
+      string: "loaded",
+      recent_instagrams: []
     };
 
-    if (response['message'] !== "Error") {
+    if (response['message'] !== "error") {
       var recent_instagrams = response['recent_instagrams'];
       var processed_recent_instagrams = [];
       if (recent_instagrams.length > 6) {
@@ -117,7 +118,9 @@ var RecentInstagramComponent =  React.createClass({
         }
       }
       outputResponse['recent_instagrams'] = processed_recent_instagrams;
+      outputResponse['string'] = "Loaded";
     } else {
+      outputResponse['recent_instagrams'] = [];
       outputResponse['string'] = "Error loading recent instagrams";
     };
     this.setState(outputResponse);
@@ -127,18 +130,26 @@ var RecentInstagramComponent =  React.createClass({
       this.getRecentInstagrams()
   },
   render: function() {
-    var recent_instagram_array = this.state.recent_instagrams.map((instagram) => {
-      return (
-        <a href={instagram.href} target="newwinimage"><img src={instagram.thumbnail} alt={instagram.caption} key={instagram.id}/></a>
-      )
-    });
+    if (this.state.recent_instagrams.length > 0) {
+      var recent_instagram_array = this.state.recent_instagrams.map((instagram) => {
+        return (
+          <a href={instagram.href} target="newwinimage"><img src={instagram.thumbnail} alt={instagram.caption} key={instagram.id}/></a>
+        )
+      });
 
-    return (
-      <p>
-        <h3>Recent Instagrams</h3>
-        {recent_instagram_array}
-      </p>
-    );
+      return (
+        <p>
+          <h3>Recent Instagrams</h3>
+          {recent_instagram_array}
+        </p>
+      );
+    } else {
+      return (
+        <p>
+        {this.state.string}
+        </p>
+      );
+    }
   }
 });
 
