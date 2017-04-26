@@ -74,7 +74,7 @@ var RecentInstagramComponent =  React.createClass({
   getRecentInstagrams: function() {
     console.log("Fetching Recent Instagrams...");
     this.setState({
-      string: "Fetching Instagrams...",
+      string: "Fetching recent instagrams...",
       recent_instagrams: []
     });
     var processInstagrams =  this.processInstagrams;
