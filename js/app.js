@@ -141,6 +141,8 @@ var RecentInstagramComponent =  React.createClass({
         <p>
           <h3>Recent Instagrams</h3>
           {recent_instagram_array}
+          <br />
+          follow <a href="https://instagram.com/nolim1t" target="followmeinstagram"><strong>@nolim1t</strong></a> for more
         </p>
       );
     } else {
