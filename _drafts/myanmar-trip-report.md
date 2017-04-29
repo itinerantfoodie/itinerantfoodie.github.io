@@ -210,13 +210,13 @@ As there is no public transport, the options for getting around is either to hir
 ![Horse Cart 1](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4468.png)
 ![Horse Cart 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4466.png)
 
-However, the best and cheapest way (and fun!) of doing so is by electronic scooter (petrol scooters are forbidden to rent for foreigners in Bagan aparently).
+However, the best and cheapest way (and fun!) of doing so is by electronic scooter (petrol scooters are forbidden to rent for foreigners in Bagan aparently -> though it somehow doesn't stop some enterprising locals renting them out for extra money).
 
-The batteries for the E-Scooter last all day, and some of the newer models go up to 80 km/h so it's just as good as a petrol scooter.
+The batteries for the E-Scooter last all day, and some of the newer models go up to 80 km/h so it's just as good as a petrol scooter (There's not too many gas stations in Bagan).
 
 Costs is around 5000-8000 kyats a day (so around 5 bucks). (but for a few hours you can bargain it down more.).
 
-Highly recommended that you approach one of the rental places outside of where you are staying as it would be a lot cheaper doing so. My favorite scooter rental place is right in the middle of Old Bagan. The bikes are quite new.
+Highly recommended that you approach one of the rental places outside of where you are staying as it would be a lot cheaper doing so. My favorite bike rental place is right in the middle of Old Bagan. The bikes are quite new.
 
 ![Best way is on 2 wheels](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4127.png)
 ![Best way is on 2 wheels - 2](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4166.png)
