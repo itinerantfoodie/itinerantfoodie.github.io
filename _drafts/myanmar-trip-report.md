@@ -223,9 +223,11 @@ Highly recommended that you approach one of the rental places outside of where y
 
 ### Food
 
-#### Tea Leaf Salad
+#### Tea Leaf Salad လက်ဖက်သုပ်
 
 ![Tea Leaf Salad](https://images.itinerantfoodie.com/uploads/myanmar-trip-report/IMG_4311.png)
+
+Tea Leaf Salad or "Lahpet thok" (လက်ဖက်သုပ်) is one of the must try dishes in Myanmar/Burma.
 
 This may or may not be a dish from another part of Myanmar, but I was definetly recommended this at some [random roadside restaurant](https://foursquare.com/v/ya-ti-food--garden/5874a217a4367c579f3611e0).
 
