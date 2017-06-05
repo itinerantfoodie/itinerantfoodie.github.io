@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'github-pages'
-gem 'jekyll', :git => 'https://github.com/jekyll/jekyll'
+gem 'jekyll', :branch => '3.4.3', :git => 'https://github.com/jekyll/jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-feed'
 gem 'rake'
