@@ -1,5 +1,6 @@
 language: ruby
 sudo: required
+
 rvm:
     - 2.3.0
 before_install:
