@@ -12,19 +12,24 @@ tags:
 
 [![Samoeng Loop - North Thailand](https://images.itinerantfoodie.com/photos/resized-samoeng-loop.png)](https://images.itinerantfoodie.com/photos/resized-samoeng-loop-north-thailand.png)
 
+While rental companies don't really care if you're licensed or not. Sometimes it's probably a good way to have all your papers in order.
+
 For those who's curious about the process of getting a Thailand issued drivers license, I'm prepared to do a little document on it.
 
 ## Reason for getting one
 
 First things first. The Thailand drivers license is recognized in the entire ASEAN region (including Vietnam where an IDP isn't recognized - so for insurance purposes you are still legal because you have a valid license).
 
+The best way to explore South East Asia is on two wheels (so may as well try to have the legal documentation for it) where you get around like a car, however you don't need to worry too much about traffic jams or extremely narrow roads on mountains (much easier to overtake on a bike). 
+
 The total cost of obtaining both motorbike and car licenses is about between 500 and 1000 baht (depending on what documentation you are able to produce - so thats a little under 30 euros). Thats cheaper than an IDP, not to mention this lasts for 2 years. And sometimes cheaper than obtaining another licensing category if you're from Europe. In Germany, a motorbike license costs 1500 euros!
 
 You can also use this as identification on board domestic flights within the country as well.
 
-Insurance purposes for both you and your passenger. Always a good thing to expect the worst.
+Insurance coverage purposes for both you and your passenger. Always a good thing to expect the worst.
 
 You are in Chiang Mai and need to get around main roads (particularly the outer Moat Area) during the hours of 10am and 4pm.
+
 
 ## Documentation Required
 
