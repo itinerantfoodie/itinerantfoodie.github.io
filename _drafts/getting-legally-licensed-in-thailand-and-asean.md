@@ -38,4 +38,4 @@ The computer test is mostly common sense if you've done these things before, but
 
 Next, was the practical test which is basically a ride around a mock road with signs. It's fairly easy (especially if you have to ride to the office and have a bit of prior riding experience).
 
-The hardest part was maybe the "straight line test", which is riding 10 meters on a 20 cm plank of wood without driving off (or touching the ground) the plank. Pro-tip: get some speed to do it successfully or you'll find it hard to stay on. They let you try again.
+The hardest part for the motorcycle test was maybe the "straight line test", which is riding 10 meters on a 20 cm plank of wood without driving off the plank (or touching the ground). Pro-tip: get some speed to do it successfully or you'll find it hard to stay on. They let you try again.
