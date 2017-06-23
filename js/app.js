@@ -105,13 +105,22 @@ var RecentInstagramComponent =  React.createClass({
           if (recent_instagram.link !== undefined && recent_instagram.caption !== undefined && recent_instagram.images !== undefined && recent_instagram.location !== undefined) {
             if (recent_instagram.caption.text !== undefined && recent_instagram.images.standard_resolution !== undefined && recent_instagram.images.thumbnail !== undefined && recent_instagram.location.latitude !== undefined && recent_instagram.location.longitude !== undefined) {
               if (recent_instagram.images.standard_resolution['url'] !== undefined && recent_instagram.images.thumbnail['url'] !== undefined) {
-                processed_recent_instagrams.push({
+                var igobj_to_push = {
                   href: recent_instagram.link,
                   caption: recent_instagram.caption.text,
                   thumbnail: recent_instagram.images.thumbnail['url'],
-                  image: recent_instagram.images.standard_resolution['url'],
-                  location: [recent_instagram.location.latitude, recent_instagram.location.longitude]
-                });
+                  image: recent_instagram.images.standard_resolution['url']
+                };
+                if (recent_instagram.location !== undefined) {
+                  if (recent_instagram.location !== null) {
+                    if (recent_instagram.location.latitude !== undefined) {
+                      if (recent_instagram.location.latitude !== null) {
+                        igobj_to_push.location = [recent_instagram.location.latitude, recent_instagram.location.longitude];
+                      }
+                    }
+                  }
+                }; // Check for nulls cause it sometimes fucks up the code
+                processed_recent_instagrams.push(igobj_to_push);
               }
             }
           }
