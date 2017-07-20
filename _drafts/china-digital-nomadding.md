@@ -40,3 +40,7 @@ You'll also find Google Translate very useful for decyphering chinese characters
 ## Mobile Phone Data
 
 If possible, get your mobile phone data from Hong Kong, it will let you use the internet unfiltered (but you have to pay a little bit more). You can always use a VPN, but this lets you skip that step. You'll still need a Chinese Phone number to reserve train tickets and take didi chuxing rides.
+
+## Useful Apps
+
+The number one app that you MUST have is WeChat. It's basically a China Swiss Army Knife, especially if you got money loaded into it.
