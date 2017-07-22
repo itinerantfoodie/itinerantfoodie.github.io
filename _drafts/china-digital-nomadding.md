@@ -25,9 +25,15 @@ Apple Maps actually works quite well in the mainland (and it also offers pinyin 
 
 You should probably have either WeChat or Alipay installed. Personally I prefer WeChat Pay as AliPay tends not to work if you do not have a Chinese ID (I've yet to test this theory out).
 
-WeChat Pay works for most vending machines and small restaurants.
+WeChat Pay works for most vending machines, small restaurants, hotels, hostels and you can book train tickets, bus tickets and flights. Also rent bikes and hail cabs.
 
-Using WeChat Secretary, you can cash in and out of WeChat Pay using bitcoin, although I can also sell you RMB for bitcoin / litecoin / dash.
+Using WeChat Secretary, you can cash in and out of WeChat Pay using bitcoin, although I can also sell you RMB for bitcoin / litecoin / dash if you ask nicely (at market rates for China)
+
+### Bike Rental
+
+I've checked different bike rental apps, and have settled on MoBike for coverage and it's foreigner friendliness (it works with Passport - and verification is only a few hours). You need a Chinese phone number though, but you can pick up one for 50 RMB.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h986oGCV7K4" frameborder="0" allowfullscreen></iframe>
 
 ## Internet Access
 
@@ -40,7 +46,3 @@ You'll also find Google Translate very useful for decyphering chinese characters
 ## Mobile Phone Data
 
 If possible, get your mobile phone data from Hong Kong, it will let you use the internet unfiltered (but you have to pay a little bit more). You can always use a VPN, but this lets you skip that step. You'll still need a Chinese Phone number to reserve train tickets and take didi chuxing rides.
-
-## Useful Apps
-
-The number one app that you MUST have is WeChat. It's basically a China Swiss Army Knife, especially if you got money loaded into it.
