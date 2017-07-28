@@ -63,7 +63,13 @@ In Mae Hong Son, I stayed at a guesthouse called "The Like View", for a similar 
 
 ### Ban Rak Thai "Love Thailand Village" หมู่บ้านรักไทย
 
+![Ban Rak Thai 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/baanrakthai1.png)
+![Ban Rak Thai 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/baanrakthai2.jpg)
+
 Nestled at the very northernmost corner of Thailand (5 mins drive from the Myanmar border), there's a village where there is villagers who are decendants of the Republic of China refugees (國民黨) . There biggest hint is that theres Taiwan flags around, as well as most of the villagers speak chinese as well as thai.
+
+![Ban Rak Thai 3](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/baanrakthai3.png)
+![Ban Rak Thai 4](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/baanrakthai4.jpg)
 
 You can also try Yunnan Noodles 云南面 here too.
 
