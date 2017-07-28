@@ -56,7 +56,10 @@ Mae Hong Son is basically the "local" version of Pai. Rather than Pai being most
 
 There are 1864 curves between Pai and Mae Hong Son.
 
-In Mae Hong Son, I stayed at a guesthouse called "The Like House", for a similar price to the previous place. What I enjoyed was the view of the lake both during the daytime and night. And it was close to a night markets.
+![From The Like View](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/maehongson.jpg)
+![The Like View](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/maehongsonnight.jpg)
+
+In Mae Hong Son, I stayed at a guesthouse called "The Like View", for a similar price to the previous place (private room!). What I enjoyed was the view of the lake both during the daytime and night. And it was close to a night markets.
 
 ### Ban Rak Thai "Love Thailand Village" หมู่บ้านรักไทย
 
