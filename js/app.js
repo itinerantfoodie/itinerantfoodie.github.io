@@ -79,7 +79,7 @@ var RecentInstagramComponent =  React.createClass({
     });
     var processInstagrams =  this.processInstagrams;
     $.ajax({
-      url: 'https://31w5zsytgl.execute-api.us-east-1.amazonaws.com/1/recent_instagrams',
+      url: 'https://f3dtj9w6l5.execute-api.us-east-1.amazonaws.com/1/recent_instagrams',
       success: function(result) {
         var responseToProcess = {"message": result.message};
         if (result['recent_instagrams'] !== undefined) responseToProcess['recent_instagrams'] = result['recent_instagrams'];
