@@ -79,11 +79,26 @@ Pai was basically my last stop before heading back to Chiang Mai where there is 
 
 Doing the curves was easy enough.
 
+## Pai Waterfalls
+
+![Pam Bok Waterfall 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/pambokwaterfall1.jpg)
+![Pam Bok Waterfall 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/pambokwaterfall2.jpg)
+
+My favorite waterfall in Pai is Pam Bok Waterfall. The water is deep and cool, and it's a bit secluded.
+
+There is also a nice coffee shop up the road which makes great coffee, and if you go even further theres some rice fields.
+
+## Pai Chinatown
+
+In Pai Chinatown, there is a store which sells the Mixian Yunnan noodles and Khao Soi - being that Pai has a Yunnan immigrant population.
+
+![Yunnan Noodles Khao Soi](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0896.png)
+
 ## Other stuff
 
 Other noteable stuff along the way that I did in previous trips was
 
-### Chiang Mai Grand Canyoncd
+### Chiang Mai Grand Canyon
 
 Named after the USA's version because of the orange cliffs, this is a place for watersports or just photography.
 
