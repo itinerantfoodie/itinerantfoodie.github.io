@@ -58,3 +58,10 @@ If possible, get your mobile phone data from Hong Kong, it will let you use the 
 If you're on Android, you should download the [Maps.me](http://maps.me/en/home) app before you go. In fact, even iOS should work too - however it's not necessary as the mapping on iOS uses a local provider (which also uses all the local APIs).
 
 Fun fact, Taiwan is a province of China according to the iOS mapping API.
+
+### Google Maps Weirdness
+
+This is why Google cant be used here (even if you get it working)
+
+![GOOGLE MAPS](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1281.PNG)
+
