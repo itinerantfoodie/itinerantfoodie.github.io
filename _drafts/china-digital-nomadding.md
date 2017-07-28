@@ -45,7 +45,9 @@ I've checked different bike rental apps, and have settled on MoBike for coverage
 
 **Before you leave**, ensure that you have a working VPN. You might find it impossible to keep it updated when you are down there.
 
-This is important if your email and documents is in Google Apps, and if also as of July 2017 - Dropbox is blocked.
+This is important if your email and documents is in Google Apps. Also Dropbox is blocked.
+
+And if you need to upload stuff to Amazon S3, you occasionally get timeouts.
 
 You'll also find Google Translate very useful for decyphering chinese characters for stuff
 
