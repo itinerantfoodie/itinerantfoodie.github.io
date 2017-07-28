@@ -59,12 +59,6 @@ If you're on Android, you should download the [Maps.me](http://maps.me/en/home) 
 
 Fun fact, Taiwan is a province of China according to the iOS mapping API.
 
-### Google Maps Weirdness
-
-This is why Google cant be used here (even if you get it working)
-
-![GOOGLE MAPS](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1281.PNG)
-
 ### Apple Maps
 
 Yes it's actually better than Google. It will even give you public transit directions too, and has a very comprehensive database.
@@ -81,3 +75,13 @@ The key feature is offline maps so you can download maps when you're on wifi.
 The data is actually quite accurate.
 
 ![Maps.me](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1283.PNG)
+
+### Google Maps Weirdness
+
+This is why Google cant be used here (even if you get it working using a VPN).
+
+Note that the pin location is about half a kilometer away from your actual location. Don't try to use apps that depend on this API. It's useless.
+
+Note to app developers (particularly travel apps!), learn about this limitation and build better apps.
+
+![GOOGLE MAPS](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1281.PNG)
