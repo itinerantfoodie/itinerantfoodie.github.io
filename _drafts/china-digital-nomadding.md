@@ -65,3 +65,19 @@ This is why Google cant be used here (even if you get it working)
 
 ![GOOGLE MAPS](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1281.PNG)
 
+### Apple Maps
+
+Yes it's actually better than Google. It will even give you public transit directions too, and has a very comprehensive database.
+
+![Apple Maps](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1284.PNG)
+
+
+### Maps.me
+
+Maps.me is a good Android alternative, and also a good alternative for iOS users too.
+
+The key feature is offline maps so you can download maps when you're on wifi.
+
+The data is actually quite accurate.
+
+![Maps.me](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1283.PNG)
