@@ -51,3 +51,16 @@ You can also try Yunnan Noodles 云南面 here too.
 Pai was basically my last stop before heading back to Chiang Mai where there is 764 curves. After doing 1864 curves on the way to Pai from Mae Hong Son.
 
 Doing the curves was easy enough.
+
+## Other stuff
+
+Other noteable stuff along the way that I did in previous trips was
+
+### Chiang Mai Grand Canyon
+
+### Pha Chor Canyon
+
+This canyon looks similar to Grand Canyon
+### Doi Ithanon
+
+Doi Ithanon is along the way to Mae Sariang, which is the highest point in thailand
