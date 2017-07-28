@@ -10,11 +10,19 @@ tags:
   - Thailand
 ---
 
+[Start of the Loop!](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0764.png)
+[Motorcycle view](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0767.png)
+
 I've heard a lot about the Mae Hong Son loop from previous travelers, so I thought I make this something to do.
 
 The bike I used for the first time was my trusty 2017 125cc Honda Click Scooter. It's quite economical on the gas (for the entire 600 km trip, I spent less than $10 in gas, and still had half a tank left over when coming back to Chiang Mai). The scooter handled the trip quite well being that it was quite new.
 
-Next time I do the loop though, I want to try it on a bigger bike.
+Next time I do the loop though, I want to try it on a bigger bike to see the difference.
+
+Overall the loop was quite a nice drive. After the mountains you start to sometimes see livestock cross the road randomly.
+
+[Livestock 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0816.png)
+[Livestock 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0817.png)
 
 ## On the way to Mae Sariang
 
@@ -42,9 +50,13 @@ I stumbled along a guesthouse called "Riverhouse Hotel" which had an awesome vie
 
 ## Mae Hong Son แม่ฮ่องสอน
 
+[Welcome to Mae Hong Son](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/welcometomaehongson.jpg)
+
 Mae Hong Son is basically the "local" version of Pai. Rather than Pai being mostly foreigners, Mae Hong Son is mostly local.
 
 There are 1864 curves between Pai and Mae Hong Son.
+
+In Mae Hong Son, I stayed at a guesthouse called "The Like House", for a similar price to the previous place. What I enjoyed was the view of the lake both during the daytime and night. And it was close to a night markets.
 
 ### Ban Rak Thai "Love Thailand Village" หมู่บ้านรักไทย
 
