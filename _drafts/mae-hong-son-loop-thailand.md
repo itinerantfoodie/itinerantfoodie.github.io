@@ -10,8 +10,8 @@ tags:
   - Thailand
 ---
 
-[Start of the Loop!](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0764.png)
-[Motorcycle view](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0767.png)
+![Start of the Loop!](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0764.png)
+![Motorcycle view](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0767.png)
 
 I've heard a lot about the Mae Hong Son loop from previous travelers, so I thought I make this something to do.
 
@@ -21,8 +21,8 @@ Next time I do the loop though, I want to try it on a bigger bike to see the dif
 
 Overall the loop was quite a nice drive. After the mountains you start to sometimes see livestock cross the road randomly.
 
-[Livestock 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0816.png)
-[Livestock 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0817.png)
+![Livestock 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0816.png)
+![Livestock 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0817.png)
 
 ## On the way to Mae Sariang
 
@@ -32,13 +32,13 @@ Along the way to Mae Sariang, I decided to check out these two Wats for some pho
 
 ### Youngfolk/Bean and Brew cafe
 
-[YoungFolk 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk1.png)
-[YoungFolk 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk2.png)
+![YoungFolk 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk1.png)
+![YoungFolk 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk2.png)
 
 Found this really cute and cool cafe in Ban Chomthong which is along the way to Mae Sariang. Because I was working on a couple of projects being a digital nomad, I needed some wifi for a few hours.
 
-[YoungFolk3](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk3.png)
-[Youngfolk4](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk4.png)
+![YoungFolk3](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk3.png)
+![Youngfolk4](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk4.png)
 
 And of course iced coffee in Thailand is awesome.
 
@@ -50,7 +50,7 @@ I stumbled along a guesthouse called "Riverhouse Hotel" which had an awesome vie
 
 ## Mae Hong Son แม่ฮ่องสอน
 
-[Welcome to Mae Hong Son](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/welcometomaehongson.jpg)
+![Welcome to Mae Hong Son](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/welcometomaehongson.jpg)
 
 Mae Hong Son is basically the "local" version of Pai. Rather than Pai being mostly foreigners, Mae Hong Son is mostly local.
 
