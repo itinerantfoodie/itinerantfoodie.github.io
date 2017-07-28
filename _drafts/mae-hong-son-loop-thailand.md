@@ -24,7 +24,13 @@ Along the way to Mae Sariang, I decided to check out these two Wats for some pho
 
 ### Youngfolk/Bean and Brew cafe
 
+[YoungFolk 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk1.png)
+[YoungFolk 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk2.png)
+
 Found this really cute and cool cafe in Ban Chomthong which is along the way to Mae Sariang. Because I was working on a couple of projects being a digital nomad, I needed some wifi for a few hours.
+
+[YoungFolk3](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk3.png)
+[Youngfolk4](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/youngfolk4.png)
 
 And of course iced coffee in Thailand is awesome.
 
@@ -56,11 +62,14 @@ Doing the curves was easy enough.
 
 Other noteable stuff along the way that I did in previous trips was
 
-### Chiang Mai Grand Canyon
+### Chiang Mai Grand Canyoncd
+
+Named after the USA's version because of the orange cliffs, this is a place for watersports or just photography.
 
 ### Pha Chor Canyon
 
-This canyon looks similar to Grand Canyon
+This canyon looks similar to Grand Canyon but without the water.
+
 ### Doi Ithanon
 
 Doi Ithanon is along the way to Mae Sariang, which is the highest point in thailand
