@@ -27,6 +27,12 @@ You should probably have either WeChat or Alipay installed. Personally I prefer 
 
 WeChat Pay works for most vending machines, small restaurants, hotels, hostels and you can book train tickets, bus tickets and flights. Also rent bikes and hail cabs.
 
+WeChat Pay works in the metro in the following places:
+
+* Selected stops in Shenzhen
+* Everywhere in Guangzhou
+* In Chengdu you can buy a stored value card with WeChat or AliPay
+
 Using WeChat Secretary, you can cash in and out of WeChat Pay using bitcoin, although I can also sell you RMB for bitcoin / litecoin / dash if you ask nicely (at market rates for China)
 
 ### Bike Rental
