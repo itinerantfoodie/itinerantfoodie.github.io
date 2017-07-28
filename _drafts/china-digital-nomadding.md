@@ -46,3 +46,9 @@ You'll also find Google Translate very useful for decyphering chinese characters
 ## Mobile Phone Data
 
 If possible, get your mobile phone data from Hong Kong, it will let you use the internet unfiltered (but you have to pay a little bit more). You can always use a VPN, but this lets you skip that step. You'll still need a Chinese Phone number to reserve train tickets and take didi chuxing rides.
+
+## Mapping Apps
+
+If you're on Android, you should download the [Maps.me](http://maps.me/en/home) app before you go. In fact, even iOS should work too - however it's not necessary as the mapping on iOS uses a local provider (which also uses all the local APIs).
+
+Fun fact, Taiwan is a province of China according to the iOS mapping API.
