@@ -9,7 +9,11 @@ tags:
   - china
 ---
 
-你好 from behind the Great Firewall! I've decided to spend some time in China (as it's probably a good idea to give Thailand a rest for now. After all Nomadic means to reap the benefits of multiple places), and plus I heard Guilin and Yangshuo are beautiful.
+你好 from behind the Great Firewall! I've decided to spend some time in China (as it's probably a good idea to give Thailand a rest for now. After all Nomadic means to reap the benefits of multiple places), and plus I heard Guilin and Yangshuo are beautiful (which is probably one of my favorite places in China).
+
+Guilin having the best accomodation options. If you're ever in Guilin and need somewhere cheap and good quality to stay, check out [Wada Hostel](https://wadahostel.com). In terms of price (5 EUR a night), it's one of the best hostels in the world. Great beds (with privacy curtain), awesome staff, wifi with VPN, and good location. And for those who want to ditch cash, they take WeChat pay.
+
+Yangshuo for the amount of things to do in town. The Wada branch there is also quite good too.
 
 I've also come up with a chinese term for my profession - 技術工作者遊牧 ("jishu gongzuozhe youmu" or Nomadic Technology Worker literally).
 
@@ -92,3 +96,12 @@ Note that the pin location is about half a kilometer away from your actual locat
 Note to app developers (particularly travel apps!), learn about this limitation and build better apps.
 
 ![GOOGLE MAPS](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1281.PNG)
+
+## Lessons Learnt from China Nomadding
+
+* Always be Charging. With your phone as your portal to life (in China WeChat = Life. No WeChat No Life), it's very important to keep it charged up. They sell power banks quite cheap (I recommend Xiaomi though. It's basically the Apple of China, but beware of copycat stores - just see how the staff are dressed, its a big giveaway)
+* Good place to test your websites loading time.
+* If you're an app or web developer, don't use google APIs to build your site. For location, I recommend using foursquare or open street maps. Foursquare is easier to use but some of the datasets can be a bit dodgy (thanks to create venue tool using part of the google api). If you use google analytics, put it to the end of the page rather than the front
+* Also, uploading to Amazon S3 is much faster if you activate your VPN first.
+* If you're a web designer, don't use google fonts.
+* Conclusion, don't rely on Google.
