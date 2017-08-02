@@ -12,12 +12,12 @@ tags:
 
 ![Sanya](https://images.itinerantfoodie.com/sanya-trip-report/resized-IMG_0071.png)
 
-Sanya is an interesting destination. It's known as oriental Haiwaii and a place where lots of Northern Chinese (and Russians) go to escape the harsh winters as the weather is always summer there. For me personally, it's basically Hawaii on a budget.
+Sanya is an interesting destination. It's known as oriental Haiwai and a place where lots of Northern Chinese (and Russians) go to escape the harsh winters as the weather is always summer there. For me personally, it's basically Hawaii on a budget.
 
 ![Beach 1](https://images.itinerantfoodie.com/sanya-trip-report/resized-IMG_0047.png)
 ![Beach 2](https://images.itinerantfoodie.com/sanya-trip-report/resized-IMG_0052.png)
 
-And I do mean it's on a budget. Where else can you stay in a local 5 star resort hotel for less than 50 USD a night (off peak rates). And this includes a buffet breakfast. Usually if you at a 5 star hotel, that is what you are paying just for breakfast.
+And I do mean it's on a budget. Where else can you stay in a local 5 star resort hotel for less than 50 USD a night (low season / off peak rates). And this includes a buffet breakfast. Usually if you at a 5 star hotel, that is what you are paying just for breakfast.
 
 As far as comfort as concerned, it's still good (international standards, maybe a 3 star hotel, but price wise still good). Even buying stuff in the hotels is still cheaper than the usual resort prices, however in mainland china, you can probably go even cheaper (think less than 1 USD for a beer)
 
