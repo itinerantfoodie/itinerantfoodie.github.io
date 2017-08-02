@@ -12,7 +12,7 @@ tags:
 
 ![Sanya](https://images.itinerantfoodie.com/sanya-trip-report/resized-IMG_0071.png)
 
-Sanya is an interesting destination. It's known as oriental Haiwai and a place where lots of Northern Chinese (and Russians) go to escape the harsh winters as the weather is always summer there. For me personally, it's basically Hawaii on a budget.
+Sanya is an interesting destination. It's known as oriental Hawaii and a place where lots of Northern Chinese (and Russians) go to escape the harsh winters as the weather is always summer there. For me personally, it's basically Hawaii on a budget.
 
 ![Beach 1](https://images.itinerantfoodie.com/sanya-trip-report/resized-IMG_0047.png)
 ![Beach 2](https://images.itinerantfoodie.com/sanya-trip-report/resized-IMG_0052.png)
