@@ -11,7 +11,7 @@ tags:
 
 你好 from behind the Great Firewall! I've decided to spend some time in China (as it's probably a good idea to give Thailand a rest for now. After all Nomadic means to reap the benefits of multiple places), and plus I heard Guilin and Yangshuo are beautiful (which is probably one of my favorite places in China).
 
-Guilin having the best accomodation options. If you're ever in Guilin and need somewhere cheap and good quality to stay, check out [Wada Hostel](https://wadahostel.com). In terms of price (5 EUR a night), it's one of the best hostels in the world. Great beds (with privacy curtain), awesome staff, wifi with VPN, and good location. And for those who want to ditch cash, they take WeChat pay.
+Guilin having the best accomodation options. If you're ever in Guilin and need somewhere cheap and good quality to stay, check out [Wada Hostel](https://wadahostel.com). In terms of price (5 EUR a night), it's one of the best hostels in the world (the Beijing Wada Hostel though, not sure if it matches the Guilin one but its OK - maybe a bit overpriced for what you're getting). Great beds (with privacy curtain), awesome staff, wifi with VPN, and good location. And for those who want to ditch cash, they take WeChat pay.
 
 Yangshuo for the amount of things to do in town. The Wada branch there is also quite good too.
 
