@@ -83,9 +83,20 @@ You can also try Yunnan Noodles 云南面 here too.
 
 ## Pai ปาย
 
+![Pai](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1526.jpg)
+
 Pai was basically my last stop before heading back to Chiang Mai where there is 764 curves. After doing 1864 curves on the way to Pai from Mae Hong Son.
 
 Doing the curves was easy enough.
+
+But if you wish to know more about Pai itself, check out my [other post](https://itinerantfoodie.com/post/travel/2017-04-28/easy-as-pai.html). At that time, I took the minivan to Pai (and rented up there instead).
+
+### Pai Canyon
+
+![Pai Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0780.png)
+![Pai Canyon 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0781.png)
+
+About 5 km out of town is a hiking and photography area called Pai Canyon.
 
 ### Pai Waterfalls
 
