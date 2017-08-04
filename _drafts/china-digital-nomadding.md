@@ -111,5 +111,4 @@ Note to app developers (particularly travel apps!), learn about this limitation 
 * Good place to test your websites loading time.
 * If you're an app or web developer, don't use google APIs to build your site. For location, I recommend using foursquare or open street maps. Foursquare is easier to use but some of the datasets can be a bit dodgy (thanks to create venue tool using part of the google api). If you use google analytics, put it to the end of the page rather than the front
 * Also, uploading to Amazon S3 is much faster if you activate your VPN first.
-* If you're a web designer, don't use google fonts.
-* Conclusion, don't rely on Google.
+* If you're a web designer, don't use google fonts. I was struggling to find out why my profile portfolio site was taking a long time to load (and not loading completely). Turns out it uses Google Fonts which I will turn it off..
