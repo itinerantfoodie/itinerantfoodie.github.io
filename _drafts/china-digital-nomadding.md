@@ -63,9 +63,17 @@ And if you need to upload stuff to Amazon S3, you occasionally get timeouts.
 
 You'll also find Google Translate very useful for decyphering chinese characters for stuff
 
+## Coworking
+
+![WeWork Beijing](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1945.png)
+
+I think it's relatively a new concept in China, but WeWork has a presence in Beijing and Shanghai.
+
+Hopefully theres a branch open in Chengdu (so far it's one of my favorite Chinese cities)
+
 ## Mobile Phone Data
 
-If possible, get your mobile phone data from Hong Kong, it will let you use the internet unfiltered (but you have to pay a little bit more). You can always use a VPN, but this lets you skip that step. You'll still need a Chinese Phone number to reserve train tickets and take didi chuxing rides.
+If possible, get your mobile phone data from Hong Kong, it will let you use the internet unfiltered (but you have to pay a little bit more). You can always use a VPN, but this lets you skip that step. You'll still need a Chinese Phone number to reserve train tickets and take didi chuxing rides though.
 
 ## Document and Collaboration Apps
 
