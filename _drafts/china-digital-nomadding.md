@@ -66,6 +66,7 @@ You'll also find Google Translate very useful for decyphering chinese characters
 ## Coworking
 
 ![WeWork Beijing](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1945.png)
+![WeWork Shanghai](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1944.png)
 
 I think it's relatively a new concept in China, but WeWork has a presence in Beijing and Shanghai.
 
