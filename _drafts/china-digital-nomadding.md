@@ -47,7 +47,9 @@ Getting a Chinese bank account is actually not too hard on a tourist visa. Some 
 
 This is probably assuming you're not a US citizen, but I don't think China cares what the US says so US citizens may have more luck here.
 
-Having a banking base gives you access to fund your WeChat and AliPay account and also withdraw cash from it.
+Having a banking base gives you access to fund your WeChat and AliPay account without having to worry about bitcoin and also withdraw cash from it.
+
+However you can use vpayfast.com to fund it by Visa / Mastercard / American Express / Paypal as well.
 
 ## Bike Rental
 
