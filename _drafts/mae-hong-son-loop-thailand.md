@@ -124,3 +124,6 @@ Perfect place for hiking and photography. There's an entrance fee for this one a
 Doi Ithanon is along the way to Mae Sariang, which is the highest point in thailand.
 
 If you're going there, also check out Mae Pan Waterfall which is one of the highest waterfalls in Thailand.
+
+![Highest Point in Thailand](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0886.png)
+![Doi Ithanon Hiking](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0888.png)
