@@ -62,7 +62,7 @@ There are 1864 curves between Pai and Mae Hong Son.
 ![From The Like View](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/maehongson.jpg)
 ![The Like View](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/maehongsonnight.jpg)
 
-In Mae Hong Son, I stayed at a guesthouse called "The Like View", for a similar price to the previous place (private room!). What I enjoyed was the view of the lake both during the daytime and night. And it was close to a Lae Jom Gun Walking Street (แหล่จอมกั๋น).
+In Mae Hong Son, I stayed at a guesthouse called ["The Like View"](https://www.facebook.com/The-like-view-guesthouse-697021760345588/), for a similar price to the previous place (private room!). What I enjoyed was the view of the lake both during the daytime and night. And it was close to a Lae Jom Gun Walking Street (แหล่จอมกั๋น).
 
 Also don't forget to check out the Wat on the hill which lets you see how small the entire town is (the airport in Mae Hong Son is as big as the town itself!)
 
