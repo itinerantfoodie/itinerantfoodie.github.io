@@ -100,6 +100,8 @@ Other noteable stuff along the way that I did in previous trips was
 
 ### Chiang Mai Grand Canyon
 
+![Grand Canyan Chiang Mai](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0028.png)
+
 Named after the USA's version because of the orange cliffs, this is a place for watersports or just photography.
 
 ### Pha Chor Canyon
