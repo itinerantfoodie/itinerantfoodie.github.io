@@ -44,7 +44,10 @@ And of course iced coffee in Thailand is awesome.
 
 ## Mae Sariang แม่สะเรียง
 
-Mae Sariang was basically a sleepier version of Mae Hong Son. Very local with few amenities.
+![Mae Sariang 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1380.png)
+![Mae Sariang 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1385.jpg)
+
+Mae Sariang was basically a sleepier version of Mae Hong Son. Very local with few amenities (If you're a Bangkok Bank customer, bring extra cash as there is no ATMs for you in this town!).
 
 I stumbled along a guesthouse called "Riverhouse Hotel" which had an awesome view of the river for a bit under $3 (low season prices!). The room was basic, but considering what I paid it is still good value.
 
