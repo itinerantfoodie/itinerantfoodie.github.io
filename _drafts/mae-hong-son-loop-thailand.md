@@ -62,9 +62,9 @@ There are 1864 curves between Pai and Mae Hong Son.
 ![From The Like View](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/maehongson.jpg)
 ![The Like View](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/maehongsonnight.jpg)
 
-In Mae Hong Son, I stayed at a guesthouse called ["The Like View"](https://www.facebook.com/The-like-view-guesthouse-697021760345588/), for a similar price to the previous place (private room!). What I enjoyed was the view of the lake both during the daytime and night. And it was close to a Lae Jom Gun Walking Street (แหล่จอมกั๋น).
+In Mae Hong Son, I stayed at a guesthouse called ["The Like View"](https://www.facebook.com/The-like-view-guesthouse-697021760345588/), for a similar price to the previous place (private room!). What I enjoyed was the view of the lake and Wat Chong Kham (วัดจองคำ) both during the daytime and night. And it was close to a Lae Jom Gun Walking Street (แหล่จอมกั๋น).
 
-Also don't forget to check out the Wat on the hill which lets you see how small the entire town is (the airport in Mae Hong Son is as big as the town itself!)
+Also don't forget to check out the Wat on the hill (Wat Phratat Doi Kong Mu / วัดพระธาตุดอยกองมู) which lets you see how small the entire town is (the airport in Mae Hong Son is as big as the town itself!)
 
 ![Wat on the Hill](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1438.jpg)
 ![Mae Hong Son Airport](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1441.png)
@@ -81,6 +81,14 @@ Nestled at the very northernmost corner of Thailand (5 mins drive from the Myanm
 
 You can also try Yunnan Noodles 云南面 here too.
 
+### Viewpoints along the way
+
+On the way to Pai, don't forget to stop at some of the Viewpoints along the way for a breather.
+
+One of the notable viewpoints is the Pang Mapha Viewpoint (จุดชมวิวปางมะผ้า)
+
+![Viewpoint](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1476.png)
+
 ## Pai ปาย
 
 ![Pai](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1526.jpg)
@@ -91,7 +99,7 @@ Doing the curves was easy enough.
 
 But if you wish to know more about Pai itself, check out my [other post](https://itinerantfoodie.com/post/travel/2017-04-28/easy-as-pai.html). At that time, I took the minivan to Pai (and rented up there instead).
 
-### Pai Canyon
+### Pai Canyon กองแลน
 
 ![Pai Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0780.png)
 ![Pai Canyon 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0781.png)
@@ -124,7 +132,7 @@ Other noteable stuff along the way that I did in previous trips was
 
 Named after the USA's version because of the orange cliffs, this is a place for watersports or just photography.
 
-### Pha Chor Canyon
+### Pha Chor Canyon ผาช่อ
 
 ![Pha Chor Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1241.jpg)
 
@@ -135,7 +143,7 @@ Perfect place for hiking and photography. There's an entrance fee for this one a
 ![Pha Chor Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1251.jpg)
 ![Pha Chor Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1252.jpg)
 
-### Doi Ithanon
+### Doi Ithanon ดอยอินทนนท์
 
 ![Doi Ithanon Temple](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0967.jpg)
 ![Mae Pan Waterfall](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0956.png)
