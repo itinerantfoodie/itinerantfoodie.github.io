@@ -31,6 +31,7 @@ Overall the loop was quite a nice drive. After the mountains you start to someti
 For a 3 day journey, I did a rough plan of where I want to be (and also serves as a journal for later).
 
 Of course this is just a rough plan.
+
 ## On the way to Mae Sariang
 
 ### Wat Phra That Sri Chom Thong and Wat Phrathat Doi Noi
@@ -127,6 +128,20 @@ There is also a nice coffee shop up the road which makes great coffee, and if yo
 In Pai Chinatown, there is a store which sells the Mixian Yunnan noodles and Khao Soi - being that Pai has a Yunnan immigrant population.
 
 ![Yunnan Noodles Khao Soi](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0896.png)
+
+## Pai to Chiang Mai
+
+### Pai Memorial Bridge
+
+![Pai Memorial Bridge](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/memorialbridge.jpg)
+
+This bridge has some history dated from the days of the Japanese Occupation where the Japanese enlisted (forced?) the Pai villagers to build a bridge for the troops to get through.
+
+The bridge was also used for supplies to Pai. And eventually was replaced by the old Nawarat Bridge from Chiang Mai after the Japanese troops burnt down the old bridge after they lost the war (sore losers?).
+
+### The Witches house Coffee shop
+
+This is a witch themed coffee shop around the halfway mark between Pai and Chiang Mai.
 
 ## Other stuff
 
