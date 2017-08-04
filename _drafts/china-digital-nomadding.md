@@ -39,7 +39,15 @@ WeChat Pay works in the metro in the following places:
 
 Using WeChat Secretary, you can cash in and out of WeChat Pay using bitcoin, although I can also sell you RMB for bitcoin / litecoin / dash if you ask nicely (at market rates for China)
 
-### Bike Rental
+### Banking
+
+Getting a Chinese bank account is actually not too hard on a tourist visa. Some banks may not want to do it though, but others will do it for you (gotta love the KPIs where they get bonuses for accounts they open.).
+
+This is probably assuming you're not a US citizen, but I don't think China cares what the US says so US citizens may have more luck here.
+
+Having a banking base gives you access to fund your WeChat and AliPay account and also withdraw cash from it.
+
+## Bike Rental
 
 I've checked different bike rental apps, and have settled on MoBike for coverage and it's foreigner friendliness (it works with Passport - and verification is only a few hours). You need a Chinese phone number though, but you can pick up one for 50 RMB.
 
