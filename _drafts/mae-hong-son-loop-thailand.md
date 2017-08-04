@@ -107,8 +107,20 @@ Named after the USA's version because of the orange cliffs, this is a place for 
 
 ### Pha Chor Canyon
 
-This canyon looks similar to Grand Canyon but without the water.
+![Pha Chor Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1241.jpg)
+
+This canyon looks similar to Grand Canyon but without the water or swimming.
+
+Perfect place for hiking and photography. There's an entrance fee for this one as well.
+
+![Pha Chor Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1251.jpg)
+![Pha Chor Canyon](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1252.jpg)
 
 ### Doi Ithanon
 
-Doi Ithanon is along the way to Mae Sariang, which is the highest point in thailand
+![Doi Ithanon Temple](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0967.jpg)
+![Mae Pan Waterfall](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0956.png)
+
+Doi Ithanon is along the way to Mae Sariang, which is the highest point in thailand.
+
+If you're going there, also check out Mae Pan Waterfall which is one of the highest waterfalls in Thailand.
