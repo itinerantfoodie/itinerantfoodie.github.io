@@ -141,6 +141,9 @@ The bridge was also used for supplies to Pai. And eventually was replaced by the
 
 ### The Witches house Coffee shop
 
+![Witches House Coffee Shop 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0968.png)
+![Witches House Coffee Shop 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0974.png)
+
 This is a witch themed coffee shop around the halfway mark between Pai and Chiang Mai.
 
 ## Other stuff
