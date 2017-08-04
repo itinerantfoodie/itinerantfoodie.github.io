@@ -24,6 +24,13 @@ Overall the loop was quite a nice drive. After the mountains you start to someti
 ![Livestock 1](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0816.png)
 ![Livestock 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0817.png)
 
+## Planning
+
+![Mae Hong Son Loop](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/MaeHongSonLoop.png)
+
+For a 3 day journey, I did a rough plan of where I want to be (and also serves as a journal for later).
+
+Of course this is just a rough plan.
 ## On the way to Mae Sariang
 
 ### Wat Phra That Sri Chom Thong and Wat Phrathat Doi Noi
