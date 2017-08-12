@@ -100,6 +100,7 @@ One of the notable viewpoints is the Pang Mapha Viewpoint (จุดชมวิ
 ## Pai ปาย
 
 ![Pai](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_1526.jpg)
+![Coffee in Love](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/pai-coffee-in-love.jpg)
 
 Pai was basically my last stop before heading back to Chiang Mai where there is 764 curves. After doing 1864 curves on the way to Pai from Mae Hong Son.
 
