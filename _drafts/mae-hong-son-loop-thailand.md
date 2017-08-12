@@ -124,6 +124,8 @@ My favorite waterfall in Pai is Pam Bok Waterfall. The water is deep and cool, a
 
 There is also a nice coffee shop up the road which makes great coffee, and if you go even further theres some rice fields.
 
+![PamBok Coffee](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/pai-pambok-coffee.jpg)
+
 ### Pai Chinatown
 
 In Pai Chinatown, there is a store which sells the Mixian Yunnan noodles and Khao Soi - being that Pai has a Yunnan immigrant population.
