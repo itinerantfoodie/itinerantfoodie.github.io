@@ -82,7 +82,7 @@ Unfortunately, even with WeWork's international presence you still need to use a
 Not sure of any local equivalent for Dropbox. Mega seems to work well, but its slow.
 
 ![WeWork 1](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/wework1.jpg)
-![Resized CDN ink](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/wework2.png)
+![WeWork 2](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/wework2.png)
 
 Hopefully theres a branch open in Chengdu (so far it's one of my favorite Chinese cities)
 
