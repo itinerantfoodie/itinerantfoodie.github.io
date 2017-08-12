@@ -183,3 +183,10 @@ If you're going there, also check out Mae Pan Waterfall which is one of the high
 
 ![Highest Point in Thailand](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0886.png)
 ![Doi Ithanon Hiking](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/IMG_0888.png)
+
+## Conclusion
+
+* The loop is easiest counter clockwise. You also save the fun parts for last (i.e. Mae Hong Son and Pai). I'll try it the other way round and see what the difference is.
+* Be prepared for the temperature drop.
+* If you spend the night in Mae Sariang and rely on Bangkok Bank - there is NO ATMs there for you so have cash.
+* Will definetly want to do this loop again, at least doing the Pai curves with a GoPro. And probably on a real motorbike (200+ cc)
