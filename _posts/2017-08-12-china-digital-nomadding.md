@@ -32,6 +32,9 @@ Apple Maps actually works quite well in the mainland (and it also offers pinyin 
 
 ## Money and Payments
 
+![Alipay 支付宝](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/alipay-logo-v2.jpg)
+![WeChat Pay 微信](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/wechatpay.png)
+
 You should probably have either WeChat or Alipay installed. Personally I prefer WeChat Pay as AliPay tends not to work if you do not have a Chinese ID (I've yet to test this theory out).
 
 WeChat Pay works for most vending machines, small restaurants, hotels, hostels and you can book train tickets, bus tickets and flights. Also rent bikes and hail cabs.
