@@ -135,6 +135,7 @@ In Pai Chinatown, there is a store which sells the Mixian Yunnan noodles and Kha
 ### Pai Memorial Bridge
 
 ![Pai Memorial Bridge](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/memorialbridge.jpg)
+![Pai Memorial Bridge 2](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/pai-bridge-2.jpg)
 
 This bridge has some history dated from the days of the Japanese Occupation where the Japanese enlisted (forced?) the Pai villagers to build a bridge for the troops to get through.
 
