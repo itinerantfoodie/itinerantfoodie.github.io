@@ -123,6 +123,8 @@ Note to app developers (particularly travel apps!), learn about this limitation 
 
 ## Lessons Learnt from China Nomadding
 
+![Beijing Hutongs](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/beijing-hutongs.jpg)
+
 * Always be Charging. With your phone as your portal to life (in China WeChat = Life. No WeChat No Life), it's very important to keep it charged up. They sell power banks quite cheap (I recommend Xiaomi though. It's basically the Apple of China, but beware of copycat stores - just see how the staff are dressed, its a big giveaway)
 * Good place to test your websites loading time.
 * If you're an app or web developer, don't use google APIs to build your site. For location, I recommend using foursquare or open street maps. Foursquare is easier to use but some of the datasets can be a bit dodgy (thanks to create venue tool using part of the google api). If you use google analytics, put it to the end of the page rather than the front
