@@ -77,6 +77,13 @@ You'll also find Google Translate very useful for decyphering chinese characters
 
 I think it's relatively a new concept in China, but WeWork has a presence in Beijing and Shanghai.
 
+Unfortunately, even with WeWork's international presence you still need to use a VPN in order to actually do work (especially if you use Google Apps for documents / email /calendar), or Dropbox.
+
+Not sure of any local equivalent for Dropbox. Mega seems to work well, but its slow.
+
+![WeWork 1](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/wework1.jpg)
+![Resized CDN ink](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/wework2.png)
+
 Hopefully theres a branch open in Chengdu (so far it's one of my favorite Chinese cities)
 
 ## Mobile Phone Data
