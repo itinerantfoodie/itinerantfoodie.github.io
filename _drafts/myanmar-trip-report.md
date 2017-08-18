@@ -86,9 +86,11 @@ Entrance fees for foreigners is 8000 kyats (or a little less than 8 USD).
 
 ### Other less notable stuff
 
-For this trip it was mostly sightseeing, however for those who are digital nomads and need a place to work check out the following places:
+I made two trips to Yangon in 2017, the first trip it was mostly to check out Myanmar for the first time. The second trip I decided to slow travel - meaning I would hang out and also check out what locals / expats and remote workers do.
 
-* [**Project Hub Yangon**](www.projecthubyangon.com) - This is Yangon's first official co-working space. There's actually a startup scene in Yangon (complete with a startup weekend event!). And yes, you can also use Grab in Yangon too (Uber to come soon).
+Here are so of my favorite places:
+
+* [**Project Hub Yangon**](www.projecthubyangon.com) - This is Yangon's first official co-working space. There's actually a startup scene in Yangon (complete with a startup weekend event!). And yes, you can also use Grab and Uber in Yangon too.
 * [**CRAFT**](https://foursquare.com/v/craft/5662ca80498e680e9771c743) - This is a cool cafe (located around the same area as the Project Hub coworking space). Serves good european style coffee, and many south east asian dishes. The pricing is a bit closer to the pricing in a developed country, but the wifi is quite good.
 
 ![Craft cafe 1](https://images.itinerantfoodie.com/myanmar-trip-report/resized-IMG_3879.png)
