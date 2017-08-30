@@ -47,6 +47,12 @@ Inside the cabin was also quite well done. And the bathrooms also have similar L
 
 Another cool touch is that you can also set alarms using the inflight system, or set your status so you can skip the catering (not that I'd want to miss out on the awesome business class catering by cathay pacific), or wake you for certain periods.
 
+![Bed](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2338.png)
+![Bed 2](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2339.png)
+
+The bed pretty much deploys the same as other Cathay long haul business flights. I felt that there was a bit more width on the seats, and according to my sleep quality tracker - I slept quite well and arrived in Europe quite refreshed.
+
+
 ## Trip Details
 
 **Flight Details:** Cathay Pacific Flight 379 (Hong Kong to Düsseldorf)
