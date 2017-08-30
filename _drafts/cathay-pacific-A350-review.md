@@ -55,6 +55,8 @@ The bed pretty much deploys the same as other Cathay long haul business flights.
 
 ## Trip Details
 
+![Plane from a distance](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2377.png)
+
 **Flight Details:** Cathay Pacific Flight 379 (Hong Kong to Düsseldorf)
 **Cabin Class:** Business Class
 **Seating** Window
