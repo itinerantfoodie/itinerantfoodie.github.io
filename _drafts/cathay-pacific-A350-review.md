@@ -21,6 +21,7 @@ Cathay Pacific always never failed to deliver with their state of the art in fli
 ## Inflight Entertainment system
 
 ![LED Seatbelt lights](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2301.png)
+
 ![Multi tasking between screens](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2305.png)
 
 The business class system features  two consoles so you can enjoy multitasking between two things (watching a movie, and checking the outside cameras or flight map). Not to mention the LED lighting on the safety displays.
