@@ -26,9 +26,6 @@ Cathay Pacific always never failed to deliver with their state of the art in fli
 
 The business class system features  two consoles so you can enjoy multitasking between two things (watching a movie, and checking the outside cameras or flight map). Not to mention the LED lighting on the safety displays.
 
-![Look outside at HK](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2319.png)
-![Cabin of the A350 Business class](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2317.png)
-
 ![WIFI Instructions](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2320.png)
 
 One of the main differentiators for the A350 is the in flight wifi. There are different plans involved here. It's either a fixed 9.95 USD for an hour (enough to do some instagram / snapchat shots of being on a plane, or send that quick email), or 19 USD for an entire long flight or 12 USD for an entire short flight for those that need to work.
@@ -44,6 +41,9 @@ In addition, you can browse and search through the duty free catalog through the
 The system is basically a modified Android 5 operating system, but the touch screen feels quite responsive (as opposed to most androids).
 
 ## The Cabin
+
+![Look outside at HK](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2319.png)
+![Cabin of the A350 Business class](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2317.png)
 
 The cabin is pretty much the same as the 777-ER, but in terms of fuel efficiency the A350 I guess is similar to other Airbus planes in the Cathay Fleet.
 
@@ -71,5 +71,7 @@ The bed pretty much deploys the same as other Cathay long haul business flights.
 ![Plane from a distance](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2377.png)
 
 **Flight Details:** Cathay Pacific Flight 379 (Hong Kong to Düsseldorf)
+
 **Cabin Class:** Business Class
+
 **Seating** Window
