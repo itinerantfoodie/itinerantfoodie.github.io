@@ -74,3 +74,6 @@ The bed pretty much deploys the same as other Cathay long haul business flights.
 **Cabin Class:** Business Class
 
 **Seating** Window
+
+![Wheels down DUS airport](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2365.png)
+![Düsseldorf post journey](https://images.itinerantfoodie.com/uploads/cathaypacific-a350/IMG_2376.png)
