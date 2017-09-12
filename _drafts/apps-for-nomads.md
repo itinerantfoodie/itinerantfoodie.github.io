@@ -30,6 +30,9 @@ I am subscribed to WeWork as an anywhere member for the connections that it prov
 ![San Francisco](https://images.itinerantfoodie.com/apps-for-nomads/wework-sf.png)
 ![Berlin Sticker](https://images.itinerantfoodie.com/europe-coworking-2016/resized-berlin-weworksticker.png)
 
+![WeWork Beijing](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1945.png)
+![WeWork Shanghai](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/IMG_1944.png)
+
 ### Facebook messenger
 
 Believe it or not, I actually use that for communication with ppl. For the privacy conscious, you can use it without adding the person as a "friend" which is useful too.  
