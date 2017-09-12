@@ -144,4 +144,6 @@ For receiving payments, my preferred method would be to take bitcoin directly. F
 
 I've opted to do Stripe.js and used Amazon Lambda to process the payment. You can try out [this page](https://tips.nolim1t.co/) to have a feel of how I'm using Stripe on AWS Lambda (which means no servers!).
 
-I'm also now an Estonian e-Resident so now eligible to set up a company in Estonia (without setting foot in the country). Although I do want to actually visit.g
+### Managing your company
+
+Managing a company remotely is a challenge, luckily thanks to Estonia's e-Residency program managing a company can be done completely online.
