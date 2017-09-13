@@ -20,7 +20,7 @@ For those who's curious about the process of getting a Thailand issued drivers l
 
 First things first. The Thailand drivers license is recognized in the entire ASEAN region (including Vietnam where an IDP isn't recognized - so for insurance purposes you are still legal because you have a valid license).
 
-The best way to explore South East Asia is on two wheels (so may as well try to have the legal documentation for it) where you get around like a car, however you don't need to worry too much about traffic jams or extremely narrow roads on mountains (much easier to overtake on a bike). 
+The best way to explore South East Asia is on two wheels (so may as well try to have the legal documentation for it) where you get around like a car, however you don't need to worry too much about traffic jams or extremely narrow roads on mountains (much easier to overtake on a bike).
 
 The total cost of obtaining both motorbike and car licenses is about between 500 and 1000 baht (depending on what documentation you are able to produce - so thats a little under 30 euros). Thats cheaper than an IDP, not to mention this lasts for 2 years. And sometimes cheaper than obtaining another licensing category if you're from Europe. In Germany, a motorbike license costs 1500 euros!
 
@@ -37,7 +37,7 @@ Although Thailand is quite laid back in a lot of things - if you want to do it p
 
 Here's what you need.
 
-* Residence certificate from immigration (500 baht plus waiting a day to get it) OR work permit. To obtain a residence certificate you need to show a lease agreement or letter from your landlord (or guesthouse/hotel owner). Hang on to the original, as you can use it to also purchase vehicles in your name too (but be aware it lasts for only 1 month) - also if you'd like to save on ATM fees, you can use this to open up a bank account too.
+* Residence certificate from immigration (500 baht plus waiting a day to get it) OR work permit. To obtain a residence certificate you need to show a lease agreement or letter from your landlord (or guesthouse/hotel owner). Hang on to the original, as you can use it to also purchase vehicles in your name too (but be aware it lasts for only 1 month) - also if you'd like to save on ATM fees, you can use this to open up a bank account too. Note that the residence certificate is the reason why you can't "officially" get the license on a tourist or visa exempt. Once you have this though, it doesn't matter what visa you have as long as its valid. (And yes you can get a residence certificate from some immigration offices with the "500 baht fee that you don't get a receipt for")
 * Medical certificate to prove that you are fit to drive. I got mine from Chang Phueak Hospital for 80 baht.
 * Copy of Passport, last entry stamp, departure card (you can do all those photocopies at the land transport office).
 
@@ -47,7 +47,7 @@ For those who are visiting on visa exempt (despite some sites saying you can't g
 
 If you have any licenses in ENGLISH you may exchange it without having to sit for any tests, although its not hard (just takes a bit longer time - and they only run at certain times a day).
 
-If you are taking a license for a scooter, but only have a car license or can't ride anything about 50 cc - come in the morning.
+If you are taking a license for a scooter, but only have a car license or can't ride anything about 50 cc - come in the morning and **apply for both** (this is important because if you apply for one license you have to sit for the full training in Thai, rather than do the short training which is also available in english).
 
 Also as it's a government building, dress respectfully (just like you would when visiting immigration)
 
