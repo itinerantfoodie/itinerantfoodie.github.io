@@ -25,6 +25,8 @@ My initial Itinerary was:
 
 ## The Actual Epic Trip
 
+[![The Road to Web Summit](https://images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/road-to-web-summit.png)](https://s3.amazonaws.com/incoming.itinerantfoodie.com/uploads/the-road-to-websummit-2017/road-to-web-summit.png)
+
 I decided I wanted to travel by land but regretebly skipped some of the nice Baltic countries and flying to Budapest.
 
 In Budapest, I also made the mistake of staying for just a few nights (next time I'll visit longer!).
