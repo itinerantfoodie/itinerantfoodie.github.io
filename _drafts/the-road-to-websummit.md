@@ -38,12 +38,11 @@ From Budapest, I did all my travels from land. Either daytime buses, or for long
 #### Tallinn, Estonia
 
 ![Tallinn View](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-/road-to-websummit-2017/IMG_2758.png)
+![Viru Gate](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-/road-to-websummit-2017/IMG_2832.png)
 
 I chose Estonia because I had a few meetings to attend, and it seemed like a nice place to hole up in for more than a week (September meant it wasn't terribly cold yet).
 
 The city in general is quite nice. One of my favorite places in Tallinn is "III Drakon" which is a medieval roleplaying pub with candles which make good Ale and Elk soup.
-
-![Viru Gate](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-/road-to-websummit-2017/IMG_2832.png)
 
 #### Budapest, Hungary
 
