@@ -37,11 +37,17 @@ From Budapest, I did all my travels from land. Either daytime buses, or for long
 
 #### Tallinn, Estonia
 
+![Tallinn View](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-/road-to-websummit-2017/IMG_2758.png)
+
 I chose Estonia because I had a few meetings to attend, and it seemed like a nice place to hole up in for more than a week (September meant it wasn't terribly cold yet).
 
 The city in general is quite nice. One of my favorite places in Tallinn is "III Drakon" which is a medieval roleplaying pub with candles which make good Ale and Elk soup.
 
+![Viru Gate](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-/road-to-websummit-2017/IMG_2832.png)
+
 #### Budapest, Hungary
+
+![Chain Bridge](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_2919.png)
 
 Budapest was the first real travel stop. As an afterthought, I felt I could have stayed there longer because the city was amazing (and cheap too).
 
@@ -52,6 +58,8 @@ I wanted to check out the following things:
 * The Chain Bridge
 
 Along the way, I discovered some amazing coffee shops and also happened upon a nice coworking space through the loop.space app.
+
+![Gulash](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_2933.png)
 
 #### Bratislava, Slovakia
 
@@ -69,6 +77,9 @@ Be sure to visit Impact Hub in Brno if you're into tech / startups.
 
 #### Prague, Czech Republic
 
+![Prague Castle](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3212.png)
+![Prague Castle](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3256.png)
+
 My main reasons for visiting Prague was:
 
 * **Paralelni Polis** - Bitcoin (Litecoin coming soon) only coworking space upstairs (Paper Hub), Bitcoin (or Litecoin) only cafe downstairs. I spent a bit of time coworking out of this place because paying digital cash from your phone (without asking the bank for permission) is cool. In this place, I got more into Litecoin being that its a lot cheaper for transactions.
@@ -80,6 +91,8 @@ My highlights of Prague was the developed crypto support, cheap beer, and I love
 
 ####  Berlin, Germany
 
+![Room 77](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3243.png)
+
 I've been to Berlin many times, but my main reasons was to check out the bitcoin meetup at [Room 77](http://www.room77.de/), and ordered some Vietnamese food at [Mama's Bahn](https://www.facebook.com/mamasbanh/) and paid with bitcoin.
 
 There's a few other bitcoin businesses in Berlin but haven't had a chance to check it out.
@@ -88,11 +101,19 @@ Thanks to the loop.space app again I was able to visit rent24 coworking space. I
 
 #### Paris, France
 
+![WeWork 1](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3339.png)
+![WeWork 2](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3335.png)
+
 Paris for me was mostly just to do some cliche things with friends (Eifel Tower picnic anyone?), and mainly to visit the Palace of Versailles which I have never had the chance to visit despite going many times and living there for 6 months.
 
 I probably would have used it as a passthrough city and spent more time in Spain.
 
+![Eifell](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3433.png)
+![Versailles](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3418.png)
+
 #### Barcelona, Spain
+
+![Sagrada 1](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3564.png)
 
 Barcelona was a bit of a continuation of Paris (checking out stuff I haven't seen), as well as showing a friend around the city.
 
@@ -100,19 +121,33 @@ Plus visiting one of the javascript meetups which happened to be on, and reconne
 
 In Barcelona I've discovered that there was an hourly type [coworking space](https://foursquare.com/v/coco-coffice-coworking-caf%C3%A9/578a5373498ebb9e0403c7f2) which you can use (converts to a day pass after a few hours).
 
+![Park Guel](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3578.png)
+
 #### Alicante, Spain
+
+![Castle Santa Barbara](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3667.png)
+![Sunset](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3670.png)
 
 Alicante for me was a passthrough city. Aside from the beach and castle on the top of the hill, theres not too much there.
 
 But nevertheless still an awesome place to stop through.
 
+![City View 1](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3684.png)
+![City View 2](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3692.png)
+
 #### Seville, Spain
+
+![Plaza Espana](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3771.png)
+![Parasol](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3855.png)
 
 Seville was absolutely amazing. In fact I should have traded in one of my days in Alicante for Seville as this city has a cool vibe (and very pretty).
 
 Not to mention I found a coworking space called "[Grow Working](https://www.facebook.com/Grow-Working-1832869860365710/)" right in the old town too with similar prices / plans to Barcelona. They also appear to have a branch in [Malaga](https://www.facebook.com/growworking/) right by the beach so I think its something to make note of next time.
 
 #### Porto, Portugal
+
+![Porto Bridge](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3881.png)
+![Bridge from Below](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3929.png)
 
 Porto is the last stop for trip. Mainly to rest for 2 weeks and prepare for web summit. Couldn't have picked a better city for it too.
 
