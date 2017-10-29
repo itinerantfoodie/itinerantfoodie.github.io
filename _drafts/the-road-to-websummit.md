@@ -105,6 +105,8 @@ Thanks to the loop.space app again I was able to visit rent24 coworking space. I
 
 Paris for me was mostly just to do some cliche things with friends (Eifel Tower picnic anyone?), and mainly to visit the Palace of Versailles which I have never had the chance to visit despite going many times and living there for 6 months.
 
+![Eifel Picnic](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3435.png)
+
 I probably would have used it as a passthrough city and spent more time in Spain.
 
 ![Eifell](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3433.png)
@@ -149,6 +151,9 @@ Not to mention I found a coworking space called "[Grow Working](https://www.face
 ![Bridge from Below](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3929.png)
 
 Porto is the last stop for trip. Mainly to rest for 2 weeks and prepare for web summit. Couldn't have picked a better city for it too.
+
+![Porto Town](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3915.png)
+![Porto Town 2](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3920.png)
 
 #### End game: Lisbon
 
