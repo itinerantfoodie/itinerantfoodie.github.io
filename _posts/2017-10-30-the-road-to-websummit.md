@@ -123,6 +123,7 @@ Plus visiting one of the javascript meetups which happened to be on, and reconne
 In Barcelona I've discovered that there was an hourly type [coworking space](https://foursquare.com/v/coco-coffice-coworking-caf%C3%A9/578a5373498ebb9e0403c7f2) which you can use (converts to a day pass after a few hours).
 
 ![Park Guel](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3578.png)
+![Flamenco](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3620.png)
 
 #### Alicante, Spain
 
@@ -164,6 +165,10 @@ A recommended place to check out is [Porto Cruz](https://foursquare.com/v/porto-
 
 ![Port Wine 1](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_1381.jpg)
 ![Porto Cruz view](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3958.png)
+
+But Porto also has coworking spaces (as of this writing there are 3 of them). My favorite one is the one by the river as its close to the town.
+
+![Porto I/O Riverside](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_1405.jpg)
 
 #### End game: Lisbon
 
