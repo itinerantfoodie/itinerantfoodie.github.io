@@ -156,6 +156,9 @@ Porto is the last stop for trip. Mainly to rest for 2 weeks and prepare for web 
 ![Porto Town](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3915.png)
 ![Porto Town 2](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3920.png)
 
+![Porto Town 3](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3927.png)
+![Porto Town 4](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_1355.png)
+
 If you love your port wine (or have a sweet tooth for sweet drinks), its highly recommended that you check this place out.
 
 ![Port Wine Barrels](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_1368.jpg)
