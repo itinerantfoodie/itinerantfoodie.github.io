@@ -20,6 +20,10 @@ var LastSeenComponent = React.createClass({
         setLocation({
           "where": {
               "code": "XX",
+              "geo": {
+                "lat": 0,
+                "lng": 0
+              }
           }
         });
       }
@@ -47,10 +51,13 @@ var LastSeenComponent = React.createClass({
         }
       }
       var timestamp = location.where.lastseen_timestamp;
-
-      this.setState({
+      var stateToSet = {
         data: location_string
-      });
+      }
+      if (location.where.geo !== undefined) {
+        stateToSet['geoURL'] = "//www.google.com/maps/@" + location.where.geo.lat.toString() + "," + location.where.geo.lng.toString() + ",11z";
+      }
+      this.setState(stateToSet);
     } else {
       this.setState({
         data: "Error fetching location"
@@ -58,11 +65,19 @@ var LastSeenComponent = React.createClass({
     }
   },
   render: function() {
-    return (
-      <p>
-        <i className="fa fa-location-arrow"></i> Last Seen: {this.state.data}
-      </p>
-    );
+    if (this.state['geoURL'] !== undefined) {
+      return (
+        <p>
+          <i className="fa fa-location-arrow"></i> Last Seen: <a href={this.state['geoURL']} target='newwin'>{this.state.data}</a>
+        </p>
+      );
+    } else {
+      return (
+        <p>
+          <i className="fa fa-location-arrow"></i> Last Seen: {this.state.data}
+        </p>
+      );
+    }
   }
 });
 
