@@ -1,5 +1,7 @@
 # Itinerant Foodie V2
-[![Build Status](https://travis-ci.org/itinerantfoodie/itinerantfoodie.static.svg?branch=master)](https://travis-ci.org/itinerantfoodie/itinerantfoodie.static)
+[![ Travis Build Status](https://travis-ci.org/itinerantfoodie/itinerantfoodie.static.svg?branch=master)](https://travis-ci.org/itinerantfoodie/itinerantfoodie.static)
+
+[![GitLab Pipeline Status](https://gitlab.com/itinerantfoodie/website/badges/master/pipeline.svg)](https://gitlab.com/itinerantfoodie/website/commits/master)
 
 ## About
 This is a modified fork of my tech blog.
