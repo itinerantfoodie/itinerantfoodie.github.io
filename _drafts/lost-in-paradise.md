@@ -35,9 +35,15 @@ Fast forward a little under a year later, after returning from a North American 
 
 From the first week I landed, decided to do some apartment hunting and chose an amazing apartment building which a friend recommended me. Was within my budget for a place so it was a big yes because it was twice the size of my living space in causeway bay, plus less than 2000 Hong Kong Dollars.
 
+![Swimming pool](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/5C941E72-105C-4BC2-8CBB-94FBD9EF4129.jpeg)
+
+
 I then experienced my first Songkran (Buddhist New Year) in Chiang Mai (2017) and enjoyed it so much that  I did it a second time in 2018. I think the attraction is having a free pass to splash most people with water buckets or squirt someone with a super soaker for 3 days was fun. But also very cooling too.
 
-Anyway fast forward to today, I’ve explored a lot of Northern Thailand and some of the Islands too.
+Anyway fast forward to today, I’ve explored a lot of Northern Thailand (waterfalls, hotsprings, temples, and just general nature) and some of the Islands too.
+
+![Hot springs and eggs](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/67D7B323-77E7-40F5-B903-ADD694D57C5F.jpeg)
+![iddylic villiages](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/C6EED5E0-66C1-4DDC-A0B8-3277273ED240.jpeg)
 
 ## Mae Hong Son Loop
 
@@ -55,11 +61,16 @@ The attraction for Pai is basically nature, unlicensed scooter rides (most backp
 
 ### Mae Hong Son
 
+![From The Like View](https://images.itinerantfoodie.com/uploads/digital-nomadding-china/maehongson.jpg)
+![The Like View](https://images.itinerantfoodie.com/uploads/mae-hong-son-loop/maehongsonnight.jpg)
+
 Mae Hong Son on the other hand is a very local version of Pai. Only locals (and the occasional foreigner doing the loop) can be seen here.
 
 It's all about the Nature or taking trips up to Ban Raak Thai.
 
 ## Golden Triangle
+
+![Golden triangle](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/86550D6E-A994-42A1-A35B-CA496CE95CBF.jpeg)
 
 The Golden Triangle is the area to the far north - boarding Laos and Myanmar.
 
@@ -84,6 +95,8 @@ Koh Tao is the little sister island of Koh Phangan (it's actually part of the sa
 
 The island is famous for its crystal clear waters, nature, viewpoints, and because of the clear waters it offers the best snorkeling and scuba diving in the world.
 
+![Sairee Beach](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/8E1FDD9A-094E-4B35-B987-6E33E52C79BB.jpeg)
+
 There's many scuba dive resorts on this island offering the open water (or more advanced) courses because of the almost perfect conditions.
 
 This place is also considered one of the cheapest places to get an open water license (I recommend [Assava Dive Resort](http://www.assavadiveresort.com/) which is partnered with [Ban's Dive Resort](http://www.bansdivingresort.com/)).
@@ -103,12 +116,16 @@ This is what the big attraction with Koh Phangan is. In fact probably where most
 
 But it's still not too expensive for a backpacker. Guaranteed to have a good time. Just remember to pace yourself (It's not a race!) and see the amazing sunrise at the end.
 
+See ![this video](https://youtu.be/UPcRmfORw_E) for a taste of what's in the full moon party.
+
 ![Welcome to Haad Rin](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/C7F449DB-B0DD-4FED-863D-13FAFD613201.jpeg)
 
 ![Full Moon Party](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/EA535CE2-1EA5-4D4B-A408-FC5FEC35A1BF.jpeg)
 ![Full Moon Party 2](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/30892819-8F9C-4F7E-B936-714BB75F9581.jpeg)
 
-## Thai Life
+## Chiang Mai Life
+
+![Lanterns in CNx](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/9E015812-5CBF-49B3-B046-79A94B65CE5F.jpeg)
 
 In the last year, I’ve even learnt a bit of the Thai language and reached conversational level. Which is a handy skill to know, when listening to what other people are talking about, chatting to locals (they are impressed when a foreigner starts speaking their language), scooter rental companies don't try to scam you as long as you look after their stuff, reading menus and just socializing in another language too (ability to attend events).
 
