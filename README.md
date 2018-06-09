@@ -25,7 +25,7 @@ bundle exec jekyll serve
 
 ## Deploying (Deprecated)
 
-Right now deployments are done simply by doing a git push to github (It's that easy).
+Right now deployments are done simply by doing a git push to [GitLab](https://gitlab.com/itinerantfoodie/website) or [Github](https://github.com/itinerantfoodie/itinerantfoodie.static) (It's that easy).
 
 ### Step 1
 ```bash
