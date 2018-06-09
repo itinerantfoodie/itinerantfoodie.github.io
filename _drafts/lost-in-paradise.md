@@ -33,12 +33,18 @@ Fast forward a little under a year later, after returning from a North American 
 ![Bye Hong Kong](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/66A90AEC-67C0-453F-B5FD-6FFFE8937B77.jpeg)
 ![Hello tropical jungles](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/62581FF8-AB4E-43C2-BCA1-71FA5F222FE1.jpeg)
 
+![Looking down](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/F2D2FFB9-5506-489E-B05F-89BFA35B65CC.jpeg)
+![Looking at store ](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/3BFC7227-B491-4848-A4CE-FD23E0391049.jpeg)
+
 From the first week I landed, decided to do some apartment hunting and chose an amazing apartment building which a friend recommended me. Was within my budget for a place so it was a big yes because it was twice the size of my living space in causeway bay, plus less than 2000 Hong Kong Dollars.
 
 ![Swimming pool](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/5C941E72-105C-4BC2-8CBB-94FBD9EF4129.jpeg)
-
+![View](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/49CF5116-B507-4967-95F8-456E867063CC.jpeg)
 
 I then experienced my first Songkran (Buddhist New Year) in Chiang Mai (2017) and enjoyed it so much that  I did it a second time in 2018. I think the attraction is having a free pass to splash most people with water buckets or squirt someone with a super soaker for 3 days was fun. But also very cooling too.
+
+![Kad Suan Kaew](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/FE7F7B3D-1658-416E-94DE-596BD3FA0367.jpeg)
+![Lor kroi rd](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/D1D98970-D025-4330-B3D7-E0E2786BDBE5.jpeg)
 
 Anyway fast forward to today, I’ve explored a lot of Northern Thailand (waterfalls, hotsprings, temples, and just general nature) and some of the Islands too.
 
@@ -57,6 +63,8 @@ Anyway fast forward to today, I’ve explored a lot of Northern Thailand (waterf
 
 Pai used to be a sleepy town, but now its a backpacker place (and also town full of Chinese tourists whom Thailand and every other country is trying to attact).
 
+![Pai Canyon](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/4F1133A6-2E94-4B56-922C-526F3666B0C3.jpeg)
+
 The attraction for Pai is basically nature, unlicensed scooter rides (most backpackers learn and sometimes crash in Pai), and drugs. A bad mix but whatever.
 
 ### Mae Hong Son
@@ -68,13 +76,18 @@ Mae Hong Son on the other hand is a very local version of Pai. Only locals (and 
 
 It's all about the Nature or taking trips up to Ban Raak Thai.
 
+![Baan Rak Thai](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/182FC667-6B1C-4B12-BE5B-FAC2F667A10C.jpeg)
+![Baan Rak Thai 2](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/3F6B924F-E2B1-4A3C-9053-5A12137B9D71.jpeg)
+
 ## Golden Triangle
 
 ![Golden triangle](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/86550D6E-A994-42A1-A35B-CA496CE95CBF.jpeg)
 
 The Golden Triangle is the area to the far north - boarding Laos and Myanmar.
 
-From there it used to be a passageway for drugs (and probably still is). Myanmar bordertown nowadays is a popular for people doing "border bounces" to reset their visa or shopping at the market.\.
+From there it used to be a passageway for drugs (and probably still is). Myanmar bordertown nowadays is a popular for people doing "border bounces" to reset their visa or shopping at the market.
+
+![Myanmar markets](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/3E27FA6F-E1A5-48BA-AA80-613B3856E5E8.jpeg)
 
 ## Island Life
 
@@ -96,6 +109,13 @@ Koh Tao is the little sister island of Koh Phangan (it's actually part of the sa
 The island is famous for its crystal clear waters, nature, viewpoints, and because of the clear waters it offers the best snorkeling and scuba diving in the world.
 
 ![Sairee Beach](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/8E1FDD9A-094E-4B35-B987-6E33E52C79BB.jpeg)
+![Beach sunset two boats](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/6EFE1A38-01E8-4674-85E5-4C72F31F15A2.jpeg)
+
+![Mango Viewpoint](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/20E458B3-C00F-497A-89DA-4BD6765404E2.jpeg)
+![Mango Viewpoint 2](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/8B412C1A-CFF4-49A4-BAC9-151CD84AF616.jpeg)
+
+![Mango View point 3](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/0AEC9089-5A96-4707-95DD-F72E7A816EFA.jpeg)
+![Mango View point 4](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/867C871B-DA01-4592-8FE0-011558213831.jpeg)
 
 There's many scuba dive resorts on this island offering the open water (or more advanced) courses because of the almost perfect conditions.
 
@@ -112,9 +132,15 @@ Not to mention the parties that happen every 1-2 weeks (half moon / back moon / 
 
 #### Full Moon party
 
+![Fire signage](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/B9A9D20F-C79B-4BD4-A301-B675952FF08D.jpeg)
+
 This is what the big attraction with Koh Phangan is. In fact probably where most of the money is made as the going price for a hostel dorm is similar price to Northern European countries.
 
 But it's still not too expensive for a backpacker. Guaranteed to have a good time. Just remember to pace yourself (It's not a race!) and see the amazing sunrise at the end.
+
+![Party till sunrise](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/E044A9CC-26E3-4D67-9BD3-DB5A2A4D4FDF.jpeg)
+![party till sunrise - saw dinosaur costume](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/79A9B414-7970-44A6-9B79-8032E9EBE014.jpeg)
+
 
 See ![this video](https://youtu.be/UPcRmfORw_E) for a taste of what's in the full moon party.
 
