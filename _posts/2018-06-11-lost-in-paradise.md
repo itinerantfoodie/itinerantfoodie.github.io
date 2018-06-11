@@ -12,7 +12,7 @@ tags:
 
 ![Lost in Paradise](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/4992394A-13AC-4190-A890-C4340B138FAF.jpeg)
 
-It’s been a while, but I’ve been chilling out in the jungles and beaches of South East Asia.
+It’s been a while (6+ months), but I’ve been chilling out in the jungles and beaches of South East Asia.
 
 ![Jungles and Temples](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/7AAE916D-9617-454B-81B5-FC90FFCA8510.jpeg)
 ![Beachlife ](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/E2F39C1B-9986-4642-BB94-CD4ED64FB693.jpeg)
