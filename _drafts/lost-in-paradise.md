@@ -151,13 +151,19 @@ See ![this video](https://youtu.be/UPcRmfORw_E) for a taste of what's in the ful
 
 ## Chiang Mai Life
 
-![Lanterns in CNx](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/9E015812-5CBF-49B3-B046-79A94B65CE5F.jpeg)
+![Lanterns in CNX](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/9E015812-5CBF-49B3-B046-79A94B65CE5F.jpeg)
 
 In the last year, I’ve even learnt a bit of the Thai language and reached conversational level. Which is a handy skill to know, when listening to what other people are talking about, chatting to locals (they are impressed when a foreigner starts speaking their language), scooter rental companies don't try to scam you as long as you look after their stuff, reading menus and just socializing in another language too (ability to attend events).
+
+Also will be wanting to do a Thai cooking class soon and learn to make this delicious dish as found in this picture.
+
+![Khao Soy](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/1C3C4DFF-8940-4AA8-96A3-2F1B125B54D8.jpeg)
 
 Regarding other professional stuff - I’ve taken a back seat with both this site (as you can see) as well as working on new projects while just letting my amazing team do most of the work because in Thailand money isn't such a big deal.
 
 Right now I’m moving over projects that I’m still maintaining over to gitlab because of the Microsoft acquisition. I know I trust Microsoft, but they do have a history of screwing up what they touch (look at Skype for instance).
+
+![Nomad Summit Pool party](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/0CC21E2B-8DB6-4ACE-BB8E-A96A7B171912.jpeg)
 
 ### Future Plans
 
