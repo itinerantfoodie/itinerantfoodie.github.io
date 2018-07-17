@@ -20,8 +20,22 @@ layout: default
         <time class="published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
       </div>
       <div class="meta">
-        <div class="changetip_tipme_button" data-bid="59ef1b72-45ba-411b-9e8f-fff52cef21b7" data-uid="LwsnHF6p2ZPjNRSa98BDQS"></div><script>(function(document,script,id){var js,r=document.getElementsByTagName(script)[0],protocol=/^http:/.test(document.location)?'http':'https';if(!document.getElementById(id)){js=document.createElement(script);js.id=id;js.src=protocol+'://widgets.changetip.com/public/js/widgets.js';r.parentNode.insertBefore(js,r)}}(document,'script','changetip_w_0'));</script>
-        Don't have changetip? Try <a href="https://tips.nolim1t.co">this service</a> which lets you tip by credit card!
+        <a name="lnnetwork"></a>
+        Like this post? Send us some <strong><a href="https://tips.nolim1t.co">kudos using this service</a></strong> which lets you tip by either crypto or credit card! Or alternatively  <strong><a onclick="toggleLNPay();  ">Pay with lightning ⚡️</a></strong> (what is <a href="http://lightning.network/" target="lninfo">lightning ⚡️</a>?)
+        <div id="lnpay" style="visibility: hidden; ">
+          <div id="lnapp">
+            <input id="amountinput" v-model="amount" placeholder="Tip USD amount" />
+            <div id="buttons">
+              <button id="like-button" onClick='document.getElementById("amountinput").value = "0.15"; '>👍</button>
+              <button id="coffee-button" onClick='document.getElementById("amountinput").value = "3.50"; '>☕️ 🍺</button>
+              <button id="love-button" onClick='document.getElementById("amountinput").value = "5"; '>❤️</button>
+              <input id="descriptionform" type="hidden" value="Tip for post '{{ page.title }}'" />
+            </div>
+            <button id="submitbutton" v-on:click="generateInvoice">Send tip using ⚡️ lightning or another crypto</button>
+            <div id="result">
+            </div>
+          </div>
+        </div>
       </div>
   </article>
   <div id="disqus_thread"></div>
