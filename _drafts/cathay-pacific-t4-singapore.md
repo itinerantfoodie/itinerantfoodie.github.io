@@ -66,6 +66,10 @@ Would have loved to try the hainanese chicken rice but the food coma got to me, 
 
 But I hope to get a chance to come here again because I <3 Singapore food.
 
+Like all other cathay pacific lounges, the noodle bar features a solo counter area or seating area.
+
+![Noodle Bar 2](https://images.itinerantfoodie.com/uploads/singapore-t4-cathay-pacific-lounge/GOPR1019.png)
+
 ## Desserts
 
 ![Desserts 1](https://images.itinerantfoodie.com/uploads/singapore-t4-cathay-pacific-lounge/IMG_1855.HEIC)
@@ -83,6 +87,12 @@ The noodle bar isn't always open (usually very early mornings, or very late at n
 Theres a selection of both asian and western food - as well as a salad bar.
 
 Also Coffee / Tea can be made here. The tea is from JING which is also found in Hong Kong. If you manage to make youself to Hong Kong, go do yourself a favor and visit [the Pier](https://itinerantfoodie.com/post/travel/2016-09-05/cathay-pacific-the-pier-business.html). It's actually quite a hit nowadays though, so if you want piece and quiet go to [the deck](https://itinerantfoodie.com/post/travel/2018-07-17/cathay-pacific-lounge-the-deck.html) instead.
+
+### Dining Area
+
+In the self service buffet area there is also room for dining. Some for socializing if you must or some individual stations where you can plug in your device for either catching up with work or social media.
+
+![Dining Area](https://images.itinerantfoodie.com/uploads/singapore-t4-cathay-pacific-lounge/GOPR1017.png)
 
 ## Lounge / Terrace Area
 
@@ -102,6 +112,12 @@ Particularly the power ports and USB charging ports which are hidden in the desi
 
 And last but not least, a collection of Solo chairs which is a super comfortable workstation to work on. Designed for the tablet style computers.
 
+![Plenty of space](https://images.itinerantfoodie.com/uploads/singapore-t4-cathay-pacific-lounge/GOPR1013.png)
+
+### Overlooking the airport below
+
+![Look at the airport below 1](https://images.itinerantfoodie.com/uploads/singapore-t4-cathay-pacific-lounge/GOPR1018.png)
+![Look at the airport below 2](https://images.itinerantfoodie.com/uploads/singapore-t4-cathay-pacific-lounge/GOPR1014.png)
 
 ## The Bureau
 
