@@ -11,7 +11,7 @@ tags:
   - Burma
 ---
 
-I covered Myanmar in multiple trips.
+I covered Myanmar in multiple trips. I've had this drafted for more than a year now but thought it would be a good time to post this hidden gem of a country.
 
 ## Yangon ရန်ကုန်
 
