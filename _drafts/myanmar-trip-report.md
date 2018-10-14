@@ -11,11 +11,11 @@ tags:
   - Burma
 ---
 
-I covered Myanmar in two different trips, at the beginning of the year and also in April.
+I covered Myanmar in multiple trips.
 
 ## Yangon ရန်ကုန်
 
-While the city didn't offer too much in terms of tourism, due to population it does have a good amount of expats (and also usergroup meetups, and co-working spaces). Also the prices for food is quite reasonable (1000 kyats or less than 1 USD for a meal at a restaurant).
+While the city didn't offer too much in terms of tourism, due to population it does have a good amount of expats (and also usergroup meetups, and co-working spaces). Usually most people come to this city to work (or play due to some of the bars). This place is the place to be if you are after events as well. Also the prices for food is quite reasonable (1000 kyats or less than 1 USD for a meal at a restaurant).
 
 My main highlights are as follows.
 
