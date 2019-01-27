@@ -24,14 +24,19 @@ layout: default
         Like this post? Send us a little tip with <strong><a onclick="toggleLNPay();  ">crypto or lightning ⚡️</a></strong> (what is <a href="http://lightning.network/" target="lninfo">lightning ⚡️</a>?)
         <div id="lnpay" style="visibility: hidden; ">
           <div id="lnapp">
-            <input id="amountinput" v-model="amount" placeholder="Tip USD amount" />
+            <input id="amountinput" v-model="amount" placeholder="Tip USD amount"  style="visibility: hidden; " />
+            <input id="fiatcode" name="fiatcode" placeholder="Currency" value="USD" style="visibility: hidden; " />
+            <p>
+              Press a button which applies. micro (1 cent) / small (3 bucks) / generous (10 bucks)/ baller (25 bucks)
+            </p>
             <div id="buttons">
-              <button id="like-button" onClick='document.getElementById("amountinput").value = "0.15"; '>👍</button>
-              <button id="coffee-button" onClick='document.getElementById("amountinput").value = "3.50"; '>☕️ 🍺</button>
-              <button id="love-button" onClick='document.getElementById("amountinput").value = "5"; '>❤️</button>
+              <button id="like-button" v-on:click='document.getElementById("amountinput").value = "0.01"; lnapp.generateInvoice();'>👍</button>
+              <button id="coffee-button" onClick='document.getElementById("amountinput").value = "3.50"; lnapp.generateInvoice();'>☕️ </button>
+              <button id="beer-button" onClick='document.getElementById("amountinput").value = "10"; lnapp.generateInvoice();'>🍺</button>
+              <button id="love-button" onClick='document.getElementById("amountinput").value = "25"; lnapp.generateInvoice();'>🥩</button>
               <input id="descriptionform" type="hidden" value="Tip for post '{{ page.title }}'" />
             </div>
-            <button id="submitbutton" v-on:click="generateInvoice">Send tip using ⚡️ lightning or another crypto</button>
+            <button id="submitbutton" v-on:click="generateInvoice" style="visibility: hidden; ">Send tip using ⚡️ lightning or another crypto</button>
             <div id="result">
             </div>
           </div>
