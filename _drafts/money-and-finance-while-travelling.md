@@ -41,7 +41,7 @@ The countries where this method works is:
 
 ## So how does one get bitcoin?
 
-The best way to acquire bitcoin is by looking up sellers on [HODLHODL](https://hodlhodl.com) and then transfering your cash to them. The site is quite safe with a rating and escrow system. You may also try to use [BISQ](https://bisq.network/) too.
+The best way to acquire bitcoin is by looking up sellers on [HODLHODL](https://hodlhodl.com/join/LTZA) and then transfering your cash to them. The site is quite safe with a rating and escrow system. You may also try to use [BISQ](https://bisq.network/) too.
 
 Another way is to find exchanges in your country too, and sign up for them. But opening an account at an exchange will be similar or worst than opening a bank account in terms of documentation and paperwork.
 
