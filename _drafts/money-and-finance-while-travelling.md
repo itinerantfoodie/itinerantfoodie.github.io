@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Money and Finance while travelling" 
+title: "Money and Finance while travelling"
 categories:
   - digitalnomad
 tags:
@@ -51,7 +51,7 @@ One of my other go-to cards I love using is Revolut. A nifty feature I like is y
 
 Another method is to try with a local bank account. For Europe, a nice card to use is N26. All you need is a Europe phone number (which you can change later to anything), a passport, and an address in Europe to ship to (your Airbnb will work). N26 gives you a full featured IBAN account and support is quite helpful too.
 
-For South East Asia, Bangkok Bank and Kasikorn bank is quite friendly for foreigners (even tourists to open). If you want the best chances, go to the Head office to do so. The requirements to open an account is clearly listed on their website. Or if you have a friend who works at the bank, the requirements doesn't even matter. Instant approval.
+For South East Asia, Bangkok Bank and Kasikorn bank is quite friendly for foreigners (even tourists to open). If you want the best chances, go to the Head office in Bangkok to do so. The requirements to open an account is clearly listed on their website. Or if you have a friend who works at the bank, the requirements doesn't even matter.
 
 For Thailand and Myanmar in general, you can actually make use of [everex](https://everex.cash/#/invite/HcUnSXm) which allows for cash pickups or deliveries. This assumes you have a US or EUR bank account though.
 
@@ -60,5 +60,3 @@ For Thailand and Myanmar in general, you can actually make use of [everex](https
 For the best chances, I recommend that every traveller has a small stash of bitcoin to use in an emergency which is less tempting than having a small stash of cash (you should have both!).
 
 It can save your ass when you're stuck with no working ATM card or cash and you don't have to resort to begpacking.
-
-
