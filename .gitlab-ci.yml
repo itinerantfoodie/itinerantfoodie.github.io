@@ -6,6 +6,15 @@ before_script:
     - apt-get -qq install -y tor netcat-openbsd openssh-server openssh-client
     - /etc/init.d/tor start
     - mkdir -p ~/.ssh && touch ~/.ssh/config
+    - echo "$PRIVATE_KEY" > ~/.ssh/deploy_key
+    - touch ~/.ssh/known_hosts
+    - echo "Assigning permissions to SSH stuff" && chmod 600 ~/.ssh/known_hosts && chmod 600 ~/.ssh/deploy_key
+    - echo "Unset DISPLAY and SSH_ASKPASS variable" && unset DISPLAY && unset SSH_ASKPASS
+    - echo "StrictHostKeyChecking=no" >> ~/.ssh/config
+    - echo "Host *.onion" >> ~/.ssh/config
+    - echo "    ProxyCommand /usr/bin/nc -x localhost:9050 %h %p" >> ~/.ssh/config
+    - eval $(ssh-agent)
+    - echo "Add deploy key to keychain" && ssh-add ~/.ssh/deploy_key
     - gem install bundler
     - wget "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip"
     - unzip awscli-bundle.zip
