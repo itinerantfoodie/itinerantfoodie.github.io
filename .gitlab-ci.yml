@@ -28,6 +28,6 @@ deploy:
   script:
   - "bundle install"
   - "rake"
-  - echo "Deploying to http://itinzvrq4nfgard62w7dbcxuhal33c7m5zvsrqwxynkpahkertuy5sad.onion/" && cd _site && scp -o "ProxyCommand nc -x localhost:9050 %h %p" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" -r * lncm@nlcnxuehxfppi5y4.onion:/www-itiner
+  - echo "Deploying to http://itinzvrq4nfgard62w7dbcxuhal33c7m5zvsrqwxynkpahkertuy5sad.onion/" && cd _site && scp -o "ProxyCommand nc -x localhost:9050 %h %p" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" -r * deploy@2ma67qeyulhuw4xl.onion:/www-itiner
 
 
